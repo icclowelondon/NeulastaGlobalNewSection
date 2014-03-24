@@ -28,3 +28,18 @@
 @import url("code/css/info_pages.css");
 @import url("code/css/rdi_calculator_page.css");
 @import url("code/css/lipeg_section.css");
+
+/* New Section - Short Call */
+
+@import url("code/css/sc_page01.css");
+@import url("code/css/sc_page02.css");
+@import url("code/css/sc_page03.css");
+@import url("code/css/sc_page04.css");
+@import url("code/css/sc_page05.css");
+@import url("code/css/sc_page06.css");
+@import url("code/css/sc_page07.css");
+
+@import url("code/css/sc_popup_01.css");
+@import url("code/css/sc_popup_04_01.css");
+@import url("code/css/sc_popup_04_02.css");
+@import url("code/css/sc_popup_05.css");

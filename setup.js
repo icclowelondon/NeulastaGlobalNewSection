@@ -47,6 +47,16 @@
 		Almenar2009P:				['almenar_2009_p'],
 		Leonard2009P:				['leonard_2009_p'],
 		Kuderer2007P:				['kuderer_2007_p'],
+
+        // New Section - Short Call
+        ShortCall:				['sc_page01', 'sc_page02', 'sc_page03', 'sc_page04', 'sc_page05', 'sc_page06', 'sc_page07'],
+        ShortCallPopUp01: ['sc_popup_01'],
+        ShortCallPopUp04_01: ['sc_popup_04_01'],
+        ShortCallPopUp04_02: ['sc_popup_04_02'],
+        ShortCallPopUp05: ['sc_popup_05'],
+
+        // Dev tool
+        devSection:['sc_page01']
     }
   });
   
@@ -67,7 +77,11 @@
   });*/
   
   // Initialize presentation
-  app.init('SplashPage');
+  //app.init('SplashPage');
+
+  // Dev Visualisation Tool
+  app.init('devSection');
+
   
 })(window);
 
