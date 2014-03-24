@@ -1,0 +1,353 @@
+h1{
+    font-size:25px;
+	font-weight:normal;
+    color:#000;
+	text-align:center;
+    max-width: 900px;
+    margin: 75px auto 10px auto;
+}
+h1 span {
+    font-size: 18px; 
+    position: relative; 
+    top: -10px;
+}
+h2{
+    font-size: 20px;
+    color: #58595b;
+}
+h3 {
+    color: #58595B;
+    font-size: 20px;
+}
+ul {
+    list-style:none;
+}
+
+footer {
+    font-size: 11px;
+    position: absolute;
+    left: 50px;
+    background: none;
+    height: auto;
+    width: auto;
+    float: none;
+    text-align: left;
+    padding: 0px;
+    z-index: 1;
+    bottom: 90px;
+    width:930px;
+    color: #666;
+}
+
+.red_subtitle {
+    font-family: 'FrutigerLTStd45LightBold';
+    width:90%;
+    text-align: center;
+    letter-spacing: 0px !important;
+}
+.red_subtitle2 {
+    font-family: 'FrutigerLTStd45LightBold';
+    width:90%;
+    font-weight: normal;
+    font-size: 18px !important; 
+ 
+}
+.larger_title {
+    font-size: 23px !important;
+}
+
+#cooper_2011_p_header {
+    width:700px !important;
+    margin-top: 10px !important;
+}
+
+#aarts_2010_p_subheader p{
+    color: blue !important;
+}
+
+sup {
+    font-size: 50%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+    top: -0.7em;
+}
+    
+.arrow-left {
+    background: url("../../content/img/h2-arrow.png") no-repeat 0px 3px; 
+    padding-left: 33px;
+}
+
+.vertical{
+    -webkit-transform: rotate(-90deg);
+}
+
+
+@media all and (orientation:portrait) {
+    h1 {
+        margin-top: 56px;
+        margin-left: 46px;
+        margin-bottom: 10px;
+    }
+    h3 {
+        text-align: center;
+        left: 190px;
+    }
+    footer {
+        width:700px;
+    }
+}
+@media all and (orientation:landscape) {
+    h1 {
+        margin-top: 15px;
+        margin-left: 75px;
+        margin-bottom: 7px;
+    }
+}
+
+/* New Additions */
+.nav_active {
+	color:#396ab2;
+}
+
+.main_content_style {
+	position:relative;
+	border-radius: 10px;
+	background-color:#FFF;
+	-webkit-box-shadow: -2px 2px 7px #888;
+   box-shadow: -2px 2px 7px #888;
+}
+
+.main_content_style p {
+	width:80%;
+	margin:20px;
+}
+
+.lightbox_holder {
+	width:1024px;
+	height:768px;
+	background: rgba(0, 0, 0, 0.5);
+	position:absolute;
+	top:0px;
+	left:0;
+	z-index:7;
+}
+
+#reference_data {
+	width:840px;
+	height:auto;
+	position:absolute;
+	top:70px;
+	left:110px;
+	z-index:8;
+	padding:0;
+	margin:0;
+}
+
+#large_graph {
+    width:840px;
+    position:absolute;
+    top:70px;
+    left:110px;
+    z-index:8;
+    padding:0;
+    margin:0;
+}
+
+#reference_data .main_content_style {
+	-webkit-transform: scale(1) !important; 
+	z-index:9;
+}
+
+#reference_data .main_content_style p {
+	margin:0px 0 0 50px;
+	padding:50px 0 10px 0;
+}
+
+#reference_data .main_content_style p:last-child {
+	padding:50px 0 50px 0 !important;
+
+}
+#Lyman_reference_align_fix {
+    width: 900px !important;
+}
+
+#reference_data ol {
+	position:relative;
+	left:70px;
+	padding:0 0 50px 0;
+	margin:0;
+    width: 750px;
+}
+
+#reference_data li {
+	margin-bottom:15px;
+}
+
+.red_dot_list {
+	list-style-image:url(../../content/images/red_bullet.png);
+    top: 530px;
+}
+
+.red_dot_list li {
+	font-size:19px;
+	width:840px;
+	margin-bottom:10px;
+}
+
+.image_style {
+	border:7px #FFF solid;
+	-webkit-box-shadow: 0 0 15px #888;
+   box-shadow: 0 0 15px #888;
+}
+/* added for UK version */
+#first_red_dot {
+    position: relative;
+    top: 12px;
+}
+
+.closePopup {
+    width: 30px;
+    height: 30px;
+    background: lightgray;
+    position: absolute;
+    top:80px;
+    right:85px;
+    z-index: 10;
+    display:none;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 5px;
+}
+.enlarge_graph {
+    background: url("../../content/images/magglass.png") no-repeat;
+    background-position: center;
+    width:30px;
+    height:30px;
+    position: absolute;
+}
+.enlarge_graph2 {
+    background: url("../../content/images/magglass.png") no-repeat;
+    background-position: center;
+    width:30px;
+    height:30px;
+    position: absolute;
+}
+#enlarge_graph_weykcler_2006 {
+    top:120px;
+    left:785px;
+}
+#enlarge_graph_lyman_2010 {
+    top:110px;
+    left:785px;
+}
+#enlarge_graph_chirivella_2009 {
+    top:105px;
+    left:780px;
+}
+#enlarge_graph_kuderer_2006_p {
+    top:155px;
+    left:765px;
+}
+#enlarge_graph_weyckler_2006_p {
+    top:135px;
+    left:780px;
+}
+#enlarge_graph_weyckler_2009_p {
+    top:180px;
+    left:786px;
+}
+#enlarge_graph1_lyman_2010_p {
+    top:175px;
+    left:490px;
+}
+#enlarge_graph2_lyman_2010_p {
+    top:175px;
+    left:970px;
+}
+#enlarge_graph_chirivella_2009_p {
+    top:170px;
+    left:760px;
+}
+#enlarge_graph_leonard_2009_p {
+    top:185px;
+    left:930px;
+}
+#enlarge_graph_cooper_2011_p {
+    top:160px;
+    left:915px;
+}
+#enlarge_graph_almenar_2009_p {
+    top:130px;
+    left:820px;
+}
+.make_smaller {
+    font-size: 16px;
+}
+#leonard_2009_header {
+    font-size: 25px;
+    width: 820px !important;
+    margin: auto;
+    margin-top: 20px;
+}
+#leonard_2009_subheader {
+    font-size: 18px !important;
+}
+#rdi_calculator_subheader {
+     font-size: 18px !important;
+     margin:auto;
+     margin-top: -5px;
+}
+
+.large_style {
+   width:100%;
+    height:100%;
+    -webkit-box-shadow: 0 0 5px 5px rgba(96, 96, 96, 0.5);
+   box-shadow: 0 0 5px 5px rgba(96, 96, 96, 0.5);
+    z-index:9;
+    background: white;
+    border-radius: 10px;
+}
+
+.large_style img {
+    padding: 5px;
+
+}
+
+.large_graph {
+    display:none;
+}
+
+/* Lipeg Extras */
+#switch_btn {
+	width:64px;
+	height:63px;
+	background:url(../../content/images/switch_btn.png) no-repeat;
+	position:absolute;
+	top:-2px;
+	right:85px;
+	z-index: 3;
+}
+
+#back_btn {
+	width:67px;
+	height:29px;
+	background:url(../../content/images/back_btn.png) no-repeat;
+	position:absolute;
+	top:18px;
+	left:510px;
+	color:#FFF;
+	padding:12px 0 0 5px;
+	text-align:center;
+	z-index: 3;
+}
+
+#refs_no_pad_copy {
+	padding: 0 !important;
+	position:relative;
+	left:50px;
+	top:-20px;
+}

@@ -1,0 +1,67 @@
+/* Info Pages */
+#pi_info_holder {
+	width:910px;
+	height:580px;
+	position:absolute;
+	left:90px;
+	top:10px;
+}
+
+#pi_info_holder ul {
+	list-style:disc;
+	position:absolute;
+	left:140px;
+	top:90px;
+}
+
+#pi_info_holder li {
+	margin-bottom:10px;
+}
+
+#pi_info_holder h2 {
+	font-size:12px;
+	margin:10px 0 10px 10px;
+}
+
+#pi_info_holder p {
+	width:100%;
+	padding:0;
+	margin:0 0 0 10px;
+}
+
+#pi_info_left {
+	width:420px !important;
+	float:left;
+	font-size:9.48px;
+	margin:0 !important;
+	padding:0 !important;
+}
+
+#pi_info_right {
+	width:440px !important;
+	float:left;
+	font-size:9.48px;
+	margin:0 0 0 10px !important;
+	padding:0 !important;
+}
+#pi_info_img {
+	background:url(../../content/images/carer_pages/neulasta_pi_bg.png) no-repeat;
+	width:883px;
+	height:544px;
+	position:absolute;
+	top:10px;
+}
+
+#references {
+	width: 78px;
+	height: 26px;
+	background: url(../../content/images/smpc_btn.png) no-repeat;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	color: #FFF;
+	text-align: center;
+	text-shadow: 1px -1px 1px #000;
+	padding: 7px 0 0 0;
+	text-decoration: none;
+}

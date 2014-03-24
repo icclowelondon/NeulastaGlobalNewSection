@@ -1,0 +1,533 @@
+/* Burden of FN Pages */
+/* Page 1 */
+#fn_page1_graph1 {
+	width:580px;
+	height:350px;
+	position:absolute;
+	top:10px;
+	left:240px;
+	-webkit-transition:-webkit-transform .75s, top .75s;
+	-webkit-transform:scale(0.25);
+	-webkit-backface-visibility: hidden; 
+}
+
+#fn_page1_graph1 img {
+	width:90%;
+	height:90%;
+	position:absolute;
+	top:20px;
+	left:30px;
+}
+
+#fn_page1_graph1_p {
+	width:580px;
+	height:350px;
+	position:absolute;
+	top:150px;
+	left:220px;
+}
+
+#fn_page1_graph1_p img {
+	width:90%;
+	height:90%;
+	position:absolute;
+	top:20px;
+	left:30px;
+}
+
+
+#fn_page1_graph2 {
+	width:730px;
+	height:280px;
+	background:url(../../content/images/carer_pages/burden_of_fn/page1_graph2.png) no-repeat;
+	background-position:bottom;
+	position:absolute;
+	top:300px;
+	left:160px;
+	font-size:28px;
+	text-align:center;
+	-webkit-transition:-webkit-transform .75s, top .75s;
+	-webkit-transform:scale(0.8);
+	-webkit-backface-visibility: hidden; 
+	font-family: 'FrutigerLTStd45LightBold';
+}
+
+#fn_page1_graph2 span {
+	font-size:44px;
+}
+
+#fn_page1_data_top_p {
+	width:800px;
+	position:absolute;
+	top:70px;
+	left:120px;
+}
+
+#fn_page1_data_bottom_p {
+	width:800px;
+	position:absolute;
+	bottom:150px;
+	left:120px;
+}
+
+/* Page 2 */
+#weyckler_2006_p h1 {
+	font-size:20px;
+	width:820px;
+	margin:0 auto 0 auto;
+	position:relative;
+	left:30px;
+}
+
+#weyckler_2006_p p {
+	width:890px;
+}
+
+#fn_page2_graph1 {
+	width:550px;
+	height:380px;
+	position:absolute;
+	top:120px;
+	left:270px;
+}
+
+#fn_page2_graph1 img {
+	position:absolute;
+	left:15px;
+	top:5px;
+}
+
+#fn_page2_graph1_p {
+	width:530px;
+	height:380px;
+	position:absolute;
+	top:130px;
+	left:270px;
+}
+
+#fn_page2_graph1_p img {
+	position:absolute;
+	top:10px;
+	left:10px;
+}
+
+#fn_page2_top {
+	width:890px;
+	position:absolute;
+	top:70px;
+	left:120px;
+	color:#ae1b35;
+}
+
+#fn_page2_top_p {
+	width:600px;
+	position:absolute;
+	top:80px;
+	left:140px;
+	color:#ae1b35;
+}
+
+#fn_page2_bottom {
+	position:absolute;
+	bottom:150px;
+	left:180px;
+}
+
+#fn_page2_bottom_p {
+	width:900px;
+	position:absolute;
+	bottom:100px;
+	left:150px;
+	letter-spacing: 0px;
+}
+
+#fn_page2_bottom_p p {
+	width:820px;
+	font-size: 19px;
+}
+
+#fn_page2_bottom_p li {
+	width:860px;
+}
+
+#fn_page2_bottom ul {
+	list-style:square;
+	font-size:50px;
+	color:#ae3919;
+}
+
+#fn_page2_bottom p {
+	width:800px;
+	font-size:16px;
+	color:#000;
+	position:absolute;
+	left:-10px;
+	top:19px;
+}
+
+/* Page 3 */
+#fn_page3_graph1 {
+	width:482px;
+	height:465px;
+	background:url(../../content/images/carer_pages/burden_of_fn/page3_graph1.png) no-repeat center center;
+	position:absolute;
+	top:140px;
+	left:120px;
+}
+
+#fn_page3_graph1_p {
+	width:580px;
+	height:400px;
+	position:absolute;
+	top:160px;
+	left:240px;
+}
+
+#fn_page3_graph1_p img {
+	position:absolute;
+	top:25px;
+	left:20px;
+}
+
+#fn_page3_data_top_p {
+	width:800px;
+	position:absolute;
+	top:90px;
+	left:120px;
+}
+
+#fn_page_right_data {
+	width:400px;
+	position:absolute;
+	right:50px;
+	top:220px;
+	text-align:center;
+}
+
+#fn_page_right_data h2 {
+	color:#8ac0b8;
+	font-family: 'FrutigerLTStd45LightBold';
+	font-size:36px;
+	margin-bottom:15px;
+	margin-top:20px;
+}
+
+/* Page 4 */
+#lyman_2010 h1 {
+	width:700px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#fn_page4_data_top {
+	width:900px;
+	position:absolute;
+	top:90px;
+	left:120px;
+}
+
+#fn_page4_data_top p {
+	color:#AE1B35;
+}
+
+#fn_page4_graph1 {
+	width:580px;
+	height:310px;
+	position:absolute;
+	top:100px;
+	left:250px;
+}
+
+#fn_page4_graph1 img {
+	position:absolute;
+	top:10px;
+	left:20px;
+}
+
+#fn_page4_graph1_p {
+	width:450px;
+	height:225px;
+	float:left;
+	position:absolute;
+	top:175px;
+	left:100px;
+	padding-top: 50px !important;
+}
+#aarts_2010 h1 {
+	width: 800px !important;
+	margin-left: 120px !important;
+}
+
+#fn_page4_graph1_p img {
+	position:absolute;
+	top:10px;
+	left:10px;
+}
+
+#fn_page4_graph2 {
+	width:792px;
+	height:199px;
+	position:absolute;
+	top:420px;
+	left:150px;
+}
+
+#fn_page4_graph1_p img {
+	position:absolute;
+	top:0px;
+	left:10px;
+}
+
+#fn_page4_graph2_p {
+	width:390px;
+	height:280px;
+	position:absolute;
+	top:170px;
+	right:60px;
+}
+
+#fn_page4_graph2_p img {
+	position:absolute;
+	top:10px;
+	left:3px;
+}
+
+
+
+/* Page 5 */
+#kuderer_2007 h1 {
+	width:890px;
+	font-size:25px !important;
+	position:relative;
+	left:20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#fn_page5_images_top {
+	width:780px;
+	position:absolute;
+	top:80px;
+	left:140px;
+}
+
+#fn_page5_images_top_p {
+	width:780px;
+	position:absolute;
+	top:110px;
+	left:140px;
+}
+
+#fn_page5_image1 {
+	width:353px;
+	height:191px;
+	background:url(../../content/images/carer_pages/burden_of_fn/page5_image1.png) no-repeat;
+	float:left;
+}
+
+#fn_page5_image2 {
+	width:353px;
+	height:191px;
+	background:url(../../content/images/carer_pages/burden_of_fn/page5_image2.png) no-repeat;
+	float:right;
+}
+
+#fn_page5_graph_holder {
+	width:780px;
+	position:absolute;
+	bottom:120px;
+	left:140px;
+}
+
+#fn_page5_graph_holder_p {
+	width:860px;
+	position:absolute;
+	bottom:150px;
+	left:115px;
+}
+
+#fn_page5_graph1_holder {
+	width:367px;
+	height:300px;
+	float:left;
+	position:relative;
+}
+
+#fn_page5_graph1_holder img {
+	position:absolute;
+	top:5px;
+	left:40px;
+}
+
+#fn_page5_graph1_arrow1 {
+	width:68px;
+	height:0px;
+	overflow:hidden;
+	position:absolute;
+	top:54px;
+	left:110px;
+	-webkit-transition: height .75s;
+	-webkit-backface-visibility: hidden; 
+}
+
+#fn_page5_graph1_arrow1 img {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+
+#fn_page5_graph1_arrow2 {
+	width:68px;
+	height:0px;
+	overflow:hidden;
+	position:absolute;
+	top:54px;
+	left:240px;
+	-webkit-transition: height .75s;
+	-webkit-backface-visibility: hidden; 
+}
+
+#fn_page5_graph1_arrow2 img {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+
+#fn_page5_graph1_holder_p {
+	width:412px;
+	height:400px;
+	float:left;
+	position:relative;
+}
+
+#fn_page5_graph1_holder_p img {
+	position:absolute;
+	top:10px;
+	left:5px;
+}
+
+#fn_page5_graph1_arrow1_p {
+	width:80px;
+	height:0px;
+	background:url(../../content/images/pragmatist_pages/burden_of_fn/page5_graph1_arrow1.png) no-repeat;
+	position:absolute;
+	top:86px;
+	left:100px;
+	-webkit-transition: height .75s;
+	-webkit-backface-visibility: hidden; 
+}
+
+#fn_page5_graph1_arrow2_p {
+	width:80px;
+	height:0px;
+	background:url(../../content/images/pragmatist_pages/burden_of_fn/page5_graph1_arrow2.png) no-repeat;
+	position:absolute;
+	top:86px;
+	left:190px;
+	-webkit-transition: height .75s;
+	-webkit-backface-visibility: hidden; 
+}
+
+#fn_page5_graph1_arrow3_p {
+	width:82px;
+	height:0px;
+	background:url(../../content/images/pragmatist_pages/burden_of_fn/page5_graph1_arrow3.png) no-repeat;
+	position:absolute;
+	top:86px;
+	left:280px;
+	-webkit-transition: height .75s;
+	-webkit-backface-visibility: hidden; 
+}
+
+#fn_page5_graph2_holder {
+	width:367px;
+	height:300px;
+	float:right;
+	position:relative;
+}
+
+#fn_page5_graph2_holder img {
+	position:absolute;
+	top:5px;
+	left:40px;
+}
+
+#fn_page5_graph2_arrow1 {
+	width:67px;
+	height:0px;
+	overflow:hidden;
+	position:absolute;
+	top:58px;
+	left:120px;
+	-webkit-transition: height .75s;
+	-webkit-backface-visibility: hidden; 
+}
+
+#fn_page5_graph2_arrow1 img {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+
+#fn_page5_graph2_arrow2 {
+	width:66px;
+	height:0px;
+	overflow:hidden;
+	position:absolute;
+	top:58px;
+	left:240px;
+	-webkit-transition: height .75s;
+	-webkit-backface-visibility: hidden; 
+}
+
+#fn_page5_graph2_arrow2 img {
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+
+#fn_page5_graph2_holder_p {
+	width:412px;
+	height:400px;
+	float:right;
+	position:relative;
+}
+
+#fn_page5_graph2_holder_p img {
+	position:absolute;
+	top:9px;
+	left:10px;
+}
+
+#fn_page5_graph2_arrow1_p {
+	width:81px;
+	height:0px;
+	background:url(../../content/images/pragmatist_pages/burden_of_fn/page5_graph2_arrow1.png) no-repeat;
+	position:absolute;
+	top:87px;
+	left:90px;
+	-webkit-transition: height .75s;
+	-webkit-backface-visibility: hidden; 
+}
+
+#fn_page5_graph2_arrow2_p {
+	width:78px;
+	height:0px;
+	background:url(../../content/images/pragmatist_pages/burden_of_fn/page5_graph2_arrow2.png) no-repeat;
+	position:absolute;
+	top:87px;
+	left:180px;
+	-webkit-transition: height .75s;
+	-webkit-backface-visibility: hidden; 
+}
+
+#fn_page5_graph2_arrow3_p {
+	width:80px;
+	height:0px;
+	background:url(../../content/images/pragmatist_pages/burden_of_fn/page5_graph2_arrow3.png) no-repeat;
+	position:absolute;
+	top:87px;
+	left:280px;
+	-webkit-transition: height .75s;
+	-webkit-backface-visibility: hidden; 
+}

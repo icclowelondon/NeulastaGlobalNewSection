@@ -1,0 +1,392 @@
+{
+	"slides":{
+		"weyckler_2006_p":{
+			"valid":true,
+			"file":"weyckler_2006_p.html",
+			"name":"Weyckler 2006 (P)"
+		},
+		"aarts_2010_p":{
+			"valid":true,
+			"file":"aarts_2010_p.html",
+			"name":"Aarts 2010 (P)"
+		},
+		"cooper_2011":{
+			"valid":true,
+			"file":"cooper_2011.html",
+			"name":"Cooper 2011"
+		},
+		"chirivella_2009":{
+			"valid":true,
+			"file":"chirivella_2009.html",
+			"name":"Chirivella 2009"
+		},
+		"chirivella_2009_p":{
+			"valid":true,
+			"file":"chirivella_2009_p.html",
+			"name":"Chirivella 2009 (P)"
+		},
+		"wealth_of_evidence":{
+			"valid":true,
+			"file":"wealth_of_evidence.html",
+			"name":"Wealth of evidence"
+		},
+		"neutropenia":{
+			"valid":true,
+			"file":"neutropenia.html",
+			"name":"Neutropenia"
+		},
+		"abbreviations":{
+			"valid":true,
+			"file":"abbreviations.html",
+			"name":"Abbreviations"
+		},
+		"rdi_calculator":{
+			"valid":true,
+			"file":"rdi_calculator.html",
+			"name":"RDI Calculator"
+		},
+		"leonard_2009_p":{
+			"valid":true,
+			"file":"leonard_2009_p.html",
+			"name":"Leonard 2009 (P)"
+		},
+		"lyman_2010":{
+			"valid":true,
+			"file":"lyman_2010.html",
+			"name":"Lyman 2010"
+		},
+		"world_page":{
+			"valid":true,
+			"file":"world_page.html",
+			"name":"World Page"
+		},
+		"moa_1":{
+			"valid":true,
+			"file":"moa_1.html",
+			"name":"MOA 1"
+		},
+		"febrile_neutropenia":{
+			"valid":true,
+			"file":"febrile_neutropenia.html",
+			"name":"Febrile Neutropenia Slide"
+		},
+		"kuderer_2007_p":{
+			"valid":true,
+			"file":"kuderer_2007_p.html",
+			"name":"Kuderer 2007 (P)"
+		},
+		"kuderer_2007":{
+			"valid":true,
+			"file":"kuderer_2007.html",
+			"name":"Kuderer 2007"
+		},
+		"neutropenia_p":{
+			"valid":true,
+			"file":"neutropenia_p.html",
+			"name":"Neutropenia (P)"
+		},
+		"almenar_2009_p":{
+			"valid":true,
+			"file":"almenar_2009_p.html",
+			"name":"Almenar 2009 (P)"
+		},
+		"weyckler_2009_p":{
+			"valid":true,
+			"file":"weyckler_2009_p.html",
+			"name":"Weyckler 2009 (P)"
+		},
+		"almenar_2009":{
+			"valid":true,
+			"file":"almenar_2009.html",
+			"name":"Almenar 2009"
+		},
+		"kuderer_2006_p":{
+			"valid":true,
+			"file":"kuderer_2006_p.html",
+			"name":"Kuderer 2006 (P)"
+		},
+		"risk_assessment":{
+			"valid":true,
+			"file":"risk_assessment.html",
+			"name":"Risk Assesment"
+		},
+		"pi_info":{
+			"valid":true,
+			"file":"pi_info.html",
+			"name":"PI Info"
+		},
+		"aarts_2010":{
+			"valid":true,
+			"file":"aarts_2010.html",
+			"name":"Aarts 2010"
+		},
+		"body_of_evidence":{
+			"valid":true,
+			"file":"body_of_evidence.html",
+			"name":"Body of evidence"
+		},
+		"lyman_2010_p":{
+			"valid":true,
+			"file":"lyman_2010_p.html",
+			"name":"Lyman 2010 (P)"
+		},
+		"johnsen_2012_p":{
+			"valid":true,
+			"file":"johnsen_2012_p.html",
+			"name":"Johnsen 2012 (P)"
+		},"weyckler_2009":{
+			"valid":true,
+			"file":"weyckler_2009.html",
+			"name":"Weyckler 2009"
+		},
+		"key_messages_p":{
+			"valid":true,
+			"file":"key_messages_p.html",
+			"name":"Key Messages (P)"
+		},
+		"kuderer_2006":{
+			"valid":true,
+			"file":"kuderer_2006.html",
+			"name":"Kuderer 2006"
+		},
+		"leonard_2009":{
+			"valid":true,
+			"file":"leonard_2009.html",
+			"name":"Leonard 2009"
+		},
+		"main_splash":{
+			"valid":true,
+			"file":"main_splash.html",
+			"name":"Main Splash"
+		},
+		"febrile_neutropenia_p":{
+			"valid":true,
+			"file":"febrile_neutropenia_p.html",
+			"name":"Febrile Neutropenia (P)"
+		},
+		"key_messages":{
+			"valid":true,
+			"file":"key_messages.html",
+			"name":"Key Messages"
+		},"weyckler_2006":{
+			"valid":true,
+			"file":"weyckler_2006.html",
+			"name":"Weyckler 2006"
+		},
+		"moa_2":{
+			"valid":true,
+			"file":"moa_2.html",
+			"name":"MOA 2"
+		},
+		"cooper_2011_p":{
+			"valid":true,
+			"file":"cooper_2011_p.html",
+			"name":"Cooper 2011 (P)"
+		},
+		"johnsen_2012":{
+			"valid":true,
+			"file":"johnsen_2012.html",
+			"name":"Johnsen 2012"}
+		},
+	"structures":{
+		"HospitalizationP":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Hospitalization (P)",
+			"content":["kuderer_2006_p","weyckler_2006_p","weyckler_2009_p"]
+		},
+		"SplashPage":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Splash Page",
+			"content":["main_splash"]
+		},
+		"DecreasedReductionsP":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Decreased Reductions (P)",
+			"content":["johnsen_2012_p"]
+		},
+		"DecreasedReductions":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Decreased Reductions",
+			"content":["johnsen_2012"]
+		},
+		"neutropenia":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Neutropenia",
+			"content":["neutropenia"]
+		},
+		"NeutropeniaMain":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Neutropenia Main",
+			"content":["cooper_2011","aarts_2010","almenar_2009"]
+		},
+		"BodyOfEvidence":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Body of Evidence",
+			"content":["body_of_evidence"]
+		},
+		"BurdenOfFN":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Burden Of FN",
+			"content":["kuderer_2006","weyckler_2006","weyckler_2009","lyman_2010","kuderer_2007"]
+		},
+		"Info":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Info",
+			"content":["pi_info","abbreviations"]
+		},
+		"EarlyMortailty":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Early Mortailty",
+			"content":["lyman_2010","kuderer_2007"]
+		},
+		"DoseDelayP":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Dose Delay (P)",
+			"content":["chirivella_2009_p","leonard_2009_p"]
+		},
+		"febrile_neutropenia_p":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Febrile Neutropenia (P)",
+			"content":["febrile_neutropenia"]
+		},
+		"febrile_neutropenia":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Febrile Neutropenia",
+			"content":["febrile_neutropenia"]
+		},
+		"WealthOfEvidence":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Wealth of Evidence",
+			"content":["wealth_of_evidence"]
+		},
+		"BurdenOfFNP":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Burden Of FN (P)",
+			"content":["kuderer_2006_p","weyckler_2006_p","weyckler_2009_p","lyman_2010_p","kuderer_2007_p"]
+		},
+		"neutropenia_p":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Neutropenia (P)",
+			"content":["neutropenia_p"]
+		},
+		"SummaryP":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"SummaryP",
+			"content":["key_messages_p"]
+		},
+		"NeulastaEfficacy":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Neulasta Efficacy",
+			"content":["cooper_2011","aarts_2010","almenar_2009"]
+		},
+		"WorldPage":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"World Page",
+			"content":["world_page"]
+		},
+		"pragmatist":{
+			"valid":true,
+			"type":"collection",
+			"name":"Pragmatist",
+			"content":["neutropenia_p","febrile_neutropenia_p","HospitalizationP","EarlyMortailtyP","Summary","BurdenOfFNP","RDIP","NeulastaEfficacyP","MOA","Info"]
+		},
+		"carer":{
+			"valid":true,
+			"type":"collection",
+			"name":"Carer",
+			"content":["neutropenia","febrile_neutropenia","Hospitalization","EarlyMortailty","Summary","BurdenOfFN","RDI","NeulastaEfficacy","MOA","Info"]
+		},
+		"Hospitalization":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Hospitalization",
+			"content":["kuderer_2006","weyckler_2006","weyckler_2009"]
+		},
+		"LipegSection":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Lipeg Section",
+			"content":["wealth_of_evidence","body_of_evidence","world_page"]
+		},
+		"RDI":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"RDI",
+			"content":["chirivella_2009","leonard_2009","johnsen_2012","rdi_calculator"]
+		},
+		"MOA":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"MOA",
+			"content":["moa_1","moa_2"]
+		},
+		"EarlyMortailtyP":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Early Mortailty (P)",
+			"content":["lyman_2010_p","kuderer_2007_p"]
+		},
+		"DoseDelay":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Dose Delay",
+			"content":["chirivella_2009","leonard_2009"]
+		},
+		"LessEffective":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Less Effective",
+			"content":["rdi_calculator"]
+		},
+		"NeutropeniaMainP":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Neutropenia Main (P)",
+			"content":["cooper_2011_p","aarts_2010_p","almenar_2009_p"]
+		},
+		"Summary":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Summary",
+			"content":["key_messages"]
+		},
+		"NeulastaEfficacyP":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Neulasta Efficacy (P)",
+			"content":["cooper_2011_p","aarts_2010_p","almenar_2009_p"]
+		},
+		"RiskAssessment":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"Risk Assessment",
+			"content":["risk_assessment"]
+		},
+		"RDIP":{
+			"valid":true,
+			"type":"slideshow",
+			"name":"RDI (P)",
+			"content":["chirivella_2009_p","leonard_2009_p","johnsen_2012_p","rdi_calculator"]
+		}
+	},
+	"storyboard":["carer","pragmatist","LipegSection"]
+}

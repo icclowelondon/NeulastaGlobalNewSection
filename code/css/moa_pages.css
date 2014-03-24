@@ -1,0 +1,210 @@
+/* MOA Section Pages */
+/* Page 1 */
+#moa_page1_data_holder {
+	width:870px;
+	height:490px;
+	position:absolute;
+	top:90px;
+	left:90px;
+}
+
+#moa_page1_data_holder h2 {
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:#000;
+	margin:20px 0 10px;
+}
+
+#moa_page1_data_image1 {
+	width:246px;
+	height:258px;
+	background:url(../../content/images/carer_pages/moa/moa_page1_image1.png) no-repeat;
+	position:absolute;
+	float:left;
+	left:20px;
+	top:70px;
+}
+
+#moa_page1_data_image1 p {
+	width:100%;
+	position:absolute;
+	bottom:10px;
+	text-align:center;
+	margin:0;
+}
+
+#moa_page1_data_graph {
+	width:536px;
+	height:258px;
+	position:absolute;
+	float:right;
+	right:10px;
+	top:70px;
+}
+
+#moa_page1_data_bottom span { 
+	font-size: 39px !important;
+}
+#moa_page1_data_bottom_2 span { 
+	font-size: 39px !important;
+}
+
+#moa_page1_data_bottom {
+	width:830px;
+	height:80px;
+	background:#6d6e71;
+	position:absolute;
+	bottom:40px;
+	left:20px;
+	font-size: 18px;
+	color:#FFFFFF;
+	text-align:center;
+	padding:0;
+	-webkit-box-shadow: -2px 2px 7px #888;
+   box-shadow: -2px 2px 7px #888;
+}
+
+#moa_page1_data_bottom  span { 
+	font-size: 18px;
+	position: relative;
+	top:10px;
+}
+#moa_page1_data_bottom_2 span { 
+	font-size: 18px;
+	position: relative;
+	top:10px;
+	color:#fff;
+}
+
+#moa_page1_data_bottom p:first-child {
+	width: 450px !important;
+	
+	position: absolute;
+	left:10px;
+	top: 14px;
+	margin: 0 !important;
+}
+#moa_page1_data_bottom_2 {
+	width: 450px !important;
+	
+	position: absolute;
+	left:450px;
+	top: 362px;
+	margin: 0 !important;
+	color: #fff;
+}
+#moa_page1_data_bottom p {
+	width: 380px !important;
+	position: absolute;
+	right: 20px;
+	top: 14px;
+	margin: 0 !important;
+}
+
+/* Page 2 */
+#moa_page2_data_holder {
+	width:870px;
+	height:490px;
+	position:absolute;
+	top:90px;
+	left:90px;
+}
+
+#moa_page2_data_holder h2 {
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:#000;
+	margin:20px 0 10px;
+}
+
+#moa_page2_data_image1 {
+	width:245px;
+	height:266px;
+	background:url(../../content/images/carer_pages/moa/moa_page2_image1.png) no-repeat;
+	position:absolute;
+	float:left;
+	left:20px;
+	top:70px;
+}
+
+#moa_page2_data_image1 p {
+	width:100%;
+	position:absolute;
+	bottom:10px;
+	text-align:center;
+	margin:0;
+}
+
+#moa_page2_data_graph_bg {
+	width:568px;
+	height:292px;
+	position:absolute;
+	float:right;
+	right:10px;
+	top:70px;
+}
+
+#moa_page2_data_graph_lines {
+	width:0px;
+	height:172px;
+	overflow:hidden;
+	position:absolute;
+	left:110px;
+	top:20px;
+	display:block;
+	-webkit-transition: width .75s;
+	-webkit-backface-visibility: hidden; 
+}
+
+#moa_page2_data_graph_line2 {
+	width:0px;
+	height:151px;
+	background:url(../../content/images/carer_pages/moa/moa_page2_graph1_line2.png) no-repeat;
+	position:absolute;
+	left:110px;
+	top:40px;
+	display:block;
+	-webkit-transition: width .75s;
+	-webkit-backface-visibility: hidden;
+}
+
+#moa_page2_data_bottom {
+	width:830px;
+	height:80px;
+	background:#5fc5ba;
+	position:absolute;
+	bottom:20px;
+	left:20px;
+	color:#FFFFFF;
+	font-size: 18px;
+	text-align:center;
+	padding:0;
+	-webkit-box-shadow: -2px 2px 7px #888;
+   box-shadow: -2px 2px 7px #888;
+}
+
+#moa_page2_data_bottom span { 
+	font-size: 40px !important;
+	position: relative;
+	top:7px;
+}
+
+#moa_page2_data_bottom p:first-child {
+	width: 460px !important;
+	position: absolute;
+	left: 10px;
+	top: 14px;
+	margin: 0 !important;
+}
+
+#moa_page2_data_bottom p {
+	width: 360px !important;
+	position: absolute;
+	right: 20px;
+	top: 14px;
+	margin: 0 !important;
+}

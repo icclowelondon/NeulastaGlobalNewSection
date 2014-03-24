@@ -1,0 +1,42 @@
+#fb_main_image {
+	width:357px;
+	height:384px;
+	background:url(../../content/images/carer_pages/febrile_neutropenia/main_image.png) no-repeat;
+	position:absolute;
+	left:150px;
+	top:70px;
+}
+
+#fb_right_panel {
+	width:300px;
+	height:400px;
+	position:absolute;
+	right:150px;
+	top:70px;
+	font-size:21px;
+}
+
+#fb_bottom_panel {
+	width:720px;
+	height:80px;
+	position:absolute;
+	bottom:140px;
+	left:150px;
+	color:#60c5ba;
+	font-size:21px;
+}
+
+#fb_bottom_panel p {
+	width:700px;
+}
+
+/* Pragmatist Page */
+
+#fb_main_image_p {
+	width:357px;
+	height:384px;
+	background:url(../../content/images/pragmatist_pages/febrile_neutropenia/main_image.png) no-repeat;
+	position:absolute;
+	left:150px;
+	top:70px;
+}

@@ -1,0 +1,2607 @@
+.et_al { font-style: italic; }
+
+/* Kuderer 2006 */
+#kuderer_2006_graph_content #graph1_title { 
+   position: absolute; 
+	top: 20px;
+	left: 40px;
+	font-size: 14px;
+	color: black;
+}
+#kuderer_2006_graph_content #graph1_vertical_axis_title { 
+   position: absolute;
+	left: -200px; 
+	top: -45px;
+	font-size: 12px;
+	-webkit-transform: rotate(-90deg);
+}
+#kuderer_2006_graph_content #graph1_vertical_axis_value {  
+   position: absolute;
+	top: 56px;
+	left: 90px;
+	font-size: 12px;
+	text-align: right;
+}
+#kuderer_2006_graph_content #graph1_vertical_axis_value li { 
+   height: 32px; 
+	border: 1px solid white;
+}
+#kuderer_2006_graph_content #graph1_horizontal_axis_value div { 
+   font-size: 10px;
+}
+#kuderer_2006_graph_content #graph1_horizontal_axis_value { 
+   text-align: right; 
+	position: absolute;
+	bottom: 18px;
+	left: 35px;
+	height: 50px;
+}
+#kuderer_2006_graph_content #graph1_horizontal_axis_value div {  
+   -webkit-transform: rotate(-50deg);
+	float: left;
+	height: 10px; 
+	width: 120px; 
+	margin-right: -80px;
+}
+#kuderer_2006_graph_content #graph1_horizontal_axis_value #column5 { 
+   position: relative; 
+	right: 5px;
+}
+#kuderer_2006_graph_content #graph1_horizontal_axis_value #column6 { 
+   position: relative; 
+	right: 5px;
+}
+#kuderer_2006_graph_content #graph1_horizontal_axis_value #column7 { 
+   position: relative;
+	right: 6px;
+}
+#kuderer_2006_graph_content #graph1_horizontal_axis_value #column8 {  
+   position: relative;  
+	right: 8px;
+}
+#kuderer_2006_graph_content #graph1_horizontal_axis_value #column9 { 
+   position: relative; 
+	right: 8px;
+}
+#kuderer_2006_graph_content #graph1_horizontal_axis_value #column10 { 
+   position: relative;  
+	right: 8px;
+}
+#kuderer_2006_graph_content #graph1_horizontal_axis_value #column11 { 
+   position: relative; 
+	right: 8px;
+}
+#kuderer_2006_graph_content #graph1_column_value {  
+   position: absolute; 
+	left: 128px; 
+	top: 195px;
+}
+#kuderer_2006_graph_content #graph1_column_value div { 
+   float: left;  
+	margin-right: 16px; 
+	font-size: 14px; 
+	width: 22px; 
+	text-align: center;
+}
+#kuderer_2006_graph_content #graph1_column_value div:last-child {  
+   margin-left: 5px !important;
+}
+#kuderer_2006_graph_content #graph1_column_value div:nth-child(2) { 
+   position: relative;  
+	bottom: 10px;
+}
+#kuderer_2006_graph_content #graph1_column_value div:nth-child(3) { 
+   position: relative;  
+	bottom: 18px;
+}
+#kuderer_2006_graph_content #graph1_column_value div:nth-child(4) {  
+   position: relative; 
+	bottom: 28px;
+}
+#kuderer_2006_graph_content #graph1_column_value div:nth-child(5) {  
+   position: relative; 
+	bottom: 50px;
+}
+#kuderer_2006_graph_content #graph1_column_value div:nth-child(6) { 
+   position: relative; 
+	bottom: 54px;
+}
+#kuderer_2006_graph_content #graph1_column_value div:nth-child(7) { 
+   position: relative; 
+	bottom: 56px;
+}
+#kuderer_2006_graph_content #graph1_column_value div:nth-child(8) { 
+   position: relative;  
+	bottom: 89px;
+}
+#kuderer_2006_graph_content #graph1_column_value div:nth-child(9) { 
+   position: relative;  
+	bottom: 99px;
+}
+#kuderer_2006_graph_content #graph1_column_value div:nth-child(10) { 
+   position: relative;  
+	bottom: 143px;
+}
+#kuderer_2006_graph_content #graph1_column_value div:nth-child(11) { 
+   position: relative;  
+	bottom: 63px;
+}
+#kuderer_2006_graph_content #graph1_bottom_text {  
+   position: absolute;  
+	bottom: -10px;  
+	left: 30px; 
+	font-size: 10px;
+}
+
+/* WEYCKLER 2006 */
+#weyckler_2006_graph_content #graph1_vertical_axis_title {
+    position: absolute;
+    left: -210px;
+    top: -10px;
+    font-size: 14px;
+    -webkit-transform: rotate(-90deg);
+}
+
+#weyckler_2006_graph_content #graph1_horizontal_axis_title {
+    position: absolute;
+    left: 170px;
+    bottom: 20px;
+    font-size: 13px;
+}
+
+#weyckler_2006_graph_content #graph1_legend_1 {
+    position: absolute;
+    font-size: 9px;
+    top: 24px;
+    left: 365px;
+}
+#weyckler_2006_graph_content #graph1_legend_2 {
+    position: absolute;
+    font-size: 9px;
+    top: 39px;
+    left: 365px;
+}
+
+#weyckler_2006_graph_content #graph1_bottom_text {
+    position: absolute;
+    bottom: -10px;
+    left: 30px;
+    font-size: 10px;
+}
+
+/* WEYCKLER 2006 LARGE */
+#weyckler_2006_large {
+	width:840px;
+	-webkit-transform: scale(0.7); 
+}
+
+#weyckler_2006_graph_holder {
+	position:absolute;
+	top:20px;
+	left:110px;
+}
+
+#weyckler_2006_graph_vertical_numbers {
+	width:20px;
+	position:absolute;
+	top:37px;
+	left:83px;
+}
+
+#weyckler_2006_graph_vertical_numbers ul {
+	list-style:none;
+	width:20px;
+	padding:0;
+	margin:0;
+}
+
+#weyckler_2006_graph_vertical_numbers li {
+	width:20px;
+	margin:0 0 28px 0;
+	font-size:18px;
+	text-align:right;
+}
+
+#weyckler_2006_graph_horizontal_numbers {
+	width:670px;
+	position:absolute;
+	top:420px;
+	left:130px;
+}
+
+#weyckler_2006_graph_horizontal_numbers ul {
+	list-style:none;
+	width:670px;
+	padding:0;
+	margin:0;
+}
+
+#weyckler_2006_graph_horizontal_numbers li {
+	width:25px;
+	margin:0 18px 0 0;
+	display:inline-block;
+	font-size:18px;
+	text-align:left;
+}
+
+#weyckler_2006_graph_content_large #graph1_vertical_axis_title_large {
+    position: absolute;
+    left: -300px;
+    top: 0px;
+    font-size: 18px;
+    -webkit-transform: rotate(-90deg);
+    z-index: 20;
+	 margin:0;
+	 padding:0;
+}
+
+#weyckler_2006_graph_content_large #graph1_horizontal_axis_title_large {
+    position: absolute;
+    left: 290px;
+    bottom: 70px;
+    font-size: 16px;
+}
+
+#weyckler_2006_graph_content_large #graph1_legend_1_large {
+    position: absolute;
+    font-size: 14px;
+    top: 80px;
+    left: 558px;
+	 margin:0;
+	 padding:0;
+}
+#weyckler_2006_graph_content_large #graph1_legend_2_large {
+    position: absolute;
+    font-size: 14px;
+    top: 102px;
+    left: 558px;
+	 margin:0;
+	 padding:0;
+}
+#weyckler_2006_graph_content_large #graph1_legend_3_large {
+    position: absolute;
+    font-size: 14px;
+    top: 123px;
+    left: 558px;
+	 margin:0;
+	 padding:0;
+}
+
+#weyckler_2006_graph_content_large #graph1_bottom_text_large {
+    position: absolute;
+    bottom: 33px;
+    left: 50px;
+    font-size: 12px;
+	 margin:0;
+	 padding:0 !important;
+
+}
+
+/* Lyman 2010 Graph 1 */
+#lyman_2010_graph_content #graph1_vertical_axis_title { 
+   position: absolute; 
+	left: -220px; 
+	top: -45px; 
+	font-size: 15px; 
+	-webkit-transform: rotate(-90deg);
+}
+
+#lyman_2010_graph_content #graph1_horizontal_axis_title { 
+   position: absolute; 
+	left: 190px; 
+	bottom: 15px; 
+	font-size: 13px; 
+}
+
+#lyman_2010_graph_content #graph1_legend_1 { 
+   position: absolute; 
+	font-size: 9px; 
+	top: 97px; 
+	left: 105px; 
+}
+#lyman_2010_graph_content #graph1_legend_2 {
+	position: absolute;
+	font-size: 9px;
+	top: 111px;
+	left: 105px;
+}
+#lyman_2010_graph_content #graph1_legend_3 {
+	position: absolute;
+	font-size: 9px;
+	top: 130px;
+	left: 105px;
+}
+#lyman_2010_graph_content #graph1_legend_4 {
+	position: absolute;
+	font-size: 9px;
+	top: 40px;
+	left: 440px;
+}
+
+#lyman_2010_graph_content #graph1_bottom_text {
+	position: absolute;
+	bottom: -10px;
+	left: 10px;
+	font-size: 10px;
+}
+
+#lyman_2010_graph_content #graph1_title {
+	position: absolute;
+	top: 15px;
+	left: 30px;
+	font-size: 14px;
+	color: black;
+}
+
+#lyman_2010_graph_content #graph1_horizontal_axis_value {
+	font-size: 12px; 
+	position: absolute; 
+	z-index: 100;
+	top: 44px; 
+	left: 65px;
+}
+#lyman_2010_graph_content #graph1_horizontal_axis_value li {
+	margin-bottom: 47px;
+}
+/* LYMAN 2010 Graph2 */
+#lyman_2010_large {
+	width:840px;
+	-webkit-transform: scale(0.7); 
+}
+
+#lyman_2010_large img {
+	margin:15px 0 35px 0;
+}
+
+#lyman_2010_large_graph_holder {
+	position:absolute;
+	top:40px;
+	left:120px;
+}
+
+#lyman_2010_graph2_mid_text {
+    position: absolute;
+    text-align: center;
+    font-size: 16px;
+    color:#b22222;
+    bottom: 130px;
+    left: 310px;
+}
+
+#lyman_2010_graph2_left_text {
+    position: absolute;
+    text-align: center;
+    font-size: 15px;
+    color:#b22222;
+    bottom: 70px;
+    left: 25px;
+    line-height: 20px;
+}
+
+#lyman_2010_graph2_left_text span {
+    font-size: 30px;
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+#lyman_2010_graph2_right_text {
+    position: absolute;
+    text-align: center;
+    font-size: 15px;
+    color:#b22222;
+    bottom: 70px;
+    left: 660px;
+    line-height: 20px;
+}
+
+#lyman_2010_graph2_right_text span {
+    font-size: 30px;
+    font-weight: bold;
+}
+/* LYMAN 2010 Graph1 Large */
+#lyman_2010_graph_content_large #graph1_vertical_axis_title_large {
+    position: absolute;
+    left: -280px;
+    top: -20px;
+    font-size: 20px;
+    -webkit-transform: rotate(-90deg);
+	 padding:0;
+	 margin:0;
+}
+
+#lyman_2010_graph_content_large #graph1_horizontal_axis_title_large {
+    position: absolute;
+    left: 320px;
+    bottom: 45px;
+    font-size: 19px;
+	 padding:0;
+	 margin:0;
+}
+
+#lyman_2010_graph_content_large #graph1_legend_1_large {
+    position: absolute;
+    font-size: 12px;
+    top: 163px;
+    left: 175px;
+	 padding:0;
+	 margin:0;
+}
+#lyman_2010_graph_content_large #graph1_legend_2_large {
+    position: absolute;
+    font-size: 12px;
+    top: 182px;
+    left: 175px;
+	 padding:0;
+	 margin:0;
+}
+#lyman_2010_graph_content_large #graph1_legend_3_large {
+    position: absolute;
+    font-size: 12px;
+    top: 210px;
+    left: 175px;
+	 padding:0;
+	 margin:0;
+}
+#lyman_2010_graph_content_large #graph1_legend_4_large {
+    position: absolute;
+    font-size: 14px;
+    top: 80px;
+    left: 680px;
+	 padding:0;
+	 margin:0;
+}
+
+#lyman_2010_graph_content_large #graph1_bottom_text_large {
+    position: absolute;
+    bottom: 10px;
+    left: 40px;
+    font-size: 12px;
+	 padding:0 !important;
+	 margin:0;
+}
+
+#lyman_2010_graph_content_large #graph1_title_large {
+    position: absolute;
+    top: 15px;
+    left: 50px;
+    font-size: 19px;
+    color: black;
+}
+
+#lyman_2010_graph2_mid_text_large {
+    position: absolute;
+    text-align: center;
+    font-size: 16px;
+    color:#b22222;
+    bottom: 130px;
+    left: 310px;
+}
+
+#lyman_2010_graph_content_large #graph1_horizontal_axis_value_large {
+    font-size: 20px;
+    position: absolute;
+    z-index: 100;
+    top: 50px;
+    left: 85px;
+}
+#lyman_2010_graph_content_large #graph1_horizontal_axis_value_large li {
+    margin-bottom: 69px;
+}
+
+#lyman_2010_graph_horizontal_axis {
+	width:670px;
+	list-style:none;
+	position:absolute;
+	top:340px;
+	left:136px;
+}
+
+#lyman_2010_graph_horizontal_axis li {
+	width:47px;
+	font-size: 20px;
+	display:inline-block;
+}
+/* KUDERER 2007 */
+#kuderer_2007_graph1_content #graph1_title {
+    top: 7px;
+    position: absolute;
+    left: 64px;
+    color:black;
+    letter-spacing: -1px;
+    font-size: 13px;
+
+}
+#kuderer_2007_graph1_content #graph1_subtitle {
+    color:black;
+    position: absolute;
+    left: 64px;
+    top:23px;
+    letter-spacing: -1px;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+#kuderer_2007_graph2_content #graph2_title {
+    top: 7px;
+    position: absolute;
+    left: 64px;
+    color:black;
+    letter-spacing: -1px;
+    font-size: 13px;
+}
+#kuderer_2007_graph2_content #graph2_subtitle {
+    color:black;
+    position: absolute;
+    left: 64px;
+    top:23px;
+    letter-spacing: -1px;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+#kuderer_2007_graph_2_arrow_1_value {
+    position: absolute;
+    z-index: 200;
+    font-size: 9px;
+    left:-3px;
+}
+
+#kuderer_2007_graph_2_arrow_2_value {
+    position: absolute;
+    z-index: 200;
+    font-size: 9px;
+    left:-3px;
+    color:white;
+}
+
+#kuderer_2007_graph_1_arrow_1_value {
+    position: absolute;
+    z-index: 200;
+    font-size: 9px;
+    left:-3px;
+}
+
+#kuderer_2007_graph_1_arrow_2_value {
+    position: absolute;
+    z-index: 200;
+    font-size: 9px;
+    left:-3px;
+    color:white;
+}
+
+#kuderer_2007_graph1_content #graph1_legend1 {
+    top: 211px;
+    position: absolute;
+    left:232px;
+    color:black;
+    letter-spacing: -1px;
+    font-size: 10px;
+    z-index: 99;
+}
+
+#kuderer_2007_graph1_content #graph1_legend2 {
+    top: 225px;
+    position: absolute;
+    left:232px;
+    color:black;
+    letter-spacing: -1px;
+    font-size: 10px;
+    z-index: 99;
+}
+
+#kuderer_2007_graph1_content #graph1_bottom_text {
+    top: 265px;
+    position: absolute;
+    left:40px;
+    color:black;
+    letter-spacing: -1px;
+    font-size: 10px;
+    z-index: 99;
+}
+
+#kuderer_2007_graph2_content #graph2_legend1 {
+    top: 211px;
+    position: absolute;
+    left:232px;
+    color:black;
+    letter-spacing: -1px;
+    font-size: 10px;
+    z-index: 99;
+}
+
+#kuderer_2007_graph2_content #graph2_legend2 {
+    top: 225px;
+    position: absolute;
+    left:232px;
+    color:black;
+    letter-spacing: -1px;
+    font-size: 10px;
+    z-index: 99;
+}
+
+#kuderer_2007_graph2_content #graph2_bottom_text {
+    top: 265px;
+    position: absolute;
+    left:40px;
+    color:black;
+    letter-spacing: -1px;
+    font-size: 10px;
+    z-index: 99;
+}
+#kuderer_2007_arrow_tip_1 {
+    position: absolute;
+    z-index: 20;
+    top:190px;
+    left:19px;
+    color: #20b2aa;
+    font-size: 14px;
+}
+
+#kuderer_2007_arrow_tip_2 {
+    position: absolute;
+    z-index: 20;
+    top:113px;
+    left: 18px;
+    color: #696969;
+    font-size: 14px;
+    background: white;
+
+}
+#kuderer_2007_arrow_tip_3 {
+    position: absolute;
+    z-index: 20;
+    top:154px;
+    left:19px;
+    color: #20b2aa;
+    background: white;
+    font-size: 14px;
+}
+
+#kuderer_2007_arrow_tip_4 {
+    position: absolute;
+    z-index: 20;
+    top:93px;
+    left: 18px;
+    color: #696969;
+    font-size: 14px;
+    background: white;
+}
+
+/* Chirivella 2009 */
+#chirivella_2009_graph_content #graph1_title {
+    position: absolute;
+    top: 17px;
+    left: 30px;
+    font-size: 14px;
+    color: black;
+    letter-spacing: -1px;
+}
+
+#chirivella_2009_p_graph_content #graph1_vertical_axis_title {
+    position: absolute;
+    left: -200px;
+    top: -15px;
+    font-size: 12px;
+    -webkit-transform: rotate(-90deg);
+}
+#chirivella_2009_graph_content #graph1_horizontal_axis_title {
+    position: absolute;
+    left: 190px;
+    bottom: 15px;
+    font-size: 13px;
+}
+
+#chirivella_2009_graph_content #graph1_vertical_axis_value {
+    position: absolute;
+    left: 65px;
+    top:70px;
+    font-size: 12px;
+    text-align: right;
+}
+
+#chirivella_2009_graph_content #graph1_vertical_axis_value li {
+    margin-bottom: 31px;
+}
+
+#chirivella_2009_graph_content #graph1_vertical_axis_value li:nth-child(3) {
+    margin-top: 13px;
+}
+#chirivella_2009_graph_content #graph1_vertical_axis_value li:nth-child(3) {
+    margin-top: 13px;
+}
+
+#chirivella_2009_graph_content #graph1_bottom_text {
+    position: absolute;
+    bottom: -10px;
+    left: 20px;
+    font-size: 10px;
+}
+
+#chirivella_2009_graph_content #graph1_text_1 {
+    position: absolute;
+    bottom: 210px;
+    left: 370px;
+    font-size: 12px;
+}
+
+#chirivella_2009_graph_content #graph1_text_2 {
+    position: absolute;
+    bottom: 165px;
+    left: 300px;
+    font-size: 12px;
+}
+
+#chirivella_2009_graph_content #graph1_text_3 {
+    position: absolute;
+    bottom: 135px;
+    left: 360px;
+    font-size: 12px;
+}
+
+/* Chirivella 2009 Large */
+#chirivella_2009_large {
+	width:840px;
+	-webkit-transform: scale(0.7); 
+}
+
+#chrivella_2009_graph_holder {
+	position:absolute;
+	top:20px;
+	left:100px;
+}
+
+#chirivella_2009_graph_content_large #graph1_title_large {
+    position: absolute;
+    top: 17px;
+    left: 50px;
+    font-size: 20px;
+    color: black;
+    letter-spacing: -1px;
+}
+
+#chirivella_2009_graph_content_large #graph1_vertical_axis_title_large {
+    position: absolute;
+    left: -290px;
+    top: 0px;
+    font-size: 18px;
+    -webkit-transform: rotate(-90deg);
+	 margin:0;
+	 padding:0;
+}
+#chirivella_2009_graph_content_large #graph1_horizontal_axis_title_large {
+    position: absolute;
+    left: 340px;
+    bottom: 45px;
+    font-size: 18px;
+	 margin:0;
+	 padding:0;
+}
+
+#chirivella_2009_graph_content_large #graph1_vertical_axis_value_large {
+    position: absolute;
+    left: 110px;
+    top:114px;
+    font-size: 16px;
+    text-align: right;
+	 margin:0;
+	 padding:0;
+}
+
+#chirivella_2009_graph_content_large #graph1_vertical_axis_value_large li {
+    margin-bottom: 55px;
+}
+
+#chirivella_2009_graph_content_large #graph1_vertical_axis_value_large li:nth-child(3) {
+    margin-top: 13px;
+}
+#chirivella_2009_graph_content_large #graph1_vertical_axis_value_large li:nth-child(3) {
+    margin-top: 13px;
+}
+
+#chirivella_2009_graph_content_large #graph1_bottom_text_large {
+    position: absolute;
+    bottom: 10px;
+    left: 40px;
+    font-size: 12px;
+	 margin:0;
+	 padding:0 !important;
+}
+
+#chirivella_2009_graph_content_large #graph1_text_1_large {
+    position: absolute;
+    bottom: 360px;
+    left: 625px;
+    font-size: 16px;
+	 margin:0;
+	 padding:0;
+}
+
+#chirivella_2009_graph_content_large #graph1_text_2_large {
+    position: absolute;
+    bottom: 295px;
+    left: 520px;
+    font-size: 16px;
+	 margin:0;
+	 padding:0;
+}
+
+#chirivella_2009_graph_content_large #graph1_text_3_large {
+    position: absolute;
+    bottom: 255px;
+    left: 580px;
+    font-size: 16px;
+	 margin:0;
+	 padding:0;
+}
+
+#chirivella_2009_p_graph_content #graph1_title {
+    position: absolute;
+    top: 17px;
+    left: 30px;
+    font-size: 14px;
+    color: black;
+    letter-spacing: -1px;
+}
+
+#chirivella_2009_p_graph_content #graph1_vertical_axis_title {
+    position: absolute;
+    left: -200px;
+    top: -15px;
+    font-size: 12px;
+    -webkit-transform: rotate(-90deg);
+}
+#chirivella_2009_p_graph_content #graph1_horizontal_axis_title {
+    position: absolute;
+    left: 190px;
+    bottom: 15px;
+    font-size: 13px;
+}
+
+
+#chirivella_2009_p_graph_content #graph1_vertical_axis_value {
+    position: absolute;
+    left: 65px;
+    top:70px;
+    font-size: 12px;
+    text-align: right;
+}
+
+#chirivella_2009_p_graph_content #graph1_vertical_axis_value li {
+    margin-bottom: 31px;
+
+}
+
+#chirivella_2009_p_graph_content #graph1_vertical_axis_value li:nth-child(3) {
+    margin-top: 13px;
+}
+#chirivella_2009_p_graph_content #graph1_vertical_axis_value li:nth-child(3) {
+    margin-top: 13px;
+}
+
+#chirivella_2009_p_graph_content #graph1_bottom_text {
+    position: absolute;
+    bottom: -10px;
+    left: 20px;
+    font-size: 10px;
+}
+
+#chirivella_2009_p_graph_content #graph1_text_1 {
+    position: absolute;
+    bottom: 200px;
+    left: 370px;
+    font-size: 12px;
+}
+
+#chirivella_2009_p_graph_content #graph1_text_2 {
+    position: absolute;
+    bottom: 160px;
+    left: 300px;
+    font-size: 12px;
+}
+
+#chirivella_2009_p_graph_content #graph1_text_3 {
+    position: absolute;
+    bottom: 135px;
+    left: 360px;
+    font-size: 12px;
+}
+
+/* Chirivella 2009 (P) Large */
+#chirivella_2009_p_large {
+	width:840px;
+	-webkit-transform: scale(0.7); 
+}
+
+#chirivella_2009_p_graph_holder{
+	position:absolute;
+	top:80px;
+	left:130px;
+}
+
+#chirivella_2009_p_graph_content_large #graph1_title_large {
+    position: absolute;
+    top: 17px;
+    left: 50px;
+    font-size: 20px;
+    color: black;
+    letter-spacing: -1px;
+}
+
+#chirivella_2009_p_graph_content_large #graph1_vertical_axis_title_large {
+	width:300px;
+    position: absolute;
+    left: -80px;
+    top: 155px;
+    font-size: 18px;
+    -webkit-transform: rotate(-90deg);
+	 margin:0;
+	 padding:0;
+}
+
+#chirivella_2009_p_graph_content_large #graph1_horizontal_axis_title_large {
+    position: absolute;
+    left: 340px;
+    bottom: 45px;
+    font-size: 18px;
+	 margin:0;
+	 padding:0;
+}
+
+#chirivella_2009_p_graph_content_large #graph1_vertical_axis_value_large {
+    position: absolute;
+    left: 110px;
+    top:109px;
+    font-size: 16px;
+    text-align: right;
+	 margin:0;
+	 padding:0;
+}
+
+#chirivella_2009_p_graph_content_large #graph1_vertical_axis_value_large li {
+    margin-bottom: 45px;
+}
+
+#chirivella_2009_p_graph_content_large #graph1_vertical_axis_value_large li:nth-child(3) {
+    margin-top: 13px;
+}
+#chirivella_2009_p_graph_content_large #graph1_vertical_axis_value_large li:nth-child(3) {
+    margin-top: 13px;
+}
+
+#chirivella_2009_p_graph_content_large #graph1_horizontal_axis_value_large {
+	 width:750px;
+    position: absolute;
+    left: 149px;
+    top:375px;
+    font-size: 16px;
+	 text-align:left;
+	 margin:0;
+	 padding:0;
+}
+
+#chirivella_2009_p_graph_content_large #graph1_horizontal_axis_value_large li {
+	width:117px;
+	display:inline-block;
+}
+
+#chirivella_2009_p_graph_content_large #graph1_bottom_text_large {
+    position: absolute;
+    bottom: 10px;
+    left: 40px;
+    font-size: 12px;
+	 margin:0;
+	 padding:0 !important;
+}
+
+#chirivella_2009_p_graph_content_large #graph1_text_1_large {
+    position: absolute;
+    bottom: 330px;
+    left: 625px;
+    font-size: 16px;
+	 margin:0;
+	 padding:0;
+}
+
+#chirivella_2009_p_graph_content_large #graph1_text_2_large {
+    position: absolute;
+    bottom: 275px;
+    left: 520px;
+    font-size: 16px;
+	 margin:0;
+	 padding:0;
+}
+
+#chirivella_2009_p_graph_content_large #graph1_text_3_large {
+    position: absolute;
+    bottom: 235px;
+    left: 580px;
+    font-size: 16px;
+	 margin:0;
+	 padding:0;
+}
+
+#chirivella_2009_graph_horizontal_axis {
+	width:820px;
+	list-style:none;
+	position:absolute;
+	top:420px;
+	left:140px;
+}
+
+#chirivella_2009_graph_horizontal_axis li {
+	width:125px;
+	font-size: 18px;
+	display:inline-block;
+}
+
+/* RISK ASSESSMENT */
+#top_value {
+    -webkit-transform: rotate(-90deg);
+    color: #ffffff;
+    font-size: 16px;
+    position: absolute;
+    top: 44px;
+    left:28px;
+}
+
+#mid_value {
+    -webkit-transform: rotate(-90deg);
+    color: #ffffff;
+    font-size: 16px;
+    position: absolute;
+    top: 274px;
+    left:10px;
+}
+
+#bottom_value {
+    color: #ffffff;
+    font-size: 16px;
+    position: absolute;
+    bottom: 18px;
+    left:12px;
+}
+
+/* COOPER 2011 */
+#cooper_2011_graph1_content #graph1_title {
+    font-size: 12px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    letter-spacing: -1px;
+    color:black;
+}
+
+#cooper_2011_graph1_content #graph1_legend1 {
+    position: absolute;
+    top: 25px;
+    left: 236px;
+    font-size: 9px;
+}
+
+#cooper_2011_graph1_content #graph1_legend2 {
+    position: absolute;
+    top: 25px;
+    left: 314px;
+    font-size: 9px;
+}
+
+#cooper_2011_graph1_content #graph1_vertical_axis_value {
+    font-size: 12px;
+    position: absolute;
+    top: 50px;
+    left: 40px;
+
+}
+#cooper_2011_graph1_content #graph1_vertical_axis_value li {
+    margin-bottom: 23px;
+}
+
+
+#cooper_2011_graph1_content #graph1_vertical_axis_title {
+    position: absolute;
+    top: 40px;
+    -webkit-transform: rotate(-90deg);
+    left: -170px;
+    font-size: 14px;
+}
+
+#cooper_2011_graph1_content #graph1_bottom_text {
+    position: absolute;
+    font-size: 9px;
+    bottom: -10px;
+    left:50px;
+}
+
+#cooper_2011_graph1_bar1_text span {
+    font-size: 14px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+#cooper_2011_graph1_bar1_text {
+    position: absolute;
+    color: white;
+    top: 60px;
+    left:-70px;
+    z-index: 100;
+    text-align: center;
+    font-size: 10px;
+    width: 200px;
+}
+#cooper_2011_graph1_bar2_text {
+    position: absolute;
+    color: white;
+    top: 10px;
+    left:-70px;
+    z-index: 100;
+    text-align: center;
+    font-size: 14px;
+    width: 200px;
+    font-weight: bold;
+}
+
+#cooper_2011_graph1_bar3_text {
+    position: absolute;
+    color: white;
+    top: 10px;
+    left:-70px;
+    z-index: 100;
+    text-align: center;
+    font-size: 10px;
+    width: 200px;
+}
+#cooper_2011_graph1_bar3_text span {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/* GRAPH 2 */
+
+#cooper_2011_graph2_content #graph2_title {
+    font-size: 12px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    letter-spacing: -1px;
+    color:black;
+}
+
+#cooper_2011_graph2_content #graph2_legend1 {
+    position: absolute;
+    top: 25px;
+    left: 236px;
+    font-size: 9px;
+}
+
+#cooper_2011_graph2_content #graph2_legend2 {
+    position: absolute;
+    top: 25px;
+    left: 314px;
+    font-size: 9px;
+}
+
+#cooper_2011_graph2_content #graph2_vertical_axis_value {
+    font-size: 12px;
+    position: absolute;
+    top: 50px;
+    left: 40px;
+}
+#cooper_2011_graph2_content #graph2_vertical_axis_value li {
+    margin-bottom: 23px;
+}
+
+#cooper_2011_graph2_content #graph2_vertical_axis_title {
+    position: absolute;
+    top: 40px;
+    -webkit-transform: rotate(-90deg);
+    left: -170px;
+    font-size: 14px;
+}
+
+#cooper_2011_graph2_content #graph2_bottom_text {
+    position: absolute;
+    font-size: 9px;
+    bottom: -10px;
+    left:50px;
+}
+
+#cooper_2011_graph2_bar1_text span {
+    font-size: 14px;
+    font-weight: bold;
+
+}
+#cooper_2011_graph2_bar1_text {
+    position: absolute;
+    color: white;
+    top: 60px;
+    left:-70px;
+    z-index: 100;
+    text-align: center;
+    font-size: 10px;
+    width: 200px;
+}
+#cooper_2011_graph2_bar2_text {
+    position: absolute;
+    color: white;
+    top: 4px;
+    left:-70px;
+    z-index: 100;
+    text-align: center;
+    font-size: 14px;
+    width: 200px;
+    font-weight: bold;
+}
+
+#cooper_2011_graph2_bar3_text {
+    position: absolute;
+    color: white;
+    top: 10px;
+    left:-70px;
+    z-index: 100;
+    text-align: center;
+    font-size: 10px;
+    width: 200px;
+}
+#cooper_2011_graph2_bar3_text span {
+    font-weight: bold;
+    font-size: 14px;
+}
+#cooper_2011_graph2_bar3_text sup {
+    font-weight: bold;
+    font-size: 10px;
+    margin-top: -10px;
+}
+#cooper_2011_graph1_bar3_text sup {
+    font-weight: bold;
+    font-size: 10px;
+    margin-top: -10px;
+}
+
+/* ALMENAR 2009 */
+#almenar_2009_graph1_legend1 {
+    position: absolute;
+    right: 75px;
+    color:black;
+    font-size: 11px;
+    top: 43px;
+    z-index: 100;
+}
+#almenar_2009_graph1_legend2 {
+    position: absolute;
+    right: 62px;
+    color:black;
+    font-size: 11px;
+    top: 60px;
+    z-index: 100;
+}
+
+#almenar_2009_graph2_legend1 {
+    position: absolute;
+    right: 75px;
+    color:black;
+    font-size: 11px;
+    top: 193px;
+    z-index: 100;
+}
+#almenar_2009_graph2_legend2 {
+    position: absolute;
+    right: 62px;
+    color:black;
+    font-size: 11px;
+    top: 210px;
+    z-index: 100;
+}
+
+#almenar_2009_graph3_legend1 {
+    position: absolute;
+    right: 75px;
+    color:black;
+    font-size: 11px;
+    top: 332px;
+    z-index: 100;
+}
+#almenar_2009_graph3_legend2 {
+    position: absolute;
+    right: 62px;
+    color:black;
+    font-size: 11px;
+    top: 350px;
+    z-index: 100;
+}
+
+/* MOA 2 */
+#line_1_value {
+    position: absolute;
+    top:55px;
+    left: -10px;
+    font-size: 12px;
+}
+
+#line_2_value {
+    position: absolute;
+    top: 135px;
+    left: 30px;
+    font-size: 12px;
+}
+
+#moa_1_graph_content #graph_vertical_axis_title {
+	position: absolute;  
+	-webkit-transform: rotate(-90deg); 
+	left: -220px; 
+	top: -50px; 
+	font-size: 14px;
+}
+#moa_1_graph_content #graph_horizontal_axis_title {
+	position: absolute; 
+	font-size: 13px; 
+	bottom: -10px; 
+	left: 240px; 
+}
+#moa_1_graph_content #graph_bottom_text {
+	position: absolute; 
+	font-size: 10px; 
+	bottom: -30px; 
+	left: -10px; 
+}
+#moa_2_graph_content #graph_vertical_axis_title {
+	position: absolute;  
+	-webkit-transform: rotate(-90deg); 
+	left: -220px; 
+	top: 70px; 
+	font-size: 12px; 
+	text-align: center;
+}
+#moa_2_graph_content #graph_horizontal_axis_title {
+	position: absolute; 
+	font-size: 12px; 
+	bottom: 10px; 
+	left: 240px; 
+}
+#moa_2_graph_content #graph_bottom_text {
+	position: absolute; 
+	font-size: 10px; 
+	bottom: -20px; 
+	left: -10px;
+}
+/* Kuderer 2006 P */
+#kuderer_2006_p_graph_content #graph1_title {
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    font-size: 14px;
+    color: black;
+}
+#kuderer_2006_p_graph_content #graph1_vertical_axis_title {
+    position: absolute;
+    left: -200px;
+    top: -45px;
+    font-size: 12px;
+    -webkit-transform: rotate(-90deg);
+}
+#kuderer_2006_p_graph_content #graph1_vertical_axis_value {
+    position: absolute;
+    top: 56px;
+    left: 90px;
+    font-size: 12px;
+    text-align: right;
+}
+#kuderer_2006_p_graph_content #graph1_vertical_axis_value li {
+    height: 32px;
+    border: 1px solid white;
+}
+#kuderer_2006_p_graph_content #graph1_horizontal_axis_value div {
+    font-size: 10px;
+}
+#kuderer_2006_p_graph_content #graph1_horizontal_axis_value {
+    text-align: right;
+    position: absolute;
+    bottom: 18px;
+    left: 35px;
+    height: 50px;
+}
+#kuderer_2006_p_graph_content #graph1_horizontal_axis_value div {
+    -webkit-transform: rotate(-50deg);
+    float: left;
+    height: 10px;
+    width: 120px;
+    margin-right: -80px;
+}
+#kuderer_2006_p_graph_content #graph1_horizontal_axis_value #column5 {
+    position: relative;
+    right: 5px;
+}
+#kuderer_2006_p_graph_content #graph1_horizontal_axis_value #column6 {
+    position: relative;
+    right: 5px;
+}
+#kuderer_2006_p_graph_content #graph1_horizontal_axis_value #column7 {
+    position: relative;
+    right: 6px;
+}
+#kuderer_2006_p_graph_content #graph1_horizontal_axis_value #column8 {
+    position: relative;
+    right: 8px;
+}
+#kuderer_2006_p_graph_content #graph1_horizontal_axis_value #column9 {
+    position: relative;
+    right: 8px;
+}
+#kuderer_2006_p_graph_content #graph1_horizontal_axis_value #column10 {
+    position: relative;
+    right: 8px;
+}
+#kuderer_2006_p_graph_content #graph1_horizontal_axis_value #column11 {
+    position: relative;
+    right: 8px;
+}
+
+#kuderer_2006_p_graph_content #graph1_column_value {
+    position: absolute;
+    left: 128px;
+    top: 195px;
+}
+#kuderer_2006_p_graph_content #graph1_column_value div {
+    float: left;
+    margin-right: 16px;
+    font-size: 14px;
+    width: 22px;
+    text-align: center;
+}
+
+#kuderer_2006_p_graph_content #graph1_column_value div:last-child {
+    margin-left: 5px !important;
+}
+#kuderer_2006_p_graph_content #graph1_column_value div:nth-child(2) {
+    position: relative;
+    bottom: 10px;
+}
+#kuderer_2006_p_graph_content #graph1_column_value div:nth-child(3) {
+    position: relative;
+    bottom: 18px;
+}
+#kuderer_2006_p_graph_content #graph1_column_value div:nth-child(4) {
+    position: relative;
+    bottom: 28px;
+}
+#kuderer_2006_p_graph_content #graph1_column_value div:nth-child(5) {
+    position: relative;
+    bottom: 50px;
+}
+#kuderer_2006_p_graph_content #graph1_column_value div:nth-child(6) {
+    position: relative;
+    bottom: 54px;
+}
+#kuderer_2006_p_graph_content #graph1_column_value div:nth-child(7) {
+    position: relative;
+    bottom: 56px;
+}
+#kuderer_2006_p_graph_content #graph1_column_value div:nth-child(8) {
+    position: relative;
+    bottom: 89px;
+}
+#kuderer_2006_p_graph_content #graph1_column_value div:nth-child(9) {
+    position: relative;
+    bottom: 99px;
+}
+
+#kuderer_2006_p_graph_content #graph1_column_value div:nth-child(10) {
+    position: relative;
+    bottom: 143px;
+}
+#kuderer_2006_p_graph_content #graph1_column_value div:nth-child(11) {
+    position: relative;
+    bottom: 63px;
+}
+
+#kuderer_2006_p_graph_content #graph1_bottom_text {
+    position: absolute;
+    bottom: -10px;
+    left: 30px;
+    font-size: 10px;
+}
+
+/* WEYCKLER 2006 P */
+#weyckler_2006_p_large {
+	width:840px;
+	-webkit-transform: scale(0.7); 
+}
+
+#weyckler_2006_p_graph_holder {
+	position:absolute;
+	top:40px;
+	left:110px;
+}
+#weyckler_2006_p_graph_content #graph1_vertical_axis_title {
+	position: absolute; 
+	-webkit-transform: rotate(-90deg); 
+	left: -430px; 
+	top: -230px; 
+}
+#weyckler_2006_p_graph_content #graph1_horizontal_axis_title { 
+   position: absolute; 
+	top: 300px; 
+	left:160px; 
+	font-size: 13px; 
+}
+#weyckler_2006_p_graph_content #graph1_legend_1 { 
+   position: absolute; 
+	font-size: 9px; 
+	left: 345px; 
+	top: 33px; 
+}
+#weyckler_2006_p_graph_content #graph1_legend_2 { 
+   position: absolute; 
+	font-size: 9px; 
+	left: 344px; 
+	top: 43px; 
+	background: white; 
+	width: 122px; 
+	padding: 5px 1px 0px 0px; 
+}
+#weyckler_2006_p_graph_content #graph1_bottom_text { 
+   position: absolute; 
+	font-size: 10px;
+	bottom: -5px; 
+	left: 10px;
+}
+/* WEYCKLER 2006 P  LARGE */
+#weyckler_2006_p_graph_content_large #graph1_vertical_axis_title_large {
+	width:300px;
+   position: absolute;
+	left: -110px;
+	top: 200px;
+	font-size: 18px;
+	-webkit-transform: rotate(-90deg);
+	z-index: 20;
+	margin:0;
+	padding:0;
+}
+#weyckler_2006_p_graph_content_large #graph1_horizontal_axis_title_large { 
+   position: absolute; 
+	bottom:100px; 
+	left: 320px; 
+	font-size: 16px;
+	padding:0;
+	margin:0; 
+}
+#weyckler_2006_p_graph_content_large #graph1_legend_1_large { 
+   position: absolute; 
+	top:80px; 
+	left: 555px; 
+	font-size: 13px; 
+	padding:0;
+	margin:0;
+}
+#weyckler_2006_p_graph_content_large #graph1_legend_2_large { 
+   position: absolute; 
+	top:103px; 
+	left: 555px; 
+	font-size: 13px; 
+	padding:0;
+	margin:0;
+}
+#weyckler_2006_p_graph_content_large #graph1_legend_3_large { 
+   position: absolute; 
+	top:123px; 
+	left: 555px; 
+	font-size: 13px; 
+	padding:0;
+	margin:0;
+}
+
+#weyckler_2006_p_graph_content_large #graph1_bottom_text_large {
+	position: absolute;  
+	bottom: 20px; 
+	left: 40px;
+	font-size: 12px; 
+	padding:0 !important;
+	margin:0;
+}
+
+/* KUDERER 2006 P LARGE */
+#kuderer_2006_p_graph_content_large #graph1_title_large {
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    font-size: 18px;
+    color: black;
+}
+#kuderer_2006_p_graph_content_large #graph1_vertical_axis_title_large {
+    position: absolute;
+    left: -40px;
+    top: 205px;
+    font-size: 16px;
+    -webkit-transform: rotate(-90deg);
+}
+#kuderer_2006_p_graph_content_large #graph1_vertical_axis_value_large {
+    display:none;
+}
+
+#kuderer_2006_p_graph_content_large #graph1_horizontal_axis_value_large div {
+    font-size: 16px;
+}
+#kuderer_2006_p_graph_content_large #graph1_horizontal_axis_value_large {
+    text-align: right;
+    position: absolute;
+    bottom: 88px;
+    left: 40px;
+}
+#kuderer_2006_p_graph_content_large #graph1_horizontal_axis_value_large div {
+    -webkit-transform: rotate(-50deg);
+    float: left;
+    height: 10px;
+    width: 160px;
+    margin-right: -100px;
+}
+#kuderer_2006_p_graph_content_large #graph1_horizontal_axis_value_large #column5_large {
+    position: relative;
+    right: 5px;
+}
+#kuderer_2006_p_graph_content_large #graph1_horizontal_axis_value_large #column6_large {
+    position: relative;
+    right: 5px;
+}
+#kuderer_2006_p_graph_content_large #graph1_horizontal_axis_value_large #column7_large {
+    position: relative;
+    right: 6px;
+}
+#kuderer_2006_p_graph_content_large #graph1_horizontal_axis_value_large #column8_large {
+    position: relative;
+    right: 8px;
+}
+#kuderer_2006_p_graph_content_large #graph1_horizontal_axis_value_large #column9_large {
+    position: relative;
+    right: 8px;
+}
+#kuderer_2006_p_graph_content_large #graph1_horizontal_axis_value_large #column10_large {
+    position: relative;
+    right: 8px;
+}
+#kuderer_2006_p_graph_content_large #graph1_horizontal_axis_value_large #column11_large {
+    position: relative;
+    right: 8px;
+}
+
+#kuderer_2006_p_graph_content_large #graph1_column_value_large {
+    position: absolute;
+    left: 158px;
+    top: 285px;
+}
+#kuderer_2006_p_graph_content_large #graph1_column_value_large div {
+    float: left;
+    margin-right: 37.5px;
+    font-size: 14px;
+    width: 22px;
+    text-align: center;
+}
+
+#kuderer_2006_p_graph_content_large #graph1_column_value_large div:last-child {
+    margin-left: 5px !important;
+}
+#kuderer_2006_p_graph_content_large #graph1_column_value_large div:nth-child(2) {
+	position: relative; 
+	bottom: 15px;
+}
+#kuderer_2006_p_graph_content_large #graph1_column_value_large div:nth-child(3) {
+	position: relative; 
+	bottom: 25px;
+}
+#kuderer_2006_p_graph_content_large #graph1_column_value_large div:nth-child(4) {
+	position: relative; 
+	bottom: 45px;
+}
+#kuderer_2006_p_graph_content_large #graph1_column_value_large div:nth-child(5) {
+	position: relative; 
+	bottom: 75px; 
+}
+#kuderer_2006_p_graph_content_large #graph1_column_value_large div:nth-child(6) {
+	position: relative; 
+	bottom: 80px; 
+}
+#kuderer_2006_p_graph_content_large #graph1_column_value_large div:nth-child(7) {
+	position: relative; 
+	bottom: 83px; 
+}
+#kuderer_2006_p_graph_content_large #graph1_column_value_large div:nth-child(8) {
+	position: relative; 
+	bottom: 135px; 
+}
+#kuderer_2006_p_graph_content_large #graph1_column_value_large div:nth-child(9) {
+	position: relative; 
+	bottom: 149px; 
+}
+#kuderer_2006_p_graph_content_large #graph1_column_value_large div:nth-child(10) {
+	position: relative; 
+	bottom: 216px; 
+}
+#kuderer_2006_p_graph_content_large #graph1_column_value_large div:nth-child(11) {
+	position: relative; 
+	bottom: 95px; 
+}
+#kuderer_2006_p_graph_content_large #graph1_bottom_text_large {
+	position: absolute; 
+	bottom: 20px; 
+	left: 30px; 
+	font-size: 11px;
+}
+
+/* WEYCKLER 2009 P */
+#weyckler_2009_p_graph_content #table_header_1 {
+	position: absolute; 
+	font-size: 10px; 
+	letter-spacing: -1px; 
+	text-transform: uppercase; 
+	top: 55px; 
+	left: 38px; 
+}
+#weyckler_2009_p_graph_content #table_header_2 {
+	position: absolute; 
+	font-size: 10px; 
+	letter-spacing: -1px; 
+	text-transform: uppercase; 
+	top: 50px; 
+	left: 152px; 
+	text-align: center; 
+}
+#weyckler_2009_p_graph_content #table_header_3 {
+	position: absolute; 
+	font-size: 10px; 
+	letter-spacing: -1px; 
+	text-transform: uppercase; 
+	top: 55px; 
+	left: 250px; 
+	text-align: center; 
+}
+#weyckler_2009_p_graph_content #table_header_4 {
+	position: absolute; 
+	font-size: 10px; 
+	letter-spacing: -1px; 
+	text-transform: uppercase; 
+	top: 50px; 
+	left: 385px; 
+	text-align: center; 
+}
+#weyckler_2009_p_graph_content #cell_1 {
+	position: absolute; 
+	font-size: 11px; 
+	letter-spacing: -1px;  
+	top: 80px; 
+	left:20px; 
+	color: gray;  
+}
+#weyckler_2009_p_graph_content #cell_2 {
+	position: absolute; 
+	font-size: 11px; 
+	letter-spacing: -1px;  
+	top: 85px; 
+	left:140px; 
+	color: gray;  
+}
+#weyckler_2009_p_graph_content #cell_3 {
+	position: absolute; 
+	font-size: 11px; 
+	letter-spacing: -1px;  
+	top: 90px; 
+	left:220px; 
+	color: gray;  
+}
+#weyckler_2009_p_graph_content #cell_4 {
+	position: absolute; 
+	font-size: 11px; 
+	letter-spacing: -1px;  
+	top: 138px; 
+	left:20px; 
+	color: gray;  
+}
+#weyckler_2009_p_graph_content #cell_5 {
+	position: absolute; 
+	font-size: 11px; 
+	letter-spacing: -1px;  
+	top: 148px; 
+	left:140px; 
+	color: gray;  
+}
+#weyckler_2009_p_graph_content #cell_6 {
+	position: absolute; 
+	font-size: 11px; 
+	letter-spacing: -1px;  
+	top: 155px; 
+	left:220px; 
+	color: gray;  
+}
+#weyckler_2009_p_graph_content #graph_scale_values {
+	position: absolute; 
+	top: 270px; 
+	font-size: 10px; 
+	left: 296px;  
+	width: 300px;
+}
+#weyckler_2009_p_graph_content #graph_scale_values li {
+	display: inline; 
+	margin-right: 42px;
+}
+#weyckler_2009_p_graph_content #left_arrow_text {
+	position: absolute; 
+	font-size: 11px; 
+	color: gray; 
+	bottom: 50px; 
+	left: 280px; 
+	letter-spacing: -1px;
+}
+#weyckler_2009_p_graph_content #right_arrow_text {
+	position: absolute; 
+	font-size: 11px; 
+	color: gray; 
+	bottom: 40px; 
+	left: 455px; 
+	width: 60px; 
+	text-align: right; 
+	letter-spacing: -1px;
+}
+#weyckler_2009_p_graph_content #bottom_text {
+	position: absolute; 
+	font-size: 10px; 
+	bottom: 0px; 
+	left: 5px;  
+
+}
+/* WEYCKLER 2009 P LARGE */
+#weyckler_2009_p_large {
+	width:840px;
+	-webkit-transform: scale(0.7); 
+}
+
+#weyckler_2009_p_graph_holder {
+	position:absolute;
+	top:90px;
+	left:110px;
+}
+
+#weyckler_2009_p_graph_content_large #table_header_1_large {
+	position: absolute; 
+	font-size: 14px; 
+	letter-spacing: -1px; 
+	text-transform: uppercase; 
+	top: 67px; 
+	left: 64px;
+	padding:0;
+	margin:0;
+}
+#weyckler_2009_p_graph_content_large #table_header_2_large {
+	position: absolute; 
+	font-size: 14px; 
+	letter-spacing: -1px; 
+	text-transform: uppercase;
+	top: 60px; 
+	left: 220px; 
+	text-align: center; 
+	padding:0;
+	margin:0;
+}
+#weyckler_2009_p_graph_content_large #table_header_3_large {
+	position: absolute; 
+	font-size: 14px; 
+	letter-spacing: -1px; 
+	text-transform: uppercase; 
+	top: 65px; 
+	left: 356px; 
+	text-align: center; 
+	padding:0;
+	margin:0;
+}
+#weyckler_2009_p_graph_content_large #table_header_4_large {
+	position: absolute; 
+	font-size: 14px; 
+	letter-spacing: -1px; 
+	text-transform: uppercase; 
+	top: 60px; 
+	left: 545px; 
+	text-align: center; 
+	padding:0;
+	margin:0;
+}
+#weyckler_2009_p_graph_content_large #cell_1_large {
+	position: absolute; 
+	font-size: 14px; 
+	letter-spacing: -1px;  
+	top: 110px; 
+	left:60px; 
+	color: gray;
+	padding:0;
+	margin:0;  
+}
+#weyckler_2009_p_graph_content_large #cell_2_large {
+	position: absolute; 
+	font-size: 14px; 
+	letter-spacing: -1px;  
+	top: 130px; 
+	left:230px; 
+	text-align: left; 
+	color: gray; 
+	padding:0;
+	margin:0; 
+}
+#weyckler_2009_p_graph_content_large #cell_3_large {
+	position: absolute; 
+	font-size: 14px; 
+	letter-spacing: -1px;  
+	top: 138px; 
+	left:344px; 
+	color: gray;
+	padding:0;
+	margin:0;  
+}
+#weyckler_2009_p_graph_content_large #cell_4_large {
+	position: absolute; 
+	font-size: 14px; 
+	letter-spacing: -1px;  
+	top: 190px; 
+	left:60px; 
+	color: gray;  
+	padding:0;
+	margin:0;
+}
+#weyckler_2009_p_graph_content_large #cell_5_large {
+	position: absolute; 
+	font-size: 14px; 
+	letter-spacing: -1px;  
+	top: 208px; 
+	left:230px; 
+	text-align: left; 
+	color: gray; 
+	padding:0;
+	margin:0; 
+}
+#weyckler_2009_p_graph_content_large #cell_6_large {
+	position: absolute; 
+	font-size: 14px; 
+	letter-spacing: -1px;  
+	top: 215px; 
+	left:345px; 
+	color: gray;  
+	padding:0;
+	margin:0;
+}
+#weyckler_2009_p_graph_content_large #graph_scale_values_large {
+	position: absolute; 
+	top: 340px; 
+	font-size: 11px; 
+	left: 420px;  
+	width: 500px;
+	padding:0;
+	margin:0;
+}
+#weyckler_2009_p_graph_content_large #graph_scale_values_large li {
+	display: inline; 
+	margin-right: 65px; 
+}
+#weyckler_2009_p_graph_content_large #left_arrow_text_large {
+	position: absolute; 
+	font-size: 13px; 
+	color: gray; 
+	bottom: 165px; 
+	left: 420px; 
+	letter-spacing: -1px;
+	padding:0;
+	margin:0;
+}
+#weyckler_2009_p_graph_content_large #right_arrow_text_large {
+	position: absolute; 
+	font-size: 13px; 
+	color: gray; 
+	bottom:155px; 
+	left: 675px; 
+	width: 80px; 
+	text-align: right; 
+	letter-spacing: -1px;
+	padding:0;
+	margin:0;
+}
+#weyckler_2009_p_graph_content_large #bottom_text_large {
+	
+	font-size: 12px; 
+	bottom: 20x; 
+	left: 45px !imporant;  
+	padding:0 0 10px 40px !important;
+	margin:0;
+}
+/* LYMAN 2010 P GRAPH 1 */
+#lyman_2010_p_graph1_content #graph1_vertical_axis_title {
+	position: absolute; 
+	left: -175px; 
+	top: -45px; 
+	font-size: 12px; 
+	-webkit-transform: rotate(-90deg); 
+}
+#lyman_2010_p_graph1_content #graph1_horizontal_axis_title {
+	position: absolute; 
+	left: 150px; 
+	bottom: 25px; 
+	font-size: 11px;
+}
+#lyman_2010_p_graph1_content #graph1_legend_1 {
+	position: absolute; 
+	font-size: 9px; 
+	top: 75px; 
+	left: 85px; 
+}
+#lyman_2010_p_graph1_content #graph1_legend_2 {
+	position: absolute;
+	font-size: 9px;
+	top: 85px;
+	left: 85px;
+}
+#lyman_2010_p_graph1_content #graph1_legend_3 {
+	position: absolute;
+	font-size: 9px;
+	top: 100px;
+	left: 85px;
+}
+#lyman_2010_p_graph1_content #graph1_legend_4 {
+	position: absolute;
+	font-size: 9px;
+	top: 28px;
+	left: 365px;
+}
+#lyman_2010_p_graph1_content #graph1_bottom_text {
+	position: absolute;
+	bottom: -5px;
+	left: 10px;
+	font-size: 9px;
+}
+#lyman_2010_p_graph1_content #graph1_title {
+	position: absolute;
+	top: 10px;
+	left: 20px;
+	font-size: 12px;
+	color: black; 
+	letter-spacing: -1px;
+}
+#lyman_2010_p_graph1_content #graph1_horizontal_axis_value {
+	font-size: 10px; 
+	position: absolute; 
+	z-index: 100;
+	top: 36px; 
+	left: 55px;
+}
+#lyman_2010_p_graph1_content #graph1_horizontal_axis_value li {
+	margin-bottom: 37px;
+}
+
+/* LYMAN 2010 P GRAPH 1 LARGE */
+#lyman_2010_p_large {
+	width:840px;
+	-webkit-transform: scale(0.55); 
+}
+
+#lyman_2010_p_graph1_holder {
+	position:absolute;
+	top:60px;
+	left:-120px;
+}
+
+#lyman_2010_p_graph1_content_large #graph1_vertical_axis_title_large {
+	width:400px;
+	position: absolute; 
+	left: -140px; 
+	top: 130px; 
+	font-size: 20px; 
+	-webkit-transform: rotate(-90deg);
+	padding:0;
+	margin:0;
+}
+#lyman_2010_p_graph1_content_large #graph1_horizontal_axis_title_large {
+	 position: absolute; 
+	 left: 350px; 
+	 bottom: 65px; 
+	 font-size: 16px;
+	 padding:0;
+	 margin:0;
+}
+#lyman_2010_p_graph1_content_large #graph1_legend_1_large {
+	position: absolute; 
+	font-size: 13px; 
+	top: 200px; 
+	left: 200px;
+	padding:0;
+	margin:0;
+}
+#lyman_2010_p_graph1_content_large #graph1_legend_2_large {
+	position: absolute;
+	font-size: 13px;
+	top: 220px; 
+	left: 200px;
+	padding:0;
+	margin:0; 
+}
+#lyman_2010_p_graph1_content_large #graph1_legend_3_large {
+	position: absolute;
+	font-size: 13px;
+	top: 244px;
+	left: 200px;
+	padding:0;
+	margin:0;
+}
+#lyman_2010_p_graph1_content_large #graph1_legend_4_large {
+	position: absolute;
+	font-size: 13px;
+	top: 128px;
+	left: 695px;
+	padding:0;
+	margin:0;
+}
+#lyman_2010_p_graph1_content_large #graph1_bottom_text_large {
+	position: absolute;
+	bottom: 15px;
+	left: 40px;
+	font-size: 12px;
+	padding:0 !important;
+	margin:0;
+}
+#lyman_2010_p_graph1_content_large #graph1_title_large {
+	position: absolute;
+	top: 20px;
+	left: 40px;
+	font-size: 18px;
+	color: black; 
+	letter-spacing: -1px;
+	padding:0;
+	margin:0;
+}
+#lyman_2010_p_graph1_content_large #graph1_vertical_axis_value_large {
+	font-size: 16px; 
+	position: absolute; 
+	z-index: 100;
+	top: 105px; 
+	left: 120px;
+	padding:0;
+	margin:0;
+}
+#lyman_2010_p_graph1_content_large #graph1_vertical_axis_value_large li {
+	margin-bottom: 63px;
+}
+
+#lyman_2010_p_graph1_content_large #graph1_horizontal_axis_value_large {
+	 width:650px;
+	 font-size: 20px;
+    position: absolute;
+    z-index: 100;
+    top: 360px;
+    left: 160px;
+}
+
+#lyman_2010_p_graph1_content_large #graph1_horizontal_axis_value_large li {
+	width:43px;
+	display:inline-block;
+}
+
+/* LYMAN 2010 GRAPH 2 */
+#lyman_2010_p_large2 {
+	width:840px;
+	-webkit-transform: scale(0.55); 
+}
+
+#lyman_2010_p_large2 img {
+	margin:32px 0 33px 0;
+}
+
+#lyman_2010_p_graph2_holder {
+	position:absolute;
+	top:65px;
+	left:360px;
+}
+
+#lyman_2010_p_graph2_content #graph2_title {
+	position: absolute; 
+	font-size: 12px; 
+	color: black; 
+	letter-spacing: -1px; 
+	top: 10px; 
+	left: 10px;
+	width: 340px;
+}
+
+#lyman_2010_p_graph2_content #graph2_table_header1 {
+	position: absolute; 
+	color: rgb(178,33,61); 
+	font-size: 9px; 
+	width: 100px; 
+	text-align: center; 
+	top: 82px; 
+	left: 100px;
+}
+#lyman_2010_p_graph2_content #graph2_table_header2 {
+	position: absolute; 
+	color: rgb(178,33,61); 
+	font-size: 9px; 
+	width: 100px; 
+	text-align: center; 
+	top: 86px; 
+	left: 190px;
+}
+#lyman_2010_p_graph2_content #graph2_table_header3 {
+	position: absolute; 
+	color: rgb(178,33,61); 
+	font-size: 9px; 
+	width: 100px; 
+	text-align: center; 
+	top: 86px; 
+	left: 284px;
+}
+#lyman_2010_p_graph2_content #graph2_table_row1 {
+	position: absolute; 
+	color: rgb(60,106,181); 
+	font-size: 9px; 
+	width: 80px; 
+	text-align: left; 
+	top: 117px; 
+	left: 15px;
+}
+#lyman_2010_p_graph2_content #graph2_table_row2 {
+	position: absolute; 
+	color: rgb(60,106,181); 
+	font-size: 9px;  
+	width: 100px; 
+	text-align: left; 
+	top: 153px; 
+	left: 15px;
+}
+
+#lyman_2010_p_graph2_content #graph2_cell1 {
+	position: absolute; 
+	font-size: 10px; 
+	top: 100px; 
+	left: 118px; 
+}
+#lyman_2010_p_graph2_content #graph2_cell2 {
+	position: absolute;
+	font-size: 10px; 
+	top: 100px; 
+	left: 195px; 
+}
+#lyman_2010_p_graph2_content #graph2_cell3 {
+	position: absolute; 
+	font-size: 10px; 
+	top: 100px; 
+	left: 295px; 
+}
+#lyman_2010_p_graph2_content #graph2_cell4 {
+	position: absolute; 
+	font-size: 10px; 
+	top: 131px; 
+	left: 118px; 
+}
+#lyman_2010_p_graph2_content #graph2_cell5 {
+	position: absolute; 
+	font-size: 10px; 
+	top: 131px; 
+	left: 195px; 
+}
+#lyman_2010_p_graph2_content #graph2_cell6 {
+	position: absolute; 
+	font-size: 10px; 
+	top: 131px; 
+	left: 295px; 
+}
+#lyman_2010_p_graph2_content #left_box_text {
+	position: absolute; 
+	font-size: 12px; 
+	text-align: center; 
+	top: 194px; 
+	left: -75px; 
+	color: white; 
+}
+#lyman_2010_p_graph2_content #right_box_text {
+	position: absolute; 
+	font-size: 12px; 
+	text-align: center; 
+	top: 194px; 
+	left: 115px; 
+	color: white; 
+}
+/* LYMAN 2010 GRAPH 2 LARGE */
+#lyman_2010_p_graph2_content_large #graph2_title_large {
+	position: absolute;
+	font-size: 18px; 
+	color: black; 
+	letter-spacing: -1px; 
+	top: 20px; 
+	left: 40px; 
+}
+#lyman_2010_p_graph2_content_large #graph2_table_header1_large {
+	position: absolute; 
+	color: rgb(178,33,61); 
+	font-size: 17px; 
+	width: 150px; 
+	text-align: center; 
+	top:110px; 
+	left: 245px;
+}
+#lyman_2010_p_graph2_content_large #graph2_table_header2_large {
+	position: absolute; 
+	color: rgb(178,33,61); 
+	font-size: 17px; 
+	width: 150px; 
+	text-align: center; 
+	top:120px; 
+	left: 420px;
+}
+#lyman_2010_p_graph2_content_large #graph2_table_header3_large {
+	position: absolute;
+	color: rgb(178,33,61);
+	font-size: 17px;
+	width: 150px;
+	text-align: center;
+	top:120px;
+	left: 595px;
+}
+#lyman_2010_p_graph2_content_large #graph2_table_row1_large {
+	position: absolute; 
+	color: rgb(60,106,181); 
+	font-size: 17px; 
+	width: 80px; 
+	text-align: left; 
+	top: 170px; 
+	left: 80px;
+}
+#lyman_2010_p_graph2_content_large #graph2_table_row2_large {
+	position: absolute; 
+	color: rgb(60,106,181); 
+	font-size: 17px; 
+	width: 80px; 
+	text-align: left; 
+	top: 225px; 
+	left: 80px;
+}
+#lyman_2010_p_graph2_content_large #graph2_cell1_large {
+	position: absolute; 
+	font-size: 19px; 
+	top: 180px; 
+	left: 305px;
+	margin:0;
+	padding:0;
+}
+#lyman_2010_p_graph2_content_large #graph2_cell2_large {
+	position: absolute; 
+	font-size: 19px; 
+	top: 180px; 
+	left: 455px; 
+	margin:0;
+	padding:0; 
+}
+#lyman_2010_p_graph2_content_large #graph2_cell3_large {
+	position: absolute; 
+	font-size: 19px; 
+	top: 180px; 
+	left: 635px; 
+	margin:0;
+	padding:0; 
+}
+#lyman_2010_p_graph2_content_large #graph2_cell4_large {
+	position: absolute; 
+	font-size: 19px; 
+	top: 237px; 
+	left: 305px;  
+	margin:0;
+	padding:0;
+}
+#lyman_2010_p_graph2_content_large #graph2_cell5_large {
+	position: absolute; 
+	font-size: 19px; 
+	top: 237px; 
+	left: 455px;  
+	margin:0;
+	padding:0;
+}
+#lyman_2010_p_graph2_content_large #graph2_cell6_large {
+	position: absolute; 
+	font-size: 19px; 
+	top: 237px; 
+	left: 635px;
+	margin:0;
+	padding:0;  
+}
+#lyman_2010_p_graph2_content_large #left_box_text_large {
+	width:320px;
+	position: absolute; 
+	font-size: 22px; 
+	text-align: center; 
+	top: 360px; 
+	left: 70px; 
+	color: white; 
+	margin:0;
+	padding:0; 
+}
+#lyman_2010_p_graph2_content_large #right_box_text_large {
+	width:320px;
+	position: absolute; 
+	font-size: 22px; 
+	text-align: center; 
+	top: 360px; 
+	left: 420px; 
+	color: white; 
+	margin:0;
+	padding:0 !important; 
+}
+
+/* KUDERER 2007 P GRAPH 1 */
+
+#kuderer_2007_p_graph1_content #graph1_header { position: absolute; font-size: 14px; color: black; left: 82px; top: 15px; }
+#kuderer_2007_p_graph1_content #graph1_sub_header { position: absolute; font-size: 14px; color: black; left: 64px; top: 30px; }
+
+#kuderer_2007_p_graph1_content #graph1_vertical_axis_title { position: absolute; -webkit-transform: rotate(-90deg); font-size: 11px; left: -160px; top: 70px; }
+
+#kuderer_2007_p_graph1_content #graph1_legend1 { position: absolute; font-size: 10px; top: 269px; left: 216px; }
+#kuderer_2007_p_graph1_content #graph1_legend2 { position: absolute; font-size: 10px; top: 283px; left: 216px; }
+#kuderer_2007_p_graph1_content #graph1_legend3 { position: absolute; font-size: 10px; top: 298px; left: 216px; }
+
+#kuderer_2007_p_graph1_content #graph1_arrow1_value { position: absolute; left: 105px; top: 295px; z-index: 100; color: rgb(132,196,185);display: none;}
+#kuderer_2007_p_graph1_content #graph1_arrow2_value { position: absolute; left: 185px; top: 115px; z-index: 100; color: gray; background: white; width: 25px; padding: 0 10px;display: none;}
+#kuderer_2007_p_graph1_content #graph1_arrow3_value { position: absolute; left: 276px; top: 205px; z-index: 100; color: gray; background: white; width: 25px; padding: 0 10px;display: none;}
+
+/* KUDERER 2007 P GRAPH 2 */
+
+#kuderer_2007_p_graph2_content #graph2_header { position: absolute; font-size: 14px; color: black; left: 82px; top: 15px; }
+#kuderer_2007_p_graph2_content #graph2_sub_header { position: absolute; font-size: 14px; color: black; left: 64px; top: 30px; }
+
+#kuderer_2007_p_graph2_content #graph2_vertical_axis_title { position: absolute; -webkit-transform: rotate(-90deg); font-size: 11px; left: -160px; top: 70px; }
+
+#kuderer_2007_p_graph2_content #graph2_legend1 { position: absolute; font-size: 10px; top: 269px; left: 205px; }
+#kuderer_2007_p_graph2_content #graph2_legend2 { position: absolute; font-size: 10px; top: 283px; left: 205px; }
+#kuderer_2007_p_graph2_content #graph2_legend3 { position: absolute; font-size: 10px; top: 298px; left: 205px; }
+
+#kuderer_2007_p_graph2_content #graph2_arrow1_value { position: absolute; left: 85px; top: 252px; z-index: 100; color: rgb(132,196,185); width: 25px; padding: 0 10px; background: white;display: none;}
+#kuderer_2007_p_graph2_content #graph2_arrow2_value { position: absolute; left: 175px; top: 115px; z-index: 100; color: gray; background: white; width: 25px; padding: 0 10px;display: none;}
+#kuderer_2007_p_graph2_content #graph2_arrow3_value { position: absolute; left: 276px; top: 205px; z-index: 100; color: gray; background: white; width: 25px; padding: 0 10px; display: none;}
+
+
+/* LEONARD 2009 P  */
+
+
+#leonard_2009_p_graph_content #graph_header { position: absolute; font-size: 14px; left: 60px; top: 15px;}
+#leonard_2009_p_graph_content #graph_vertical_axis_title { -webkit-transform: rotate(-90deg); position:absolute; font-size: 10px; left: -180px; top: 80px; }
+#leonard_2009_p_graph_content #graph_horizontal_axis_title1 { position: absolute; font-size: 10px; top: 300px; left: 80px;}
+#leonard_2009_p_graph_content #graph_horizontal_axis_title2 { position: absolute; font-size: 10px; top: 300px; left:189px;}
+#leonard_2009_p_graph_content #graph_horizontal_axis_title3 { position: absolute; font-size: 10px; top: 300px; left:324px;}
+#leonard_2009_p_graph_content #graph_arrow1_value { position: absolute;  top: 190px; left: 95px; z-index: 100; color: white;}
+#leonard_2009_p_graph_content #graph_arrow2_value { position: absolute;  top:122px; left: 210px; z-index: 100; color: white;}
+#leonard_2009_p_graph_content #graph_arrow3_value { position: absolute;  top: 88px; left: 333px; z-index: 100; color: white;}
+
+#leonard_2009_p_graph_content #graph_bottom_text { position: absolute; bottom: 0px; font-size: 10px; }
+
+
+/* LEONARD 2009 P LARGE */
+
+
+#leonard_2009_p_graph_content_large #graph_header_large { position: absolute; font-size: 22px; left: 120px; top: 30px;}
+#leonard_2009_p_graph_content_large #graph_vertical_axis_title_large { -webkit-transform: rotate(-90deg); position:absolute; font-size: 16px; left: -100px; top:250px; }
+#leonard_2009_p_graph_content_large #graph_horizontal_axis_title1_large { position: absolute; font-size: 15px; top: 445px; left: 210px;}
+#leonard_2009_p_graph_content_large #graph_horizontal_axis_title2_large { position: absolute; font-size: 15px; top: 445px; left:380px;}
+#leonard_2009_p_graph_content_large #graph_horizontal_axis_title3_large { position: absolute; font-size: 15px; top: 445px; left:584px;}
+#leonard_2009_p_graph_content_large #graph_arrow1_value_large { position: absolute;  top: 290px; left: 240px; z-index: 100; color: white;}
+#leonard_2009_p_graph_content_large #graph_arrow2_value_large { position: absolute;  top:205px; left: 419px; z-index: 100; color: white;}
+#leonard_2009_p_graph_content_large #graph_arrow3_value_large { position: absolute;  top: 155px; left: 603px; z-index: 100; color: white;}
+
+#leonard_2009_p_graph_content_large #graph_bottom_text_large { position: absolute; bottom: 20px; left: 50px; font-size: 12px; }
+
+
+/* ALMENAR 2009 P */
+
+#almenar_2009_p_graph_content #graph_title { position: absolute; font-size: 13px; letter-spacing: -1px; left: 90px; top: 10px;}
+
+#almenar_2009_p_graph_content #graph_legend1 { position: absolute; font-size: 10px; left: 453px; top: 32px; }
+#almenar_2009_p_graph_content #graph_legend2 { position: absolute; font-size: 10px; left: 453px; top: 45px; }
+
+#almenar_2009_p_graph_content #graph_vertical_axis_title { -webkit-transform: rotate(-90deg); position: absolute; left: -250px; font-size: 12px; text-align: center; top: 150px; }
+#almenar_2009_p_graph_content #graph_left_text { position: absolute; font-size: 11px; top: 285px; left: 107px; }
+#almenar_2009_p_graph_content #graph_mid_text { position: absolute; font-size: 11px; top: 287px; left: 75px; text-align: center; }
+#almenar_2009_p_graph_content #graph_right_text { position: absolute; font-size: 11px; top: 287px; left: 255px; text-align: center; }
+
+#almenar_2009_p_graph_content #graph_bar1_value { position: absolute; font-size: 12px; left: 124px; top: 161px; color: white; font-weight: bold;}
+#almenar_2009_p_graph_content #graph_bar2_value { position: absolute; font-size: 12px; left: 166px; top: 244px; color: white; font-weight: bold;}
+#almenar_2009_p_graph_content #graph_bar3_value { position: absolute; font-size: 12px; left: 299px; top: 181px; color: white; font-weight: bold;}
+#almenar_2009_p_graph_content #graph_bar4_value { position: absolute; font-size: 12px; left: 347px; top: 259px; color: white; font-weight: bold;}
+#almenar_2009_p_graph_content #graph_bar5_value { position: absolute; font-size: 12px; left: 475px; top: 187px; color: white; font-weight: bold;}
+#almenar_2009_p_graph_content #graph_bar6_value { position: absolute; font-size: 12px; left: 523px; top: 250px; color: white; font-weight: bold;}
+
+#almenar_2009_p_graph_content #graph_bottom_text { position: absolute; font-size: 10px; bottom: -10px;}
+
+/* ALMENAR 2009 P LARGE */
+
+#almenar_2009_p_graph_content_large #graph_title_large { position: absolute; font-size: 18px; letter-spacing: -1px; left: 80px; top: 20px;}
+
+#almenar_2009_p_graph_content_large #graph_legend1_large { position: absolute; font-size: 10px; left: 605px; top: 103px; }
+#almenar_2009_p_graph_content_large #graph_legend2_large { position: absolute; font-size: 10px; left: 605px; top: 119px; }
+
+#almenar_2009_p_graph_content_large #graph_vertical_axis_title_large { -webkit-transform: rotate(-90deg); position: absolute; left: -85px; font-size: 15px; text-align: center; top: 210px; }
+#almenar_2009_p_graph_content_large #graph_left_text_large { position: absolute; font-size: 13px; top: 400px; left: 157px; }
+#almenar_2009_p_graph_content_large #graph_mid_text_large { position: absolute; font-size: 13px; top: 400px; left:390px; text-align: center; }
+#almenar_2009_p_graph_content_large #graph_right_text_large { position: absolute; font-size: 13px; top: 400px; left: 635px; text-align: center; }
+
+#almenar_2009_p_graph_content_large #graph_bar1_value_large { position: absolute; font-size: 13px; left: 178px; top: 251px; color: white; font-weight: bold;}
+#almenar_2009_p_graph_content_large #graph_bar2_value_large { position: absolute; font-size: 13px; left: 235px; top: 350px; color: white; font-weight: bold;}
+#almenar_2009_p_graph_content_large #graph_bar3_value_large { position: absolute; font-size: 13px; left: 412px; top: 280px; color: white; font-weight: bold;}
+#almenar_2009_p_graph_content_large #graph_bar4_value_large { position: absolute; font-size: 13px; left: 469px; top: 373px; color: white; font-weight: bold;}
+#almenar_2009_p_graph_content_large #graph_bar5_value_large { position: absolute; font-size: 13px; left: 640px; top: 286px; color: white; font-weight: bold;}
+#almenar_2009_p_graph_content_large #graph_bar6_value_large { position: absolute; font-size: 13px; left: 699px; top: 363px; color: white; font-weight: bold;}
+
+#almenar_2009_p_graph_content_large #graph_bottom_text_large { position: absolute; font-size: 12px; left: 30px; bottom: 20px;}
+
+
+
+/* COOPER 2011 P */
+
+#cooper_2011_p_graph_content #graph_header { position: absolute; font-size: 13px; left: 10px; }
+#cooper_2011_p_graph_content #sub_header_1 { position: absolute; font-size: 10px; left: 120px;  top: 60px; color: black; }
+#cooper_2011_p_graph_content #sub_header_2 { position: absolute; font-size: 10px; left: 275px;  top: 60px; color: black; }
+#cooper_2011_p_graph_content #sub_header_3 { position: absolute; font-size: 10px; left: 430px;  top: 60px; color: black; }
+.stronger { font-weight: bold; }
+#cooper_2011_p_graph_content #table_headers { position: absolute; top: 85px;left: 35px;}
+#cooper_2011_p_graph_content #table_headers li { display: inline; font-size: 12px; font-weight: bold; letter-spacing: -1px; margin-right: 19px;}
+#cooper_2011_p_graph_content #table_column_1 { position: absolute; font-size: 10px; letter-spacing: -1px; top: 120px; left: 35px;}
+#cooper_2011_p_graph_content #table_column_1 li { margin-bottom: 19px;}
+#cooper_2011_p_graph_content #table_column_2 { position: absolute; font-size: 10px; letter-spacing: -1px; top: 120px; left: 160px;}
+#cooper_2011_p_graph_content #table_column_2 li { margin-bottom: 19px;}
+#cooper_2011_p_graph_content #table_column_2 li:nth-child(6) { position: relative; top: 30px; }
+#cooper_2011_p_graph_content #table_column_3 { position: absolute; font-size: 10px; letter-spacing: -1px; top: 120px; left: 220px;}
+#cooper_2011_p_graph_content #table_column_3 li { margin-bottom: 19px;}
+#cooper_2011_p_graph_content #table_column_4 { position: absolute; font-size: 10px; letter-spacing: -1px; top: 120px; left: 273px;}
+#cooper_2011_p_graph_content #table_column_4 li { margin-bottom: 19px;}
+#cooper_2011_p_graph_content #table_column_4 li:nth-child(6) { position: relative; top: 30px; }
+#cooper_2011_p_graph_content #table_column_5 { position: absolute; font-size: 10px; letter-spacing: -1px; top: 120px; left: 332px;}
+#cooper_2011_p_graph_content #table_column_5 li { margin-bottom: 19px;}
+#cooper_2011_p_graph_content #table_column_6 { position: absolute; font-size: 10px; letter-spacing: -1px; top: 120px; left: 385px;}
+#cooper_2011_p_graph_content #table_column_6 li { margin-bottom: 19px;}
+#cooper_2011_p_graph_content #table_column_7 { position: absolute; font-size: 10px; letter-spacing: -1px; top: 120px; left: 450px;}
+#cooper_2011_p_graph_content #table_column_7 li { margin-bottom: 19px;}
+#cooper_2011_p_graph_content #bottom_text { position: absolute; bottom: 0px; left: 15px; font-size: 8px; }
+#cooper_2011_p_graph_content #graph_top_text { position: absolute; left: 324px; top: 60px; font-size: 10px; text-align: center;}
+#cooper_2011_p_graph_content #graph_arrow_left_text { position: absolute; left: 556px; font-size: 9px; top: 330px; }
+#cooper_2011_p_graph_content #graph_arrow_right_text { position: absolute; left: 90px; font-size: 9px; top: 330px; text-align: right; }
+#cooper_2011_p_graph_content #graph_scale_values { position: absolute; top: 300px; left: 561px; }
+#cooper_2011_p_graph_content #graph_scale_values li:nth-child(1) { position: relative; left: 8px; }
+#cooper_2011_p_graph_content #graph_scale_values li { display: inline; font-size: 10px; margin-right: 34px; text-align: center;}
+
+/* COOPER 2011 P LARGE */
+
+#cooper_2011_p_graph_content_large #graph_header_large { position: absolute; font-size: 20px; left: 20px; top: 15px;}
+#cooper_2011_p_graph_content_large #sub_header_1_large { position: absolute; font-size: 14px; left: 170px;  top: 90px; color: black; }
+#cooper_2011_p_graph_content_large #sub_header_2_large { position: absolute; font-size: 14px; left: 320px;  top: 90px; color: black; }
+#cooper_2011_p_graph_content_large #sub_header_3_large { position: absolute; font-size: 14px; left: 460px;  top: 90px; color: black; }
+#cooper_2011_p_graph_content_large #table_headers_large { position: absolute; top: 125px;left:20px;}
+#cooper_2011_p_graph_content_large #table_headers_large li { display: inline; font-size: 13px; font-weight: bold; letter-spacing: -1px; margin-right: 19px;}
+#cooper_2011_p_graph_content_large #table_column_1_large { position: absolute; font-size: 12px; letter-spacing: -1px; top: 160px; left: 20px;}
+#cooper_2011_p_graph_content_large #table_column_1_large li { margin-bottom: 19px;}
+#cooper_2011_p_graph_content_large #table_column_2_large { position: absolute; font-size: 12px; letter-spacing: -1px; top: 162px; left: 160px;}
+#cooper_2011_p_graph_content_large #table_column_2_large li { margin-bottom: 19px;}
+#cooper_2011_p_graph_content_large #table_column_2_large li:nth-child(6) { position: relative; top: 30px; }
+#cooper_2011_p_graph_content_large #table_column_3_large { position: absolute; font-size: 12px; letter-spacing: -1px; top: 162px; left: 222px;}
+#cooper_2011_p_graph_content_large #table_column_3_large li { margin-bottom: 19px;}
+#cooper_2011_p_graph_content_large #table_column_4_large { position: absolute; font-size: 12px; letter-spacing: -1px; top: 162px; left: 275px;}
+#cooper_2011_p_graph_content_large #table_column_4_large li { margin-bottom: 19px;}
+#cooper_2011_p_graph_content_large #table_column_4_large li:nth-child(6) { position: relative; top: 30px; }
+#cooper_2011_p_graph_content_large #table_column_5_large { position: absolute; font-size: 12px; letter-spacing: -1px; top: 162px; left: 338px;}
+#cooper_2011_p_graph_content_large #table_column_5_large li { margin-bottom: 19px;}
+#cooper_2011_p_graph_content_large #table_column_6_large { position: absolute; font-size: 12px; letter-spacing: -1px; top: 162px; left: 395px;}
+#cooper_2011_p_graph_content_large #table_column_6_large li { margin-bottom: 19px;}
+#cooper_2011_p_graph_content_large #table_column_7_large { position: absolute; font-size: 12px; letter-spacing: -1px; top: 162px; left: 460px;}
+#cooper_2011_p_graph_content_large #table_column_7_large li { margin-bottom: 19px;}
+#cooper_2011_p_graph_content_large #bottom_text_large { position: absolute; bottom: 15px; left: 15px; font-size: 10px; }
+#cooper_2011_p_graph_content_large #graph_top_text_large { position: absolute; left: 674px; top:120px; font-size: 12px; text-align: center;}
+#cooper_2011_p_graph_content_large #graph_arrow_left_text_large { position: absolute; left: 595px; font-size: 10px; top: 440px; }
+#cooper_2011_p_graph_content_large #graph_arrow_right_text_large { position: absolute; left: 750px; font-size: 10px; top: 440px; text-align: right; }
+#cooper_2011_p_graph_content_large #graph_scale_values_large { position: absolute; top: 380px; left: 581px; }
+#cooper_2011_p_graph_content_large #graph_scale_values_large li:nth-child(1) { position: relative; left: 8px; }
+#cooper_2011_p_graph_content_large #graph_scale_values_large li:nth-child(5) { margin-right: 0px; position: relative; right: 5px; }
+#cooper_2011_p_graph_content_large #graph_scale_values_large li { display: inline; font-size: 10px; margin-right: 38px; text-align: center;}
+
+/* AARTS 2010 P  */
+
+#aarts_2010_p_graph_content #graph_vertical_axis_title { -webkit-transform: rotate(-90deg); font-size: 12px; position: absolute; left: -180px; top: 50px;}
+#aarts_2010_p_graph_content #graph_column1_title { position: absolute; bottom: 30px; left: 75px; font-size: 12px; letter-spacing: -1px; }
+#aarts_2010_p_graph_content #graph_column2_title { position: absolute; bottom: 30px; left: 275px; font-size: 12px; letter-spacing: -1px; }
+#aarts_2010_p_graph_content #graph_bottom_text { position: absolute; bottom: 0px; left: 0px; font-size: 10px; letter-spacing: -1px; }
+
+.aarts_2010_p_graph_values { position: relative; z-index: 200; color: white}
+#graph_value_1.aarts_2010_p_graph_values { left: 30px; font-weight: bold; font-size: 12px; }
+#graph_value_2.aarts_2010_p_graph_values { top: 60px; left: 12px; font-weight: bold; font-size: 12px; }
+#graph_value_3.aarts_2010_p_graph_values { bottom: 14px; left: 34px; font-weight: bold; font-size: 12px; }

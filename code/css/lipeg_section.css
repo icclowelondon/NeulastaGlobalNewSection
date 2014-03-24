@@ -1,0 +1,700 @@
+/* -- Lipeg Pages -- */
+/* -- Wealth of Evidence Page -- */
+.wealth_of_evidence_hidden_content {
+	display:none;
+}
+
+#wealth_of_evidence_pre_sub_title {
+	color:#3468af;
+	position:absolute;
+	left:0;
+}
+
+#wealth_of_evidence_post_sub_title {
+	color:#7a7a7a;
+	position:absolute;
+	right:-30px;
+}
+
+#wealth_of_evidence_top_item_holder {
+	height:80px;
+	position:absolute;
+	top:50px;
+	left:150px;
+	
+}
+
+#wealth_of_evidence_list_holder {
+	width:750px;
+	position:absolute;
+	top:120px;
+	left:150px;
+}
+
+.wealth_of_evidence_list_item_holder {
+	width:670px;
+	height:40px;
+	position:relative;
+}
+
+.wealth_of_evidence_list_items {
+	width:650px;
+	height:33px;
+	background:#3468af;
+	color:#FFF;
+	text-align:center;
+	font-size:20px;
+	padding:10px 0 0 0;
+	position:relative;
+	left:40px;
+	top:10px;
+	z-index:2;
+}
+
+.wealth_of_evidence_list_items p {
+	z-index:2;
+}
+
+#wealth_of_evidence_list_item2_holder {
+	width:720px;
+	height:83px;
+	overflow:hidden;
+	margin:40px 0 0 0;
+	-webkit-transition: height .5s;
+	-webkit-backface-visibility: hidden; 
+}
+
+#wealth_of_evidence_list_item1 {
+	margin:25px 0 0 0;
+}
+
+#wealth_of_evidence_list_item3 {
+	margin:0 !important;
+}
+
+#wealth_of_evidence_sub_list {
+	overflow:hidden;
+	height:320px;
+	margin:5px 0 0 0;
+	-webkit-transition: height .75s;
+	-webkit-backface-visibility: hidden; 
+}
+
+#wealth_of_evidence_top_item_holder  .wealth_of_evidence_list_items {
+	background:#cee1f6;
+	color:#000;
+}
+
+#wealth_of_evidence_sub_list .wealth_of_evidence_list_items {
+	margin:15px 0 0 0;
+	background:#cee1f6;
+	color:#000;
+}
+
+#wealth_of_evidence_list_item2 {
+	background:#9fb8da;
+}
+
+#wealth_of_evidence_list_down_arrow1 {
+	width:62px;
+	height:23px;
+	background:url(../../content/images/wealth_of_evidence/dark_blue_down_arrow.png) no-repeat;
+	position:absolute;
+	left:290px;
+	top:50px;
+}
+
+#wealth_of_evidence_list_down_arrow2 {
+	width:62px;
+	height:23px;
+	background:url(../../content/images/wealth_of_evidence/light_blue_down_arrow.png) no-repeat;
+	position:absolute;
+	left:290px;
+	top:50px;
+}
+
+#wealth_of_evidence_list_down_arrow3 {
+	width:158px;
+	height:46px;
+	background:url(../../content/images/wealth_of_evidence/up_arrow.png) no-repeat;
+	position:absolute;
+	left:280px;
+	top:58px;
+	z-index:3;
+}
+
+.wealth_of_evidence_list_tick_left {
+	width:59px;
+	height:58px;
+	background:url(../../content/images/wealth_of_evidence/blue_tick.png) no-repeat;
+	display:block;
+	position:absolute;
+	left:17px;
+	top:3px;
+	z-index:3;
+}
+
+.wealth_of_evidence_list_tick_left_empty {
+	width:59px;
+	height:40px;
+	background:url(../../content/images/wealth_of_evidence/blue_empty.png) no-repeat;
+	position:absolute;
+	left:17px;
+	top:3px;
+	color:#FFF;
+	padding:18px 0 0 0;
+	font-family: 'FrutigerLTStd45LightBold';
+	vertical-align:middle;
+	text-align:center;
+	font-weight:bold;
+	z-index:3;
+}
+
+.wealth_of_evidence_list_tick_left_smiley {
+	width:59px;
+	height:58px;
+	background:url(../../content/images/wealth_of_evidence/blue_smiley.png) no-repeat;
+	position:absolute;
+	left:17px;
+	top:3px;
+	z-index:3;
+}
+
+.wealth_of_evidence_list_tick_right_question {
+	width:59px;
+	height:57px;
+	background:url(../../content/images/wealth_of_evidence/grey_question_mark.png) no-repeat;
+	position:absolute;
+	right:-22px;
+	top:-6px;
+}
+
+.wealth_of_evidence_list_tick_right_question_cross {
+	width:59px;
+	height:57px;
+	background:url(../../content/images/wealth_of_evidence/grey_question_mark_cross.png) no-repeat;
+	position:absolute;
+	right:-22px;
+	top:-6px;
+}
+
+.wealth_of_evidence_list_tick_right_question_double_cross {
+	width:59px;
+	height:57px;
+	background:url(../../content/images/wealth_of_evidence/grey_question_mark_double_cross.png) no-repeat;
+	position:absolute;
+	right:-22px;
+	top:-6px;
+}
+
+.wealth_of_evidence_list_tick_right_tick {
+	width:59px;
+	height:59px;
+	background:url(../../content/images/wealth_of_evidence/grey_tick.png) no-repeat;
+	position:absolute;
+	right:-22px;
+	top:-7px;
+}
+
+.wealth_of_evidence_list_tick_right_empty {
+	width:59px;
+	height:41px;
+	background:url(../../content/images/wealth_of_evidence/grey_empty.png) no-repeat;
+	position:absolute;
+	right:-22px;
+	top:-8px;
+	color:#FFF;
+	padding:18px 0 0 0;
+	font-family: 'FrutigerLTStd45LightBold';
+	vertical-align:middle;
+	text-align:center;
+	font-weight:bold;
+}
+
+.wealth_of_evidence_list_tick_right_smiley {
+	width:59px;
+	height:59px;
+	background:url(../../content/images/wealth_of_evidence/grey_smiley.png) no-repeat;
+	position:absolute;
+	right:-22px;
+	top:-8px;
+}
+
+#wealth_of_evidence_bone_icon {
+	width:75px;
+	height:61px;
+	text-align: center;;
+	width: 100%;
+	/* background:url(../../content/images/wealth_of_evidence/bone_icon.png) no-repeat; */
+	position:absolute;
+	top:10px;
+}
+
+#wealth_of_evidence_bottom_copy {
+	width:800px;
+	font-size:20px;
+	position:absolute;
+	bottom:120px;
+	left:100px;
+	text-align:center;
+}
+
+.wealth_of_evidence_popup_holder {
+	width:800px;
+	height:650px;
+	position:relative;
+}
+
+.wealth_of_evidence_popup_bone_large {
+	width:148px;
+	height:120px;
+	background:url(../../content/images/wealth_of_evidence/bone_large.png) no-repeat;
+	position:absolute;
+	top:40px;
+	left:40px;
+}
+
+.wealth_of_evidence_popup_right_list {
+	position: absolute;
+	top: 50px;
+	left: 60px;
+}
+
+.wealth_of_evidence_popup_right_list ul {
+	list-style:disc;
+}
+
+.wealth_of_evidence_popup_right_list li {
+	display:list-item;
+	color:#3061a1;
+	font-size:20px;
+	font-weight:bold;
+}
+
+#wealth_of_evidence_popup_other_list li {
+	color:#696969;
+}
+
+.wealth_of_evidence_popup_refs {
+	position:absolute;
+	bottom:10px;
+	left:50px;
+}
+
+.wealth_of_evidence_popup_refs ol {
+	left:20px !important;
+	top:10px;
+}
+
+#wealth_of_evidence_refs_weak_copy li {
+	font-size:13px;
+}
+
+#wealth_of_evidence_refs_weak_copy #refs_no_pad_copy {
+	font-size:13px;
+	top:-40px !important;
+}
+
+/* -- Body of Evidence Page -- */
+.body_of_evidence_top_copy {
+	width:700px;
+	font-size:20px;
+	position:absolute;
+	left:190px;
+	top:70px;
+	text-align:center;
+}
+
+#body_of_evidence_map_btn {
+	width:64px;
+	height:63px;
+	background:url(../../content/images/wealth_of_evidence/map_btn.png) no-repeat;
+	position:absolute;
+	left:900px;
+	top:60px;
+}
+
+#body_of_evidence_blue_guy {
+	width:400px;
+	height:511px;
+	background:url(../../content/images/wealth_of_evidence/blue_man.png) no-repeat;
+	position:absolute;
+	bottom:0;
+	left:320px;
+	z-index:2;
+}
+
+#body_of_evidence_circles_holder_strong {
+	width:780px;
+	height:480px;
+	position:absolute;
+	top:200px;
+	left:160px;
+}
+
+#body_of_evidence_circles_holder_weak {
+	width:260px;
+	height:84px;
+	position:absolute;
+	top:390px;
+	left:390px;
+}
+
+.body_of_evidence_blue_circle {
+	width:146px;
+	height:62px;
+	position:absolute;
+	font-size:21px;
+	font-weight:bold;
+	background:url(../../content/images/wealth_of_evidence/blue_circle.png) no-repeat;
+	color:#FFF;
+	padding:38px 0 0 0;
+	text-align:center;
+	z-index:4;
+}
+
+.body_of_evidence_green_circle {
+	width:146px;
+	height:62px;
+	position:absolute;
+	font-size:21px;
+	font-weight:bold;
+	background:url(../../content/images/wealth_of_evidence/green_circle.png) no-repeat;
+	color:#FFF;
+	padding:38px 0 0 0;
+	text-align:center;
+	z-index:4;
+}
+
+.body_of_evidence_grey_circle {
+	width:146px;
+	height:62px;
+	position:absolute;
+	font-size:21px;
+	font-weight:bold;
+	background:url(../../content/images/wealth_of_evidence/grey_circle.png) no-repeat;
+	color:#FFF;
+	padding:38px 0 0 0;
+	text-align:center;
+	z-index:4;
+}
+
+.body_of_evidence_circle_two_lines {
+	height:70px !important;
+	padding:30px 0 0 0 !important;
+}
+
+#body_of_evidence_circle1 {
+	top:40px;
+	left:0;
+}
+
+#body_of_evidence_circle2 {
+	top:210px;
+	left:0;
+}
+
+#body_of_evidence_circle3 {
+	top:150px;
+	left:145px;
+}
+
+#body_of_evidence_circle4 {
+	top:190px;
+	left:285px;
+}
+
+#body_of_evidence_circle5 {
+	top:150px;
+	left:425px;
+}
+
+#body_of_evidence_circle6 {
+	top:350px;
+	left:190px;
+}
+
+#body_of_evidence_circle7 {
+	top:330px;
+	left:420px;
+}
+
+#body_of_evidence_circle8 {
+	top:20px;
+	left:440px;
+}
+
+#body_of_evidence_circle9 {
+	top:40px;
+	left:630px;
+}
+
+#body_of_evidence_circle10 {
+	top:210px;
+	left:630px;
+}
+
+#body_of_evidence_weak_circle1 {
+	top:0;
+	left:-20px;
+}
+
+#body_of_evidence_weak_circle2 {
+	top:0;
+	left:140px;
+}
+
+#body_of_evidence_refs_strong_holder li {
+	font-size:14px !important;
+}
+
+.references_abb_lists {
+	width:100%;
+	height:auto;
+	display:block;
+	position:relative;
+	left:50px;
+	top:-90px;
+}
+
+.references_abb_lists ul {
+	width:750px;
+	height:auto;
+	list-style:none;
+	display:inline-block;
+}
+
+.references_abb_lists li {
+	width:100%;
+	height:8px;
+	display:block;
+	margin:0 0 10px 0 !important;
+}
+
+.references_abb_lists li strong {
+	width:100px;
+	display:inline-block;
+}
+
+.references_abb_lists li p {
+	width:750px;
+	height:8px;
+	display:inline-block;
+	padding:0 !important;
+	margin:0 !important;
+}
+
+.body_of_evidence_popup {
+	width:800px;
+	position:relative;
+	top:40px;
+	left:10px;
+	display:block;
+}
+
+.body_of_evidence_popup_title {
+	width:340px;
+	height:30px;
+	background:#3468af;
+	border-top-left-radius:12px;
+	border-top-right-radius:12px;
+	color:#FFF;
+	font-weight:bold;
+	margin:0 0 0 20px;
+	padding:15px 0 0 0px;
+	border:2px solid #c9d2de;
+	border-bottom:0px;
+	font-size:18px;
+	position:relative;
+	text-align:center;
+}
+
+.body_of_evidence_popup_title span {
+	position:absolute;
+	right:15px;
+	top:15px;
+}
+
+.body_of_evidence_popup_title_weak {
+	width:340px;
+	height:30px;
+	background:#696969;
+	border-top-left-radius:12px;
+	border-top-right-radius:12px;
+	color:#FFF;
+	font-weight:bold;
+	margin:0 0 0 20px;
+	padding:15px 0 0 0px;
+	border:2px solid #c9d2de;
+	border-bottom:0px;
+	font-size:18px;
+	position:relative;
+	text-align:center;
+}
+
+.body_of_evidence_popup_title_weak span {
+	position:absolute;
+	right:15px;
+	top:15px;
+}
+
+.body_of_evidence_popup table {
+	width:755px;
+	margin:0 20px 20px 20px;
+	display:block;
+	position:relative;
+	-webkit-transition: top .5s;
+	-webkit-backface-visibility: hidden; 
+}
+
+.body_of_evidence_popup_top {
+	width:720px;
+	margin:0 0 0 20px !important;
+	display:block;
+}
+
+.body_of_evidence_popup_top_weak {
+	width:720px;
+	margin:0 0 0 20px !important;
+	display:block;
+}
+
+.body_of_evidence_popup_bottom_left {
+	border-left:2px solid #c9d2de;
+	background:#f6f7fa !important;
+}
+
+.body_of_evidence_popup_top_weak th {
+	background:#696969 !important;
+	padding:10px;
+	margin:0;
+	color:#FFF;
+	font-weight:normal;
+	text-align:center;
+	border:2px solid #c9d2de;
+	font-size:14px;
+	vertical-align:middle;
+}
+
+.body_of_evidence_popup th {
+	background:#3468af;
+	padding:10px;
+	margin:0;
+	color:#FFF;
+	font-weight:normal;
+	text-align:center;
+	border:2px solid #c9d2de;
+	font-size:14px;
+	vertical-align:middle;
+}
+
+.body_of_evidence_popup td {
+	background:#FFF;
+	border-right:2px solid #c9d2de;
+	border-bottom:2px solid #c9d2de;
+	padding:10px;
+	margin:0;
+	font-size:14px;
+}
+
+.body_of_evidence_popup_first_col {
+	background:#f6f7fa !important;
+	border-left:2px solid #c9d2de;
+	font-weight:bold;
+}
+
+.body_of_evidence_popup_total_col {
+	background:#e6eaf0 !important;
+	border-left:2px solid #c9d2de;
+	font-weight:bold;
+}
+
+.body_of_evidence_popup_nav_holder {
+	width:75px;
+	height:85px;
+	background:#FFF;
+	position:absolute;
+	top:240px;
+	left:790px;
+	border-radius:6px;
+	border:2px solid #3369b0;
+	z-index:999999;
+	display:block;
+}
+
+.body_of_evidence_popup_nav_up_arrow {
+	width:69px;
+	height:29px;
+	background:url(../../content/images/wealth_of_evidence/popup_up_arrow.png) no-repeat;
+	overflow:hidden;
+	position:absolute;
+	top:3px;
+	left:3px;
+	z-index:999999;
+	display:block;
+}
+
+.body_of_evidence_popup_nav_down_arrow {
+	width:69px;
+	height:29px;
+	background:url(../../content/images/wealth_of_evidence/popup_down_arrow.png) no-repeat;
+	overflow:hidden;
+	position:absolute;
+	bottom:3px;
+	left:3px;
+	z-index:999999;
+	display:block;
+}
+
+#body_of_evidence_popup_strong1 {
+	width:100%;
+	height:448px;
+	overflow:hidden;
+}
+
+#body_of_evidence_popup_strong4 {
+	width:100%;
+	height:398px;
+	overflow:hidden;
+}
+
+/* World Page */
+#world_page_map_holder {
+	width:767px;
+	height:397px;
+	background:url(../../content/images/wealth_of_evidence/world_map_blank.png) no-repeat;
+	position:absolute;
+	left:160px;
+	top:160px;
+	z-index:2;
+}
+
+#world_page_map_blue_overlay {
+	width:759px;
+	height:310px;
+	background:url(../../content/images/wealth_of_evidence/world_map_overlay_blue.png) no-repeat;
+	position:absolute;
+	left:2px;
+	top:45px;
+	z-index:3;
+	opacity:0;
+	-webkit-transition: opacity 1.5s;
+	-webkit-backface-visibility: hidden;
+}
+
+#world_page_map_grey_overlay {
+	width:372px;
+	height:118px;
+	background:url(../../content/images/wealth_of_evidence/world_map_overlay_grey.png) no-repeat;
+	position:absolute;
+	left:387px;
+	top:45px;
+	z-index:3;
+	opacity:0;
+	-webkit-transition: opacity 1.5s;
+	-webkit-backface-visibility: hidden;
+}
+
+.world_page_map_opacity {
+	opacity:1 !important;
+}

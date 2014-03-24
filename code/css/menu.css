@@ -1,0 +1,299 @@
+.thumb-indicators {
+    position:absolute;
+    bottom:20px;
+}
+.menu {
+    display:-webkit-box;
+    -webkit-box-orient:horizontal;
+    overflow:hidden;
+    white-space: nowrap;
+    font-size: 15px;
+	 width:auto;
+	 position:absolute;
+	 right:0px;
+	 z-index:4;
+	 line-height: 9px;
+	 -webkit-transition-duration: 750ms;
+	 -webkit-transform: translate3d(0,0px,0);
+}
+
+.menu li {
+	 border-top:4px #FFF solid;
+	 border-bottom:4px #FFF solid;
+	 background:url(../../content/images/nav_bg.png) repeat-x;
+    color:#575756;
+    height:38px;
+	 padding:0;
+	 margin:0;
+    text-align:center;
+    display:block;
+    pointer-events:auto;
+	 cursor:pointer;
+}
+
+.menu li div {
+	width:99%;
+	border-right: solid 1px #c8c2c2;
+	 border-left: solid 1px #FFF;
+}
+
+.menu li span {
+	 height:23px;
+	 padding:15px 28px 0 28px;
+	 display:block;
+}
+
+.menu li:first-child {
+	border-top-left-radius: 20px;
+	border-left: solid 4px #FFF;
+}
+
+.menu li:first-child div {
+	border-left:0px;
+}
+
+#menu_btn {
+	 width:130px;
+	 border-top:4px #FFF solid;
+	 border-bottom:4px #FFF solid;
+    border-right: solid 1px #c8c2c2;
+	 border-top-left-radius: 20px;
+	 border-left: solid 4px #FFF;
+	 background:url(../../content/images/nav_bg.png) repeat-x;
+    color:#575756;
+    height:26px;
+	 padding:12px 0 0 0;
+    text-align:center;
+    pointer-events:auto;
+	 cursor:pointer;
+	 position:absolute;
+	 right:0px;
+	 bottom:67px;
+	 z-index:6;
+}
+
+#menu_btn span {
+	width:34px;
+	float:left;
+	height:35px;
+	background:url(../../content/images/menu_bg_unexpanded.png) no-repeat;
+	display:block;
+	position:relative;
+	left:10px;
+	top:-11px;
+	z-index:6;
+}
+
+#main_menu_close_btn div {
+	width:19px;
+	height:23px;
+	background:url(../../content/images/nav_close_btn.png) no-repeat 17px 12px;
+	padding:15px 20px 0 10px;
+}
+
+/*.menu li:last-child {
+	background:url(../../content/images/nav_bg_right.png) no-repeat right, url(../../content/images/nav_bg.png) left no-repeat;
+	background-size:14px 43px, 87% 43px;
+}*/
+
+.menu .selected {
+    color: #396ab2;
+}
+.menu .home {
+    width: 60px;
+    height: 43px;
+    padding: 0px;
+    background: url(../../content/img/menu/home-button.png) no-repeat center center;
+}
+.menu .home.selected {
+    background: url(../../content/img/menu/home-button-active.png) no-repeat center center, #58595B;
+}
+
+@media all and (orientation:landscape) {
+    li[data-goto='vert-magazine']{display:none;}
+}
+
+#nav_info_icon {
+	width:34px;
+	height:16px;
+	background:url(../../content/images/nav_info_icon.png) no-repeat;
+	border:0;
+	position:relative;
+	top:-3px;
+}
+
+/* Thumbnails Bits */
+#thumbnail_holder {
+	width:auto;
+	height:95px;
+	border-radius: 15px;
+	background:#CCC;
+	position:absolute;
+	bottom:55px;
+	z-index:2;
+}
+
+#thumbnail_holder ul {
+	padding:10px;
+	list-style:none;
+}
+
+#thumbnail_holder li {
+	width:100px;
+	height:75px;
+	background:#FFF;
+	border-radius: 15px;
+	margin-right:10px;
+	float:left;
+	position:relative;
+	-webkit-box-shadow: 0 0 2px 2px #999;
+   box-shadow: 0 0 2px 2px #999;
+	z-index:2;
+}
+
+#thumbnail_holder li:last-child {
+	margin-right:30px;
+}
+
+#thumbnail_holder li div {
+	width:80px;
+	height:55px;
+	border-radius: 12px;
+	border:1px solid #666;
+	margin:9px 0 0 9px;
+	background:#0066CC;
+}
+
+#thumbnail_close_btn {
+	width:28px;
+	height:28px;
+	background:url(../../content/images/thumbnails_close_btn.png) no-repeat;
+	position:absolute;
+	top:5px;
+	right:5px;
+}
+
+#thumbnail_holder_arrow {
+	position:absolute;
+	bottom:-12px;
+	left:47px;
+	width: 0;
+	height: 0;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	border-top: 12px solid #CCC;
+}
+
+/* -- Nav Thumbnails -- */
+/* Burden Pages */
+#burden_of_fn_btn1 {
+	background:url(../../content/images/thumbnails/kuderer_2006.png) no-repeat !important;
+}
+
+#burden_of_fn_btn1_p {
+	background:url(../../content/images/thumbnails/kuderer_2006_p.png) no-repeat !important;
+}
+
+#burden_of_fn_btn2 {
+	background:url(../../content/images/thumbnails/weyckler_2006.png) no-repeat !important;
+}
+
+#burden_of_fn_btn2_p {
+	background:url(../../content/images/thumbnails/weyckler_2006_p.png) no-repeat !important;
+}
+
+#burden_of_fn_btn3 {
+	background:url(../../content/images/thumbnails/weyckler_2009.png) no-repeat !important;
+}
+
+#burden_of_fn_btn3_p {
+	background:url(../../content/images/thumbnails/weyckler_2009_p.png) no-repeat !important;
+}
+
+#burden_of_fn_btn4 {
+	background:url(../../content/images/thumbnails/lyman_2010.png) no-repeat !important;
+}
+
+#burden_of_fn_btn4_p {
+	background:url(../../content/images/thumbnails/lyman_2010_p.png) no-repeat !important;
+}
+
+#burden_of_fn_btn5 {
+	background:url(../../content/images/thumbnails/kuderer_2007.png) no-repeat !important;
+}
+
+#burden_of_fn_btn5_p {
+	background:url(../../content/images/thumbnails/kuderer_2007_p.png) no-repeat !important;
+}
+
+/* RDI Pages */
+#rdi_btn1 {
+	background:url(../../content/images/thumbnails/chirivella_2009.png) no-repeat !important;
+}
+
+#rdi_btn1_p {
+	background:url(../../content/images/thumbnails/chirivella_2009_p.png) no-repeat !important;
+}
+
+#rdi_btn2 {
+	background:url(../../content/images/thumbnails/leonard_2009.png) no-repeat !important;
+}
+
+#rdi_btn2_p {
+	background:url(../../content/images/thumbnails/leonard_2009_p.png) no-repeat !important;
+}
+
+#rdi_btn3 {
+	background:url(../../content/images/thumbnails/johnsen_2012.png) no-repeat !important;
+}
+
+#rdi_btn3_p {
+	background:url(../../content/images/thumbnails/johnsen_2012_p.png) no-repeat !important;
+}
+
+#rdi_btn4 {
+	background:url(../../content/images/thumbnails/rdi_calculator.png) no-repeat !important;
+}
+
+/* NE Pages */
+#ne_btn1 {
+	background:url(../../content/images/thumbnails/cooper_2011.png) no-repeat !important;
+}
+
+#ne_btn1_p {
+	background:url(../../content/images/thumbnails/cooper_2011_p.png) no-repeat !important;
+}
+
+#ne_btn2 {
+	background:url(../../content/images/thumbnails/aarts_2010.png) no-repeat !important;
+}
+
+#ne_btn2_p {
+	background:url(../../content/images/thumbnails/aarts_2010_p.png) no-repeat !important;
+}
+
+#ne_btn3 {
+	background:url(../../content/images/thumbnails/almenar_2009.png) no-repeat !important;
+}
+
+#ne_btn3_p {
+	background:url(../../content/images/thumbnails/almenar_2009_p.png) no-repeat !important;
+}
+
+/* MOA Pages */
+#moa_btn1 {
+	background:url(../../content/images/thumbnails/moa_1.png) no-repeat !important;
+}
+
+#moa_btn2 {
+	background:url(../../content/images/thumbnails/moa_2.png) no-repeat !important;
+}
+
+/* Info Pages */
+#info_btn1 {
+	background:url(../../content/images/thumbnails/pi_info.png) no-repeat !important;
+}
+
+#info_btn2 {
+	background:url(../../content/images/thumbnails/abbreviations.png) no-repeat !important;
+}

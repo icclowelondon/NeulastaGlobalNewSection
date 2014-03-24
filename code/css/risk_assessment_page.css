@@ -1,0 +1,359 @@
+/* Risk Assessment Page */
+#ra_header {
+	width:718px;
+	height:47px;
+	background:url(../../content/images/risk_assessment/ra_header_bg.png) no-repeat;
+	position:absolute;
+	top:70px;
+	left:180px;
+	text-align:center;
+	padding:17px 0 0 17px;
+}
+
+#ra_header h2 {
+	color:#FFFFFF;
+	font-size:19px;
+}
+
+#ra_refresh_btn {
+	width:63px;
+	height:61px;
+	background:url(../../content/images/risk_assessment/ra_refresh_btn.png) no-repeat;
+	position:absolute;
+	top:70px;
+	right:40px;
+}
+
+#ra_key_left {
+	width:108px;
+	height:538px;
+	position:absolute;
+	left:90px;
+	top:110px;
+}
+
+#ra_main_content {
+	width:700px;
+	height:600px;
+	position:absolute;
+	top:130px;
+	left:230px;
+}
+
+#ra_left_column {
+	width:220px;
+	position:absolute;
+	left:0;
+}
+
+#ra_central_column {
+	width:270px;
+	position:absolute;
+	left:210px;
+}
+
+#ra_central_main_holder {
+	width:270px;
+	height:290px;
+	border:1px solid #666;
+	border-radius:8px;
+	position:relative;
+	-webkit-transition:opacity .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_right_column {
+	width:270px;
+	position:absolute;
+	right:0;
+}
+
+#ra_bottom_content {
+	width:700px;
+	position:absolute;
+	bottom:80px;
+}
+
+#ra_bottom_content p {
+	width:450px;
+	font-size:14px;
+	position:absolute;
+	left:130px;
+	top:0;
+}
+
+#ra_central_inputs_holder {
+	position:absolute;
+	top:50px;
+}
+
+.ra_central_inputs {
+	font-size:12px;
+	margin:0 0 10px 10px;
+	height: 20px;
+}
+
+/* ID's added for on options 6 and 7 for layout on UK version */
+
+#option6 {
+	position: relative;
+	bottom: 10px;
+}
+
+#option7 {
+	position: relative;
+	top:5px;
+}
+
+.ra_central_inputs input[type=checkbox] {
+	-webkit-appearance: none;
+	width:13px;
+	height:13px;
+	margin-right:15px;
+	z-index:1;
+	background-color:#FFFFFF;
+	border:1px solid #e795a2;
+}
+
+.ra_central_inputs input[type=checkbox]:checked {
+	background:url(../../content/images/risk_assessment/ra_checkbox_tick.png) no-repeat;
+}
+
+.ra_central_inputs label {
+	width:240px;
+	display:block;
+	float:right;
+	position:relative;
+	top:-15px;
+	z-index:1;
+}
+
+#ra_central_disable_inputs {
+	width:270px;
+	height:292px;
+	background:rgba(255, 255, 255, 0.5);
+	border-radius:8px;
+	position:absolute;
+	bottom:0;
+	left:0;
+	z-index:2;
+}
+
+.ra_pink_blocks {
+	width:270px;
+	height:35px;
+	background:#e795a2;
+	border-radius:8px;
+	text-align:center;
+	vertical-align:middle;
+	font-size:14px;
+	padding:5px 0 0 0;
+}
+
+.ra_small_blocks {
+	width:180px;
+	height:35px;
+	border-radius:8px;
+	position:absolute;
+	text-align:center;
+	font-size:14px;
+	padding:5px 0 0 0;
+}
+
+.ra_small_down_arrow {
+	width:15px;
+	height:15px;
+	background:url(../../content/images/risk_assessment/ra_small_down_arrow.png) no-repeat;
+	margin-left:130px;
+	-webkit-transition:height .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+.ra_mid_down_arrow {
+	width:15px;
+	height:293px;
+	background:url(../../content/images/risk_assessment/ra_mid_down_arrow.png) no-repeat;
+}
+
+#ra_top_arrow_left {
+	width:120px;
+	height:68px;
+	background:url(../../content/images/risk_assessment/ra_top_arrow.png) no-repeat;
+	position:absolute;
+	right:10px;
+	top:17px;
+	-webkit-transition:width .25s, height .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_top_arrow_right {
+	width:120px;
+	height:68px;
+	background:url(../../content/images/risk_assessment/ra_top_arrow.png) no-repeat;
+	-webkit-transform: scaleX(-1);
+   transform: scaleX(-1);
+	position:absolute;
+	left:50px;
+	top:17px;
+	-webkit-transition:width .25s, height .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_mid_down_arrow_left {
+	position:absolute;
+	left:90px;
+	top:122px;
+	-webkit-transition: height .25s;
+	-webkit-backface-visibility: hidden; 
+}
+
+#ra_mid_down_arrow_right {
+	position:absolute;
+	right:100px;
+	top:122px;
+	-webkit-transition: height .25s;
+	-webkit-backface-visibility: hidden; 
+}
+
+#ra_left_block1 {
+	height:27px;
+	background:#ca1433;
+	color:#FFF;
+	top:80px;
+	left:10px;
+	padding:13px 0 0 0;
+	opacity:0;
+	-webkit-transition:opacity .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_left_block2 {
+	background:#3368ae;
+	color:#FFF;
+	top:417px;
+	left:10px;
+	-webkit-transition:opacity .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_central_block2 {
+	height:27px;
+	padding:13px 0 0 0;
+	-webkit-transition:opacity .5s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_central_block3 {
+	position:absolute;
+	top:0;
+	left:0;
+	margin-bottom:10px;
+	z-index:3;
+	-webkit-transition:opacity .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_central_block4 {
+	width:235px;
+	margin-left:17px;
+	-webkit-transition:opacity .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_right_block1 {
+	height:27px;
+	border:1px solid #666;
+	top:80px;
+	right:15px;
+	padding:13px 0 0 0;
+	-webkit-transition:opacity .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_right_block2 {
+	border:1px solid #666;
+	top:417px;
+	right:15px;
+	-webkit-transition:opacity .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_bottom_arrow1_left {
+	width:24px;
+	height:40px;
+	background:url(../../content/images/risk_assessment/ra_bottom_arrow1.png) no-repeat;
+	position:absolute;
+	top:433px;
+	right:253px;
+	-webkit-transition:width .25s, height .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_bottom_arrow1_right {
+	width:24px;
+	height:40px;
+	background:url(../../content/images/risk_assessment/ra_bottom_arrow1.png) no-repeat;
+	-webkit-transform: scaleX(-1);
+   transform: scaleX(-1);
+	position:absolute;
+	top:433px;
+	left:251px;
+	-webkit-transition:width .25s, height .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_bottom_arrow2_left {
+	width:44px;
+	height:36px;
+	background:url(../../content/images/risk_assessment/ra_bottom_arrow2.png) no-repeat;
+	background-position:bottom;
+	position:absolute;
+	right:567px;
+	bottom:25px;
+	-webkit-transition:width .25s, height .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_bottom_arrow2_right {
+	width:44px;
+	height:36px;
+	background:url(../../content/images/risk_assessment/ra_bottom_arrow2.png) no-repeat;
+	background-position:bottom;
+	-webkit-transform: scaleX(-1);
+   transform: scaleX(-1);
+	position:absolute;
+	left:560px;
+	bottom:25px;
+	-webkit-transition:width .25s, height .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_bottom_block_left {
+	height:27px;
+	background:#ca1433;
+	color:#FFF;
+	top:-47px;
+	left:132px;
+	padding:13px 0 0 0;
+	-webkit-transition:opacity .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_bottom_block_right {
+	height:27px;
+	border:1px solid #666;
+	top:-47px;
+	right:140px;
+	padding:13px 0 0 0;
+	-webkit-transition:opacity .25s;
+	-webkit-backface-visibility: hidden;
+}
+
+#ra_hide_block {
+	width:800px;
+	height:600px;
+	background:#FFF;
+	position:absolute;
+	top:180px;
+	left:210px;
+}

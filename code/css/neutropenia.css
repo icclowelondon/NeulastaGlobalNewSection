@@ -1,0 +1,157 @@
+/* Carer Landing Page */
+#flow_holder {
+	width:902px;
+	position:relative;
+	left:90px;
+	top:10px;
+}
+
+#flow_holder span {
+	width:33px;
+	height:41px;
+	background:url(../../content/images/carer_landing_page/flow_arrow_down.png) no-repeat;
+	display:block;
+	position:relative;
+	left:140px;
+}
+
+.flow_top {
+	width:902px;
+	height:75px;
+	background:url(../../content/images/carer_landing_page/flow_top_bg.png) no-repeat;
+	position:relative;
+	padding:20px 0 0 0;
+	margin:0 0 20px 0;
+}
+
+#flow_left {
+	width:500px;
+	float:left;
+	position:relative;
+	z-index:2;
+}
+
+#flow_right {
+	width:280px;
+	float:right;
+	position:relative;
+	right:100px;
+	z-index:2;
+}
+
+.flow_top h1 {
+	font-size:40px;
+	font-weight:bold;
+	color:#FFFFFF;
+	float:left;
+	margin:10px 0 0 0;
+}
+
+.flow_top span {
+	width:64px !important;
+	height:72px !important;
+	background:url(../../content/images/carer_landing_page/flow_top_arrow.png) no-repeat !important;
+	position:relative;
+	display:block;
+	float:left;
+	margin:0 0 0 290px;
+	left:0px !important;
+}
+
+.flow_link_holder {
+	width:490px;
+	height:82px;
+	position:relative;
+	margin:-10px 0 -10px 0;
+	cursor:pointer;
+}
+
+.flow_link_holder p {
+	position:relative;
+	top:20px;
+	font-size:20px;
+}
+
+.flow_link_holder span {
+	width:83px !important;
+	height:82px !important;
+	background:url(../../content/images/carer_landing_page/flow_arrow.png) no-repeat !important;
+	display:block;
+	float:left;
+	margin:0 10px 0 0;
+	left:0px !important;
+}
+
+.flow_long_arrow {
+	width:149px !important;
+	height:96px !important;
+	background:url(../../content/images/carer_landing_page/flow_long_arrow.png) no-repeat !important;
+	display:block;
+	position:relative;
+	left:100px !important;
+	z-index:1;
+}
+
+#flow_right .flow_link_holder {
+	width:400px;
+}
+
+#flow_right .flow_long_arrow {
+	left:60px !important;
+	-webkit-transform: scaleX(-1);
+   transform: scaleX(-1);
+}
+
+.flow_bottom {
+	width:300px;
+	height:70px;
+	background:#cbdcf0;
+	border-radius:16px;
+	position:absolute;
+	top:470px;
+	left:280px;
+	z-index:3;
+}
+
+.flow_bottom span {
+	width:54px !important;
+	height:57px !important;
+	background:url(../../content/images/carer_landing_page/flow_arrow_bottom.png) no-repeat !important;
+	display:block;
+	float:left;
+	left:10px !important;
+	top:12px !important;
+}
+
+.flow_bottom p {
+	width:300px;
+	position:relative;
+	top:15px;
+	left:20px;
+	font-size:20px;
+}
+/* 
+  adjustments for UK version
+*/
+
+#hospitalization_p_btn { 
+width: 470px; 
+}
+
+
+#reduced_survival_p p {
+margin-top: 10px;
+}
+
+#fb_right_panel p  {
+	line-height: 28px;
+	position: relative;
+	top: 60px;
+}
+#fb_bottom_panel p {
+	font-size: 19px;
+
+}
+#reduced_survival_button {
+	margin-top: 10px;
+}

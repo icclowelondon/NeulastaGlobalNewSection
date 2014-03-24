@@ -1,0 +1,97 @@
+/* -- RDI Calculator Page -- */
+
+/* Existing Code */
+#display {width: 1020px; overflow: hidden; height: 630px; position: relative;}
+.bg{
+	position: absolute;
+	top: 0px;
+	left: 20px;
+}
+.no_drag {position: absolute; top: 80px; left: 80px; width: 865px; height: 450px; z-index: 0;
+}
+
+.graph {position: absolute; top: 87px; left: 80px; width: 865px; height: 292px;}
+
+.sliderA,
+.sliderB,
+.sliderC,
+.sliderD,
+.sliderE,
+.sliderF {position: absolute; top: 75px; width: 80px; height: 373px; background: transparent url(../../content/images/rdi_calculator/bg_e1_slider.png) no-repeat -9px -10px;}
+.sliderA.move,
+.sliderB.move,
+.sliderC.move,
+.sliderD.move,
+.sliderE.move,
+.sliderF.move {background-image: url(../../content/images/rdi_calculator/bg_e1_slider_sel.png);}
+
+.sliderA {left: 80px;}
+.sliderB {left: 160px;}
+.sliderC {left: 240px;}
+.sliderD {left: 320px;}
+.sliderE {left: 400px;}
+.sliderF {left: 480px;}
+
+.reduction {position: absolute; top: 485px; left: 80px; width: 548px; height: 38px; background: transparent url(../../content/images/rdi_calculator/bg_e1_reduction.png) no-repeat top left;}
+.reduction .slider {width: 115px; height: 38px; background: transparent url(../../content/images/rdi_calculator/bg_e1_bn_reduction.png) no-repeat 0 1px;}
+.reduction .numbers {position: absolute; top: 0; left: 0; width: 548px; height: 38px; background: transparent url(../../content/images/rdi_calculator/bg_e1_reduction.png) no-repeat -140px -642px;}
+.reduction .slider_imitation {position: absolute; top: 0; left: 0; width: 115px; height: 38px; background: transparent;}
+
+.tumor {position: absolute; top: 64px; left: 895px; background: transparent url(../../content/images/rdi_calculator/bg_e1_tumor.png) no-repeat 0 0; width: 99px; height: 99px;}
+
+/* New Additions */
+#slide_e1 {
+	width:1023px;
+	height:563px;
+	background:url(../../content/images/rdi_calculator/main_bg.png) no-repeat;
+	background-position:73px 8px;
+	position:absolute;
+	top:70px;
+	left:20px;
+}
+
+#rdi_data_top {
+	width:900px;
+	text-align:center;
+	color:#AE1B35;
+	position:absolute;
+	top:60px;
+	left:80px;
+}
+
+#rdi_calc_data_holder {
+	width:1024px;
+	font-size:12px;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:2;
+}
+
+#rdi_calc_data1 {
+	position:absolute;
+	left:100px;
+	top:110px;
+}
+
+#rdi_calc_data2 {
+	position:absolute;
+	right:40px;
+	top:110px;
+}
+
+#rdi_calc_data3 {
+	position:absolute;
+	right:58px;
+	top:520px;
+}
+
+#rdi_calc_data4 {
+	position:absolute;
+	left:660px;
+	top:580px;
+}
+
+.refs_first {
+	padding:0px 0 10px 0 !important;
+}
