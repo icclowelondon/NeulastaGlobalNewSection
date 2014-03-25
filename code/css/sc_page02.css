@@ -1,0 +1,43 @@
+#sc_page02 #center-content {
+    margin:0 auto;
+    width: 75%;
+    position: relative;
+    top: 50px;
+}
+
+#sc_page02 h4 {
+    color: rgb(174, 27, 53 );
+    margin-left: 246px;
+
+}
+
+
+#sc_page02 #first-image {
+    background: url("../../content/images/sc_page02/1.png") no-repeat;
+    width: 854px;
+    height: 418px;
+}
+
+#sc_page02 #footer {
+    height: 49px;
+    width: 100%;
+    background: rgb(96, 197, 187);
+    margin-top: 54px;
+    margin-left: 56px;
+    padding: 13px 0 0;
+
+}
+#sc_page02 #check{
+    background: url("../../content/images/sc_page02/check.png") no-repeat;
+    width: 24px;
+    height: 25px;
+    float: left;
+    margin: 0 10px;
+}
+
+#sc_page02 .left-check{
+    float: left;
+    width: 250px;
+    color: white;
+    margin-left: 180px;
+}

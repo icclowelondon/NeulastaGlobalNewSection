@@ -1,0 +1,106 @@
+#sc_page01 h4 {
+    color: rgb(174, 27, 53 );
+    margin-left: 75px;
+    margin-bottom: 15px;
+}
+
+
+#sc_page01 #gray-box {
+    background: rgb(240, 240, 240);
+    width: 828px ;
+
+
+}
+
+#sc_page01 #center-content {
+    margin:0 auto;
+    width: 75%;
+    position: relative;
+    top: 80px;
+}
+
+#sc_page01 #first-image {
+    background: url("../../content/images/sc_page01/1.png") no-repeat;
+    width: 368px;
+    height: 330px;
+}
+
+#sc_page01 #first-desc {
+    position: absolute;
+    padding: 5px;
+    width: 351px;
+    background: white;
+    top: 128px;
+    left: 149px;
+}
+
+#sc_page01 p {
+    line-height: 157% ;
+}
+
+#sc_page01 #big-arrow {
+    background: url("../../content/images/sc_page01/big-arrow.png") no-repeat;
+    width: 147px;
+    height: 29px;
+    position: absolute;
+    top: 86px;
+    left: 374px;
+}
+#sc_page01 #small-arrow {
+    background: url("../../content/images/sc_page01/small-arrow.png") no-repeat;
+    width: 147px;
+    height: 29px;
+    position: absolute;
+    top: 282px;
+    left: 364px;
+}
+#sc_page01 #second-image {
+    background: url("../../content/images/sc_page01/2.png") no-repeat;
+    width: 100px;
+    height: 141px;
+    position: absolute;
+    top: 33px;
+    left: 530px;
+}
+
+#sc_page01 .second-desc {
+    position: absolute;
+    padding: 5px;
+    background: white;
+    top: 62px;
+    left: 639px;
+    width: 156px;
+
+}
+
+#sc_page01 #third-image {
+    background: url("../../content/images/sc_page01/3.png") no-repeat;
+    width: 100px;
+    height: 141px;
+    position: absolute;
+    top: 239px;
+    left: 523px
+}
+
+#sc_page01 #third-desc{
+    top: 249px;
+    left: 638px;
+}
+
+#sc_page01 #footer {
+    height: 62px;
+    width: 100%;
+    background: rgb(96, 197, 187);
+    margin-top: 114px;
+    margin-left: 56px;
+    padding: 13px 0 0;
+    
+}
+#sc_page01 #footer p{
+    color: white;
+    text-align: center;
+    
+}
+#sc_page01  #sc_page01_refs #copy-bottom{
+    font-size:8pt;
+}

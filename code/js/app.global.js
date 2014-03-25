@@ -104,7 +104,14 @@ document.addEventListener('slideEnter', function() {
 			lightboxContent = $("#key_messages_refs_p").html();
 		} else if (pageName == "risk_assessment") {
 			lightboxContent = $("#risk_assessment_refs").html();
-		} else if (pageName == "pi_info") {
+		}
+        else if (pageName == "sc_page01") {
+            lightboxContent = $("#sc_page01_refs").html();
+        }
+
+
+
+        else if (pageName == "pi_info") {
 			referenceBtn.hide();
 		} else if (pageName == "abbreviations") {
 			referenceBtn.hide();
