@@ -1,0 +1,163 @@
+
+#sc_page03 h4 {
+    color: rgb(174, 27, 53 );
+    margin-left: 346px;
+    margin-top: 40px;
+
+}
+#sc_page03 #bottom-copy {
+    position: relative;
+    top: 489px;
+    width: 703px;
+    margin-left: 117px;
+}
+/* GRAPH */
+#sc_page03 #legend1{
+position: absolute;
+top: 140px;
+left: 433px;
+font-size: 15pt;
+}
+
+#sc_page03 #legend2{
+    position: absolute;
+    top: 172px;
+    left: 433px;
+    font-size: 15pt;
+}
+
+#sc_page03 #white-slogan{
+    position: absolute;
+    font-size: 19pt;
+    color: rgb(255, 255, 255);
+    top: 97px;
+    left: 48px;
+    width: 221px;
+    text-align: center;
+    line-height: 122%;
+}
+
+#sc_page03_large
+{
+    width:840px;
+    -webkit-transform: scale(0.6);
+}
+
+#sc_page03_graph_holder .poz_graph_1 {
+    position: absolute;
+    left: -89px;
+    top: -113px;
+}
+
+#sc_page03_graph_holder .poz_graph_2 {
+    position: absolute;
+    right: -201px;
+    top: -103px;
+}
+
+#sc_page03_graph_holder {
+    right: 230px;
+    width: 600px;
+    height: 394px;
+    position: absolute;
+    top: 116px;
+}
+
+#sc_page03_graph_vertical_numbers {
+    width:20px;
+    position:absolute;
+    top: 113px;
+    left: -41px;
+}
+
+#sc_page03_graph_vertical_numbers ul {
+    list-style:none;
+    width:20px;
+    padding:0;
+    margin:0;
+}
+
+#sc_page03_graph_vertical_numbers li {
+    width:20px;
+    margin: 0 0 28px 0;
+    font-size: 18px;
+    text-align: right;
+    height: 74px;
+    position: relative;
+    top: -93px;
+    left: 16px;
+}
+
+#sc_page03_graph_horizontal_numbers {
+    position:absolute;
+    top: 565px;
+    left: 12px;
+}
+
+#sc_page03_graph_horizontal_numbers ul {
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+
+#sc_page03_graph_horizontal_numbers li {
+    width: 52px;
+    margin: 0 0px 0 0;
+    display:inline-block;
+    font-size:18px;
+    text-align:left;
+}
+
+#sc_page03_graph_content_large .graph1_vertical_axis_title_large {
+    position: absolute;
+    left: -405px;
+    top: -80px;
+    font-size: 18px;
+    -webkit-transform: rotate(-90deg);
+    z-index: 20;
+    margin:0;
+    padding:0;
+}
+
+#sc_page03_graph_content_large .graph1_horizontal_axis_title_large {
+    position: absolute;
+    left: 212px;
+    top: 578px;
+    font-size: 21px;
+}
+
+#sc_page03_graph_content_large .graph1_legend_1_large {
+    position: absolute;
+    font-size: 14px;
+    top: 80px;
+    left: 558px;
+    margin:0;
+    padding:0;
+}
+#sc_page03_graph_content_large .graph1_legend_2_large {
+    position: absolute;
+    font-size: 14px;
+    top: 102px;
+    left: 558px;
+    margin:0;
+    padding:0;
+}
+#sc_page03_graph_content_large .graph1_legend_3_large {
+    position: absolute;
+    font-size: 14px;
+    top: 643px;
+    left: 155px;
+    margin:0;
+    padding:0;
+}
+
+#sc_page03_graph_content_large .graph1_bottom_text_large {
+    position: absolute;
+    top: 631px;
+    left: 101px;
+    font-size: 14px;
+    margin:0;
+    padding:0 !important;
+
+}
+

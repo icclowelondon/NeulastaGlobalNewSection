@@ -108,6 +108,13 @@ document.addEventListener('slideEnter', function() {
         else if (pageName == "sc_page01") {
             lightboxContent = $("#sc_page01_refs").html();
         }
+        else if (pageName == "sc_page02") {
+            lightboxContent = $("#sc_page02_refs").html();
+        }
+        else if (pageName == "sc_page03") {
+            lightboxContent = $("#sc_page03_refs").html();
+        }
+
 
 
 

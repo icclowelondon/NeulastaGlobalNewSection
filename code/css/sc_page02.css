@@ -10,7 +10,12 @@
     margin-left: 246px;
 
 }
-
+#sc_page02 #bottom-copy {
+    position: relative;
+    top: 489px;
+    width: 703px;
+    margin-left: 117px;
+}
 
 #sc_page02 #first-image {
     background: url("../../content/images/sc_page02/1.png") no-repeat;
@@ -49,9 +54,9 @@
 
 #sc_page02 #last-copy {
     position: absolute;
-    top: 637px;
+    top: 120px;
     width: 678px;
-    left: 173px;
+    left: 112px;
 }
 
 
@@ -241,7 +246,7 @@
 
 #sc_page02_graph_horizontal_numbers2 ul {
     list-style:none;
-    width:768px;
+    width: 768px;
     padding:0;
     margin:0;
 }
@@ -253,7 +258,11 @@
     font-size:18px;
     text-align:left;
 }
-
+/*#sc_page02_graph_horizontal_numbers2 li:last-child{*/
+    /*position: relative;*/
+    /*top: -22px;*/
+    /*left: 676px*/
+/*}*/
 
 #sc_page02_graph_content_large2 .graph1_vertical_axis_title_large {
     position: absolute;
@@ -268,8 +277,8 @@
 
 #sc_page02_graph_content_large2 .graph1_horizontal_axis_title_large {
     position: absolute;
-    left: 290px;
-    bottom: 70px;
+    left: 99px;
+    top: 623px;
     font-size: 16px;
 }
 
@@ -292,19 +301,25 @@
 #sc_page02_graph_content_large2 .graph1_legend_3_large {
     position: absolute;
     font-size: 14px;
-    top: 123px;
-    left: 558px;
+    top: 600px;
+    left: 109px;
     margin:0;
     padding:0;
 }
 
 #sc_page02_graph_content_large2 .graph1_bottom_text_large {
     position: absolute;
-    bottom: 33px;
-    left: 50px;
+    top: 642px;
+    left: 40px;
     font-size: 12px;
     margin:0;
     padding:0 !important;
 
 }
 
+#sc_page02 .vertical-middle {
+    vertical-align: middle;
+}
+#sc_page02_refs #reference_data li {
+    line-height: 132%;
+}

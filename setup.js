@@ -56,7 +56,7 @@
         ShortCallPopUp05: ['sc_popup_05'],
 
         // Dev tool
-        devSection:['sc_page02']
+        devSection:['sc_popup_01']
     }
   });
   
