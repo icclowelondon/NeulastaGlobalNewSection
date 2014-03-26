@@ -1,0 +1,172 @@
+#sc_popup_05 #sub-title {
+    color: rgb(174, 27, 53 );
+    margin-left: 453px;
+    margin-top: 18px;
+
+}
+
+
+#sc_popup_05_graph2_holder {
+    width: 600px;
+    height: 445px;
+    position:absolute;
+    top:90px;
+    left: 239px;
+}
+
+#sc_popup_05_graph2_holder img {
+    position:absolute;
+    top:7px;
+    left: 2px;
+}
+
+#sc_popup_05_graph2_arrow1 {
+    width: 176px;
+    height:177px;
+    overflow:hidden;
+    position:absolute;
+    left: 133px;
+    bottom:47px;
+    -webkit-transition: height .75s;
+    -webkit-backface-visibility: hidden;
+}
+
+#sc_popup_05_graph2_arrow1 img {
+    position:absolute;
+    top: -31px;
+    left: 28px;
+}
+
+#sc_popup_05_graph2_arrow2 {
+    width: 120px;
+    height:64px;
+    overflow:hidden;
+    position:absolute;
+    left: 417px;
+    top: 128px;
+    -webkit-transition: height .75s;
+    -webkit-backface-visibility: hidden;
+}
+
+#sc_popup_05_graph2_arrow2 img {
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+
+#sc_popup_05_graph2_arrow3 {
+    width: 286px;
+    height:111px;
+    overflow:hidden;
+    position:absolute;
+    left:257px;
+    bottom: 78px;
+    -webkit-transition: height .75s;
+    -webkit-backface-visibility: hidden;
+}
+
+#sc_popup_05_graph2_arrow3 img {
+    position:absolute;
+    top: -61px;
+    left: 162px;
+}
+
+
+#sc_popup_05_image1 {
+    width:404px;
+    height:210px;
+    background:url(../../content/images/carer_pages/neulasta_efficacy/ne_page1_image1.png) no-repeat;
+    position:absolute;
+    top:420px;
+    left:120px;
+}
+
+#sc_popup_05_graph2_vertical_axis_value li {
+    margin-bottom: 36px;
+    position: relative;
+    left: 33px;
+
+    margin-left: 19px;
+    z-index: 10;
+    font-size: 12px;
+    top: 73px;
+}
+
+#sc_popup_05_graph2_bar3_text {
+    position: absolute;
+    color: white;
+    top: 10px;
+    left: 107px;
+    z-index: 100;
+    text-align: center;
+    font-size: 10px;
+    width: 200px;
+}
+
+#sc_popup_05_graph2_bar2_text {
+    position: absolute;
+    color: white;
+    top: 4px;
+    left: -55px;
+    z-index: 100;
+    text-align: center;
+    font-size: 14px;
+    width: 200px;
+    font-weight: bold;
+}
+
+#sc_popup_05_graph2_bar1_text {
+    position: absolute;
+    color: white;
+    top: 60px;
+    left: -22px;
+    z-index: 100;
+    text-align: center;
+    font-size: 10px;
+    width: 200px;
+}
+#sc_popup_05_graph2_content #graph2_legend2 {
+    position: absolute;
+    top: 42px;
+    left: 474px;
+    font-size: 9px;
+}
+
+#cooper_2011_graph2_content #graph2_title_sc_popup_05 {
+    font-size: 16px;
+    position: absolute;
+    top: 10px;
+    left: 70px;
+    letter-spacing: -1px;
+    color: black;
+    text-align: center;
+}
+
+#cooper_2011_graph2_content #graph2_legend1_sc_popup_05 {
+    position: absolute;
+    top: 41px;
+    left: 347px;
+    font-size: 9px;
+}
+
+#cooper_2011_graph2_content #graph2_legend2_sc_popup_05 {
+    position: absolute;
+    top: 25px;
+    left: 314px;
+    font-size: 9px;
+}
+
+#cooper_2011_graph2_content #graph2_vertical_axis_title_sc_popup_05 {
+    position: absolute;
+    top: 34px;
+    -webkit-transform: rotate(-90deg);
+    left: -229px;
+    font-size: 14px;
+}
+
+#cooper_2011_graph2_content #graph2_bottom_text_sc_popup_05 {
+    position: absolute;
+    font-size: 9px;
+    bottom: 19px;
+    left: 50px;
+}
