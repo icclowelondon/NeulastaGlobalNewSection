@@ -6,9 +6,11 @@
 
 
 #sc_page01 #gray-box {
-    background: rgb(240, 240, 240);
+    background: rgb(240, 240, 240) url("../../content/images/sc_page01/graph-bg.png") no-repeat;
     width: 828px ;
-
+    height: 329px;
+    background-position-x: 26%;
+    background-position-y: 26%;
 
 }
 
@@ -88,12 +90,12 @@
 }
 
 #sc_page01 #footer {
-    height: 62px;
-    width: 100%;
+    height: 49px;
+    width: 94.5%;
     background: rgb(96, 197, 187);
-    margin-top: 114px;
+    margin-top: 131px;
     margin-left: 56px;
-    padding: 13px 0 0;
+    padding: 6px 0;
     
 }
 #sc_page01 #footer p{

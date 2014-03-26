@@ -1,7 +1,7 @@
 #sc_page04 h4 {
     color: rgb(174, 27, 53 );
     margin-left: 410px;
-    margin-top: 40px;
+    margin-top: 20px;
 
 }
 #sc_page04 #slide-title {
@@ -13,7 +13,7 @@
 }
 #sc_page04 #bottom-copy {
     position: relative;
-    top: 453px;
+    top: 446px;
     width: 703px;
     margin-left: 120px;
 
@@ -21,7 +21,7 @@
 #sc_page04 #red-square{
     position: absolute;
 
-    top: 607px;
+    top: 580px;
     left: 101px;
 }
 
@@ -86,7 +86,7 @@
     width: 600px;
     height: 448px;
     position: absolute;
-    top: 134px;
+    top: 110px;
 }
 
 #sc_page04_graph_vertical_numbers {
@@ -119,7 +119,7 @@
     width:20px;
     position:absolute;
     top: 210px;
-    right: 118px;
+    right: 140px;
 }
 
 #sc_page04_graph_vertical_numbers-right ul {
@@ -190,6 +190,25 @@
     top: 578px;
     font-size: 21px;
 }
+
+#sc_page04_graph_content_large .graph1_vertical_axis_title_large-right {
+    position: absolute;
+    right: -278px;
+    top: 186px;
+    font-size: 18px;
+    -webkit-transform: rotate(-90deg);
+    z-index: 20;
+    margin:0;
+    padding:0;
+}
+
+#sc_page04_graph_content_large .graph1_horizontal_axis_title_large-right {
+    position: absolute;
+    left: 212px;
+    top: 578px;
+    font-size: 21px;
+}
+
 
 #sc_page04_graph_content_large .graph1_legend_1_large {
     position: absolute;

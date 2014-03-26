@@ -1,14 +1,27 @@
 #sc_popup_01 #center-content {
-    margin:0 auto;
+    margin:0 ;
     width: 77%;
-    position: relative;
-    top: 36px;
-    left: -43px;
+    position: absolute;
+    top: 112px;
+    background: url("../../content/images/sc_popup_01/graph1.png") no-repeat;
+    height: 492px;
+    right: 134px;
+    background-size: 115%;
+    background-position-y: 50px;
 }
 
 #sc_popup_01 h4 {
     color: rgb(174, 27, 53 );
     margin-bottom: 15px;
+}
+#four{
+    top: 368px;
+    position: absolute
+}
+#three{
+    top: 368px;
+    position: absolute;
+    left: 418px;
 }
 
 #sc_popup_01 .left{
@@ -26,7 +39,7 @@
 #sc_popup_01  #firstdesc{
     text-align: left;
     position: absolute;
-    top: 121px;
+    top: 98px;
     left: -84px;
     font-size: 10pt;
     width: 204px;
@@ -35,7 +48,7 @@
 #sc_popup_01  #secdesc{
      text-align: left;
      position: absolute;
-     top: 265px;
+     top: 244px;
      left: -84px;
      font-size: 10pt;
      width: 204px;
@@ -44,7 +57,7 @@
 #sc_popup_01  #thirdesc{
     text-align: left;
     position: absolute;
-    top: 119px;
+    top: 89px;
     left: 622px;
     font-size: 10pt;
     width: 204px;
