@@ -104,7 +104,47 @@ document.addEventListener('slideEnter', function() {
 			lightboxContent = $("#key_messages_refs_p").html();
 		} else if (pageName == "risk_assessment") {
 			lightboxContent = $("#risk_assessment_refs").html();
-		} else if (pageName == "pi_info") {
+		}
+        else if (pageName == "sc_page01") {
+            lightboxContent = $("#sc_page01_refs").html();
+        }
+        else if (pageName == "sc_popup_01") {
+            lightboxContent = $("#sc_popup_01_refs").html();
+        }
+
+        else if (pageName == "sc_page02") {
+            lightboxContent = $("#sc_page02_refs").html();
+        }
+        else if (pageName == "sc_page03") {
+            lightboxContent = $("#sc_page03_refs").html();
+        }
+        else if (pageName == "sc_page04") {
+            lightboxContent = $("#sc_page04_refs").html();
+        }
+        else if (pageName == "sc_popup_04_01") {
+            lightboxContent = $("#sc_popup_04_01_refs").html();
+        }
+        else if (pageName == "sc_popup_04_02") {
+            lightboxContent = $("#sc_popup_04_02_refs").html();
+        }
+        else if (pageName == "sc_page05") {
+            lightboxContent = $("#sc_page05_refs").html();
+        }
+        else if (pageName == "sc_popup_05") {
+            lightboxContent = $("#sc_popup_05_refs").html();
+        }
+        else if (pageName == "sc_page06") {
+            lightboxContent = $("#sc_page06_refs").html();
+        }
+        else if (pageName == "sc_page07") {
+            lightboxContent = $("#sc_page07_refs").html();
+        }
+
+
+
+
+
+        else if (pageName == "pi_info") {
 			referenceBtn.hide();
 		} else if (pageName == "abbreviations") {
 			referenceBtn.hide();

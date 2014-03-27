@@ -1,0 +1,112 @@
+/* Summary Page */
+#summary_main_bg2 {
+    width:860px;
+    height:370px;
+    background: #3469af;
+    position:absolute;
+    top:70px;
+    left:100px;
+    border: 8px solid #fff;
+    border-radius: 6px;
+}
+
+#summary_main_bg2 h1 {
+
+    font-size:33px;
+    font-weight:bold;
+    color:#FFFFFF;
+    position:relative;
+    top: 30px;
+    text-align: left;
+    left:0px;
+    letter-spacing: -1px;
+    margin: 0 0 0 26px;
+}
+
+#key_messages_p h1 {
+    width:790px;
+    font-size:26px;
+    font-family: "FrutigerLTStd45LightBold";
+    font-weight: normal;
+    color:#FFFFFF;
+    position:relative;
+    top: 25px;
+    text-align: left;
+    left: -17px;
+    letter-spacing: -1px;
+    padding: 0px 0px 65px 10px;
+
+
+}
+
+#key_messages h1 {
+    width:790px;
+    font-size:30px;
+    font-family: "FrutigerLTStd45LightBold";
+    font-weight: normal;
+    color:#FFFFFF;
+    position:relative;
+    top: 25px;
+    text-align: left;
+    left: -17px;
+    letter-spacing: -1px;
+    padding: 0px 0px 65px 10px;
+
+
+}
+
+#summary_main_bg2 ul {
+    font-size:27px;
+    position:absolute;
+    left:50px;
+    top: 126px;
+    list-style-image:url(../../content/images/green_bullet.png);
+    letter-spacing: -1px;
+}
+#summary_main_bg2 li:last-child{
+    margin-left: 63px;
+    list-style-image:url(../../content/images/sc_page07/bullet.png);
+
+}
+#summary_main_bg2 li {
+    color:#FFFFFF;
+    margin-bottom:20px;
+    width: 780px;
+
+}
+
+#summary_page_strap1 {
+    color:#FFFFFF;
+    font-size:26px;
+    font-weight:bold;
+    position:absolute;
+    bottom:150px;
+    left:70px;
+
+}
+
+#summary_page_strap2 {
+    color:#FFFFFF;
+    font-size:22px;
+    position:absolute;
+    bottom:85px;
+    left:60px;
+
+}
+
+#summary_page_strap3 {
+    color:#FFFFFF;
+    font-size:16px;
+    position:absolute;
+    bottom:47px;
+    left:240px;
+
+}
+#vaccine_img {
+
+    width: 700px;
+    height: 250px;
+    position: relative;
+    top:170px;
+    left:180px;
+}
