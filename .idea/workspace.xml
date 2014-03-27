@@ -36,18 +36,28 @@
       <file leaf-file-name="setup.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/setup.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="1455">
-              <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1455">
+              <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sc_page03.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/slides/sc_page03.html">
+      <file leaf-file-name="main_splash.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/slides/main_splash.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.822785" vertical-offset="309" max-vertical-offset="1215">
-              <caret line="46" column="96" selection-start-line="46" selection-start-column="96" selection-end-line="46" selection-end-column="96" />
+            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_splash.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/css/main_splash.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6615385" vertical-offset="0" max-vertical-offset="975">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,21 +73,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sc_page05.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/slides/sc_page05.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.303798" vertical-offset="0" max-vertical-offset="1200">
-              <caret line="49" column="93" selection-start-line="49" selection-start-column="93" selection-end-line="49" selection-end-column="93" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#article#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#article#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#article#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#article#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="sc_popup_04_01.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/slides/sc_popup_04_01.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -88,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sc_page06.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="sc_page06.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/slides/sc_page06.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0" vertical-offset="167" max-vertical-offset="1575">
-              <caret line="70" column="63" selection-start-line="70" selection-start-column="63" selection-end-line="70" selection-end-column="63" />
+            <state vertical-scroll-proportion="-0.9493671" vertical-offset="0" max-vertical-offset="1575">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#article#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#article#0;n#!!top" expanded="true" />
@@ -102,6 +97,16 @@
                 <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#article#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#7;n#div#0;n#div#0;n#article#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sc_page06.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/css/sc_page06.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5715" max-vertical-offset="6690">
+              <caret line="422" column="21" selection-start-line="422" selection-start-column="21" selection-end-line="422" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,18 +127,6 @@
             <state vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="975">
               <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sc_page07.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/slides/sc_page07.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="885">
-              <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#article#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -159,7 +152,6 @@
         <option value="$PROJECT_DIR$/slides/sc_popup_05.html" />
         <option value="$PROJECT_DIR$/code/css/sc_popup_05.css" />
         <option value="$PROJECT_DIR$/code/css/sc_page05.css" />
-        <option value="$PROJECT_DIR$/code/css/sc_page06.css" />
         <option value="$PROJECT_DIR$/code/css/sc_page07.css" />
         <option value="$PROJECT_DIR$/slides/sc_page07.html" />
         <option value="$PROJECT_DIR$/code/js/app.global.js" />
@@ -171,16 +163,19 @@
         <option value="$PROJECT_DIR$/slides/sc_page02.html" />
         <option value="$PROJECT_DIR$/slides/sc_page03.html" />
         <option value="$PROJECT_DIR$/slides/sc_page05.html" />
-        <option value="$PROJECT_DIR$/slides/sc_page06.html" />
-        <option value="$PROJECT_DIR$/setup.js" />
         <option value="$PROJECT_DIR$/slides/sc_popup_01.html" />
         <option value="$PROJECT_DIR$/slides/sc_popup_04_01.html" />
         <option value="$PROJECT_DIR$/slides/sc_popup_04_02.html" />
+        <option value="$PROJECT_DIR$/slides/sc_page06.html" />
+        <option value="$PROJECT_DIR$/code/css/sc_page06.css" />
+        <option value="$PROJECT_DIR$/slides/main_splash.html" />
+        <option value="$PROJECT_DIR$/setup.js" />
+        <option value="$PROJECT_DIR$/code/css/main_splash.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="89" />
+    <option name="x" value="212" />
     <option name="y" value="22" />
     <option name="width" value="1249" />
     <option name="height" value="1118" />
@@ -345,7 +340,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="89" y="22" width="1249" height="1118" extended-state="0" />
+    <frame x="212" y="22" width="1249" height="1118" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -410,22 +405,6 @@
     <find-history />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="1650">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slides/sc_page01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="405">
-          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/all.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="750">
@@ -674,14 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/css/sc_page06.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.1454544" vertical-offset="5747" max-vertical-offset="6690">
-          <caret line="402" column="1" selection-start-line="402" selection-start-column="1" selection-end-line="402" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/css/sc_page07.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.727273" vertical-offset="525" max-vertical-offset="1755">
@@ -767,22 +738,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/js/app.global.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.65909" vertical-offset="1176" max-vertical-offset="4050">
-          <caret line="139" column="43" selection-start-line="139" selection-start-column="43" selection-end-line="139" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/setup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="1455">
-          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/slides/sc_page07.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="885">
@@ -825,10 +780,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/code/js/app.global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.65909" vertical-offset="1176" max-vertical-offset="4050">
+          <caret line="139" column="43" selection-start-line="139" selection-start-column="43" selection-end-line="139" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/slides/sc_page06.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0" vertical-offset="167" max-vertical-offset="1575">
-          <caret line="70" column="63" selection-start-line="70" selection-start-column="63" selection-end-line="70" selection-end-column="63" />
+        <state vertical-scroll-proportion="-0.9493671" vertical-offset="0" max-vertical-offset="1575">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#article#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#article#0;n#!!top" expanded="true" />
@@ -838,6 +801,38 @@
             <element signature="n#style#0;n#div#6;n#div#0;n#div#0;n#article#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#7;n#div#0;n#div#0;n#article#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/css/sc_page06.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5715" max-vertical-offset="6690">
+          <caret line="422" column="21" selection-start-line="422" selection-start-column="21" selection-end-line="422" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1455">
+          <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slides/main_splash.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/css/main_splash.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6615385" vertical-offset="0" max-vertical-offset="975">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
