@@ -56,7 +56,7 @@
         ShortCallPopUp05: ['sc_popup_05'],
 
         // Dev tool
-        devSection:['main_splash']
+        devSection:['sc_popup_05']
     }
   });
   
@@ -80,7 +80,7 @@
   //app.init('SplashPage');
 
   // Dev Visualisation Tool
-  app.init('ShortCall');
+  app.init('devSection');
 
   
 })(window);

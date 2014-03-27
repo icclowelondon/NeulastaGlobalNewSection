@@ -351,3 +351,31 @@ sup {
 	left:50px;
 	top:-20px;
 }
+
+.sc-pop-up {
+    position: absolute;
+    background: url('../../content/images/short-call-popup.png') no-repeat;
+    height: 64px;
+    width: 64px;
+    top: -49px;
+    left: 882px;
+}
+
+.sc-pop-up2 {
+    position: absolute;
+    background: url('../../content/images/switch_btn.png') no-repeat;
+    height: 64px;
+    width: 64px;
+    top: 50px;
+    left: 882px;
+}
+
+
+.sc-popup-back {
+    position: absolute;
+    background: url('../../content/images/shortcall-popup-back-btn.png') no-repeat;
+    height: 64px;
+    width: 64px;
+    top: -49px;
+    left: 882px;
+}
