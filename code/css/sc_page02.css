@@ -323,3 +323,13 @@
 #sc_page02_refs #reference_data li {
     line-height: 132%;
 }
+
+#enlarge_graph_1_sc_page02 {
+    top: 43px;
+    left: 369px;
+}
+
+#enlarge_graph_2_sc_page02 {
+    top: 10px;
+    left: 843px;
+}

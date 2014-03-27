@@ -236,3 +236,8 @@
     width: 100%;
 }
 
+#enlarge_graph_1_sc_popup_04_02 {
+    top: 116px;
+    left: 790px;
+    z-index: 100000;
+}

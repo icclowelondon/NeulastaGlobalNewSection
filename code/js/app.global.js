@@ -200,7 +200,19 @@ document.addEventListener('slideEnter', function() {
 	} else if (pageName == "almenar_2009_p") {
 		largeGraphContent = $("#almenar_2009_p_large").html();
 	}
-
+    else if (pageName == "sc_page02") {
+        largeGraphContent = $("#sc_page02_large").html();
+        largeGraphContent2 = $("#sc_page02_large2").html();
+    } else if (pageName == "sc_page03") {
+        largeGraphContent = $("#sc_page03_large").html();
+    } else if (pageName == "sc_page04") {
+        largeGraphContent = $("#sc_page04_large").html();
+    } else if (pageName == "sc_popup_04_01") {
+        largeGraphContent = $("#sc_popup_04_01_graph_holder").html();
+    }
+    else if (pageName == "sc_popup_04_02") {
+        largeGraphContent = $("#sc_popup_04_02_graph_holder").html();
+   }
 
 	
 	lightBoxData.hide();
