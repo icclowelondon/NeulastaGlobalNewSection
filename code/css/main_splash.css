@@ -33,3 +33,13 @@
     bottom: 14px;
     left: 90px;
 }
+
+#splash_page_shortcall_btn {
+    background:url(../../content/images/splash_page_shortcall_btn.png) no-repeat;
+    position: absolute;
+    height: 64px;
+    width: 67px;
+    top: 634px;
+    left: 437px;
+
+}

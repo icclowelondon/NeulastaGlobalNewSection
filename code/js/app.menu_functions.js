@@ -24,6 +24,7 @@ document.addEventListener('contentLoad', function() {
 	/* Splash Page Vars */
 	var splashPageCarersBtn = $("#splash_page_carers_btn");
 	var splashPagePragmatistBtn = $("#splash_page_pragmatist_btn");
+    var shortCalltBtn = $("#splash_page_shortcall_btn");
 	
 	splashPageCarersBtn.unbind('click').click(function() {
 		app.goTo("Neutropenia");
@@ -38,6 +39,13 @@ document.addEventListener('contentLoad', function() {
 		console.log("**** Section number = ", sectionNumber );
 		console.log("**** Pragmatist Section Selected");
 	});
+
+    shortCalltBtn.unbind('click').click(function() {
+        app.goTo("ShortCall");
+        sectionNumber = 3;
+        console.log("**** Section number = ", sectionNumber );
+        console.log("**** Short Call Selected");
+    });
 	
 	menuThumbs.hide();
 	menuBtn.show();
