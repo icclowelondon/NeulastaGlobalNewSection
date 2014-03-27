@@ -246,6 +246,7 @@
     width: 100%;
 }
 
+
 #sc-pop-up04-01{
     left:825px;
 }
@@ -253,4 +254,10 @@
 #sc-pop-up04-02 {
     top: -51px;
     left: 881px
+}
+
+#enlarge_graph_1_sc_page04 {
+    top: 120px;
+    left: 780px;
+
 }

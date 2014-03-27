@@ -236,6 +236,10 @@
     width: 100%;
 }
 
-/*#sc-pop-up04-01{*/
-    /*left:-100px;*/
-/*}*/
+
+#enlarge_graph_1_sc_popup_04_02 {
+    top: 116px;
+    left: 790px;
+    z-index: 100000;
+}
+

@@ -228,6 +228,7 @@ sup {
     width:30px;
     height:30px;
     position: absolute;
+    z-index: 100;
 }
 .enlarge_graph2 {
     background: url("../../content/images/magglass.png") no-repeat;
@@ -235,6 +236,7 @@ sup {
     width:30px;
     height:30px;
     position: absolute;
+    z-index: 100;
 }
 #enlarge_graph_weykcler_2006 {
     top:120px;
