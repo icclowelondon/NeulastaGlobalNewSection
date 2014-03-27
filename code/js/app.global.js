@@ -127,6 +127,18 @@ document.addEventListener('slideEnter', function() {
         else if (pageName == "sc_popup_04_02") {
             lightboxContent = $("#sc_popup_04_02_refs").html();
         }
+        else if (pageName == "sc_page05") {
+            lightboxContent = $("#sc_page05_refs").html();
+        }
+        else if (pageName == "sc_popup_05") {
+            lightboxContent = $("#sc_popup_05_refs").html();
+        }
+        else if (pageName == "sc_page06") {
+            lightboxContent = $("#sc_page06_refs").html();
+        }
+        else if (pageName == "sc_page07") {
+            lightboxContent = $("#sc_page07_refs").html();
+        }
 
 
 

@@ -1,0 +1,441 @@
+
+#sc_page06_graph2_holder {
+    width: 828px;
+    height: 445px;
+    position:absolute;
+    top: 154px;
+    left: 137px;
+}
+
+#sc_page06_graph2_holder img {
+    position:absolute;
+    top: 19px;
+    left: 80px;
+}
+
+#sc_page06_graph2_arrow1 {
+    width: 84px;
+    height:177px;
+    overflow:hidden;
+    position:absolute;
+    left: 111px;
+    bottom: 136px;
+    -webkit-transition: height .75s;
+    -webkit-backface-visibility: hidden;
+}
+
+#sc_page06_graph2_arrow1 img {
+    position:absolute;
+    top: -46px;
+    left: -8px;
+}
+
+#sc_page06_graph2_arrow2 {
+    width: 102px;
+    height:64px;
+    overflow:hidden;
+    position:absolute;
+    left: 206px;
+    top: 118px;
+    -webkit-transition: height .75s;
+    -webkit-backface-visibility: hidden;
+}
+
+#sc_page06_graph2_arrow2 img {
+    position:absolute;
+    top:0px;
+    left: -2px;
+}
+
+#sc_page06_graph2_arrow3 {
+    width: 216px;
+    height:111px;
+    overflow:hidden;
+    position:absolute;
+    left: 76px;
+    bottom: 135px;
+    -webkit-transition: height .75s;
+    -webkit-backface-visibility: hidden;
+}
+
+#sc_page06_graph2_arrow3 img {
+    position:absolute;
+    top: -61px;
+    left: 132px;
+}
+
+/*SECOND CHART POSITION */
+
+#sc_page06_graph2_arrow1-2 {
+    width: 84px;
+    height:177px;
+    overflow:hidden;
+    position:absolute;
+    left: 346px;
+    bottom: 136px;
+    -webkit-transition: height .75s;
+    -webkit-backface-visibility: hidden;
+}
+
+#sc_page06_graph2_arrow1-2 img {
+    position:absolute;
+    top: -46px;
+    left: -8px;
+}
+
+#sc_page06_graph2_arrow2-2 {
+    width: 102px;
+    height:64px;
+    overflow:hidden;
+    position:absolute;
+    left: 206px;
+    top: 165px;
+    -webkit-transition: height .75s;
+    -webkit-backface-visibility: hidden;
+}
+
+#sc_page06_graph2_arrow2-2 img {
+    position:absolute;
+    top:0px;
+    left: -2px;
+}
+
+#sc_page06_graph2_arrow3-2 {
+    width: 216px;
+    height:111px;
+    overflow:hidden;
+    position:absolute;
+    left: 307px;
+    bottom: 136px;
+    -webkit-transition: height .75s;
+    -webkit-backface-visibility: hidden;
+}
+
+#sc_page06_graph2_arrow3-2 img {
+    position:absolute;
+    top: -61px;
+    left: 132px;
+}
+
+/*  END SECOND CHART POSITION */
+
+
+
+/*THIRD CHART POSITION */
+
+#sc_page06_graph2_arrow1-3 {
+    width: 84px;
+    height:177px;
+    overflow:hidden;
+    position:absolute;
+    left: 573px;
+    bottom: 136px;
+    -webkit-transition: height .75s;
+    -webkit-backface-visibility: hidden;
+}
+
+#sc_page06_graph2_arrow1-3 img {
+    position:absolute;
+    top: -46px;
+    left: -8px;
+}
+
+#sc_page06_graph2_arrow2-3 {
+    width: 102px;
+    height:64px;
+    overflow:hidden;
+    position:absolute;
+    left: 206px;
+    top: 165px;
+    -webkit-transition: height .75s;
+    -webkit-backface-visibility: hidden;
+}
+
+#sc_page06_graph2_arrow2-3 img {
+    position:absolute;
+    top:0px;
+    left: -2px;
+}
+
+#sc_page06_graph2_arrow3-3 {
+    width: 216px;
+    height:111px;
+    overflow:hidden;
+    position:absolute;
+    left: 536px;
+    bottom: 136px;
+    -webkit-transition: height .75s;
+    -webkit-backface-visibility: hidden;
+}
+
+#sc_page06_graph2_arrow3-3 img {
+    position:absolute;
+    top: -56px;
+    left: 132px;
+}
+
+/*  END THIRD CHART POSITION */
+
+
+
+#sc_page06_image1 {
+    width:404px;
+    height:210px;
+    background:url(../../content/images/carer_pages/neulasta_efficacy/ne_page1_image1.png) no-repeat;
+    position:absolute;
+    top:420px;
+    left:120px;
+}
+
+#sc_page06_graph2_vertical_axis_value li {
+    margin-bottom: 36px;
+    position: relative;
+    left: 48px;
+
+    margin-left: 19px;
+    z-index: 10;
+    font-size: 12px;
+    top: 24px;
+    margin-bottom: 43px;
+}
+
+#sc_page06_graph2_bar3_text {
+    position: absolute;
+    color: white;
+    top: 10px;
+    left: 107px;
+    z-index: 100;
+    text-align: center;
+    font-size: 10px;
+    width: 200px;
+}
+
+#sc_page06_graph2_bar2_text {
+    position: absolute;
+    color: white;
+    top: 44px;
+    left: -70px;
+    z-index: 100;
+    text-align: center;
+    font-size: 14px;
+    width: 200px;
+    font-weight: bold;
+}
+
+#sc_page06_graph2_bar1_text {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: -9px;
+    left: -80px;
+    z-index: 100;
+    text-align: center;
+    font-size: 10px;
+    width: 200px;
+}
+
+
+/*SECOND CHART TEXT */
+
+#sc_page06_graph2_bar3_text-2 {
+    position: relative;
+    color: rgb(5, 5, 5);
+    top: -55px;
+    left: 56px;
+    z-index: 1000000;
+    text-align: center;
+    font-size: 10px;
+    width: 200px;
+}
+
+#sc_page06_graph2_bar2_text-2 {
+    position: absolute;
+    color: white;
+    top: 44px;
+    left: -70px;
+    z-index: 100;
+    text-align: center;
+    font-size: 14px;
+    width: 200px;
+    font-weight: bold;
+}
+
+#sc_page06_graph2_bar1_text-2 {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: -9px;
+    left: -80px;
+    z-index: 100;
+    text-align: center;
+    font-size: 10px;
+    width: 200px;
+}
+
+
+/* END SECOND CHART TEXT */
+
+/*THIRD CHART TEXT */
+
+#sc_page06_graph2_bar3_text-3 {
+    position: absolute;
+    color: rgb(255, 253, 253);
+    top: -11px;
+    left: 54PX;
+    z-index: 100;
+    text-align: center;
+    font-size: 10px;
+    width: 200px;
+}
+
+#sc_page06_graph2_bar2_text-3 {
+    position: absolute;
+    color: white;
+    top: 44px;
+    left: -70px;
+    z-index: 100;
+    text-align: center;
+    font-size: 14px;
+    width: 200px;
+    font-weight: bold;
+}
+
+#sc_page06_graph2_bar1_text-3 {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: -9px;
+    left: -80px;
+    z-index: 100;
+    text-align: center;
+    font-size: 10px;
+    width: 200px;
+}
+
+
+/* END THIRD CHART TEXT */
+
+#sc_page06_graph2_content #graph2_legend2 {
+    position: absolute;
+    top: 42px;
+
+ left: 474px;
+    font-size: 9px;
+}
+
+#cooper_2011_graph2_content #graph2_title_sc_page06 {
+    font-size: 16px;
+    position: absolute;
+    top: 10px;
+    left: 115px;
+    letter-spacing: -1px;
+    color: black;
+    text-align: center;
+}
+
+#cooper_2011_graph2_content #graph2_legend1_sc_page06 {
+    position: absolute;
+    top: 25px;
+    left: 351px;
+    font-size: 9px;
+}
+
+#cooper_2011_graph2_content #graph2_legend2_sc_page06 {
+    position: absolute;
+    top: 25px;
+    left: 314px;
+    font-size: 9px;
+}
+
+#cooper_2011_graph2_content #graph2_vertical_axis_title_sc_page06 {
+    position: absolute;
+    top: -126px;
+    -webkit-transform: rotate(-90deg);
+    left: -315px;
+    font-size: 14px;
+}
+
+#cooper_2011_graph2_content #graph2_bottom_text_sc_page06 {
+    position: absolute;
+    font-size: 9px;
+    bottom: 19px;
+    left: 50px;
+    text-align: center;
+}
+
+#cooper_2011_graph2_content #graph2_legend2_sc_page06 {
+    position: absolute;
+    top: 42px;
+    left: 352px;
+    font-size: 9px;
+}
+
+#sc_page06 #P-value1 {
+    position: absolute;
+    top: 77px;
+    left: 165px;
+    font-size: 8pt;
+}
+
+#sc_page06 #P-value2 {
+    position: absolute;
+    left: 616px;
+    top: 159px;
+    font-size: 8pt;
+}
+#sc_page06 #P-value3 {
+    position: absolute;
+    top: 107px;
+    left: 393px;
+    font-size: 8pt;
+}
+
+#sc_page06 #chart2-value{
+    position: absolute;
+    top: 254px;
+    left: 454px;
+}
+
+#sc_page06 #footer-chart1 {
+     position: absolute;
+ 
+     top: 300px;
+     left: -146px;
+     text-align: center;
+     font-size: 10pt;
+}
+
+#sc_page06 #footer-chart2 {
+    position: absolute;
+    top: 300px;
+    text-align: center;
+    left: 82px;
+    font-size: 10pt;
+}
+#sc_page06 #footer-chart3 {
+    position: absolute;
+    top: 300px;
+    text-align: center;
+    font-size: 10pt;
+    left: 316px;
+}
+
+#sc_page06 #sub-title {
+    color: rgb(174, 27, 53 );
+    margin-left: 453px;
+    margin-top: 18px;
+
+}
+
+#sc_page06 #list {
+    position: relative;
+    width: 75%;
+    left: 178px;
+    top: 16px;
+}
+
+#sc_page06 #list li {
+    background-image: url(../../content/images/sc_page04/red-square.png);
+    background-repeat: no-repeat;
+    background-position-x: 0%;
+    padding-left: 25px;
+    padding-bottom: 15px;
+
+}

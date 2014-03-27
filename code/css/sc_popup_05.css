@@ -1,9 +1,9 @@
 #sc_popup_05 #sub-title {
-    color: rgb(174, 27, 53 );
-    margin-left: 453px;
-    margin-top: 18px;
+     color: rgb(174, 27, 53 );
+     margin-left: 453px;
+     margin-top: 18px;
 
-}
+ }
 
 
 #sc_popup_05_graph2_holder {
@@ -169,4 +169,12 @@
     font-size: 9px;
     bottom: 19px;
     left: 50px;
+    text-align: center;
+}
+
+#cooper_2011_graph2_content #graph2_legend2_sc_popup_05 {
+    position: absolute;
+    top: 41px;
+    left: 471px;
+    font-size: 9px;
 }
