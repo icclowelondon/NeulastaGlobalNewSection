@@ -80,7 +80,7 @@
   });*/
   
   // Initialize presentation
-  app.init('ShortCall');
+  app.init('SplashPage');
 
   // Dev Visualisation Tool
   //app.init('devSection');
