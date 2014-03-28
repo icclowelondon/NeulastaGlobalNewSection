@@ -57,7 +57,7 @@
 
         // Dev tool
 
-        devSection:['sc_popup_05']
+        devSection:['sc_page02']
 
     }
 
@@ -80,10 +80,10 @@
   });*/
   
   // Initialize presentation
-  //app.init('SplashPage');
+  app.init('ShortCall');
 
   // Dev Visualisation Tool
-  app.init('devSection');
+  //app.init('devSection');
 
   
 })(window);

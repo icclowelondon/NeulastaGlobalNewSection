@@ -155,3 +155,7 @@ margin-top: 10px;
 #reduced_survival_button {
 	margin-top: 10px;
 }
+
+#neutropenia_p #splash_page_shortcall_btn, #neutropenia #splash_page_shortcall_btn{
+    left: 404px;
+}

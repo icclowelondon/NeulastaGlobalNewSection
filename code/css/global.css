@@ -165,7 +165,8 @@ sup {
 }
 
 #reference_data .main_content_style p:last-child {
-	padding:50px 0 50px 0 !important;
+	/*padding:50px 0 50px 0 !important;*/
+    padding-top: 50px;
 
 }
 #Lyman_reference_align_fix {

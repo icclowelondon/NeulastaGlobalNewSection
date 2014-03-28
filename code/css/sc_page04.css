@@ -4,16 +4,18 @@
     margin-top: 20px;
 
 }
-#sc_page04 #slide-title {
+#slide-title_sc_page04 {
     z-index: 10000;
     position: relative;
-    left: 11px;
+    left: 69px;
     text-align: center;
-    top: 33px;
+    top: 32px;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 #sc_page04 #bottom-copy {
-    position: relative;
-    top: 446px;
+    position: absolute;
+    top: 580px;
     width: 703px;
     margin-left: 120px;
 
@@ -26,30 +28,38 @@
 }
 
 /* GRAPH */
-#sc_page04 #legend1{
+#legend1_sc_page04{
     position: absolute;
-    top: 44px;
-    left: 62px;
+    top: 48px;
+    left: 71px;
     font-size: 12pt;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
-#sc_page04 #legend2{
+#legend2_sc_page04{
     position: absolute;
-    top: 74px;
-    left: 60px;
+    top: 71px;
+    left: 71px;
     font-size: 12pt;
+    margin: 0 !important;
+    padding: 0 !important;
 }
-#sc_page04 #legend3{
+#legend3_sc_page04{
     position: absolute;
-    top: 108px;
-    left: 60px;
+    top: 95px;
+    left: 69px;
     font-size: 12pt;
+    margin: 0 !important;
+    padding: 0 !important;
 }
-#sc_page04 #legend4{
+#legend4_sc_page04{
     position: absolute;
-    top: 44px;
-    left: 318px;
+    top: 50px;
+    left: 299px;
     font-size: 12pt;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 #sc_page04 #white-slogan{
@@ -66,7 +76,10 @@
 #sc_page04_large
 {
     width:840px;
-    -webkit-transform: scale(0.6);
+    -webkit-transform: scale(0.7);
+    position: relative;
+    top: -73px;
+    left: 71px;
 }
 
 #sc_page04_graph_holder .poz_graph_1 {
@@ -82,11 +95,11 @@
 }
 
 #sc_page04_graph_holder {
-    right: 193px;
+    left: 108px;
     width: 600px;
     height: 448px;
-    position: absolute;
-    top: 110px;
+    position: relative;
+    top: 32px;
 }
 
 #sc_page04_graph_vertical_numbers {
@@ -104,13 +117,13 @@
 }
 
 #sc_page04_graph_vertical_numbers li {
-    width:20px;
+    width: 22px;
     margin: 0 0 28px 0;
     font-size: 18px;
     text-align: right;
-    height: 74px;
+    height: 52px;
     position: relative;
-    top: -93px;
+    top: -133px;
     left: 16px;
 }
 
@@ -134,40 +147,42 @@
     margin: 0 0 28px 0;
     font-size: 18px;
     text-align: right;
-    height: 111px;
+    height: 76px;
     position: relative;
-    top: -93px;
-    left: 16px;
+    top: -121px;
+    left: 192px;
 }
 
 
 
 #sc_page04_graph_vertical_numbers li:nth-child(1) {
     position: relative;
-    top: -106px;
+    top: -131px;
     left: -4px;
 }
 #sc_page04_graph_vertical_numbers li:nth-child(2) {
     position: relative;
-    top: -103px;
+    top: -122px;
     left: 12px;
 }
 
 #sc_page04_graph_horizontal_numbers {
     position:absolute;
-    top: 565px;
-    left: 33px;
+    top: 433px;
+    left: 31px;
+    width: 100%;
 }
 
 #sc_page04_graph_horizontal_numbers ul {
     list-style:none;
     padding:0;
     margin:0;
+    width: 700px;
 }
 
 #sc_page04_graph_horizontal_numbers li {
-    width: 88px;
-    margin: 0 0px 0 0;
+    width: 76px;
+    margin: 0 0px 0 0px;
     display:inline-block;
     font-size:18px;
     text-align:left;
@@ -175,31 +190,33 @@
 
 #sc_page04_graph_content_large .graph1_vertical_axis_title_large {
     position: absolute;
-    left: -405px;
+    left: -306px;
     top: 186px;
     font-size: 18px;
     -webkit-transform: rotate(-90deg);
     z-index: 20;
-    margin:0;
-    padding:0;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 #sc_page04_graph_content_large .graph1_horizontal_axis_title_large {
     position: absolute;
-    left: 212px;
-    top: 578px;
-    font-size: 21px;
+    left: 243px;
+    top: 461px;
+    font-size: 19px;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 #sc_page04_graph_content_large .graph1_vertical_axis_title_large-right {
     position: absolute;
-    right: -278px;
+    right: -347px;
     top: 186px;
     font-size: 18px;
     -webkit-transform: rotate(-90deg);
     z-index: 20;
-    margin:0;
-    padding:0;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 #sc_page04_graph_content_large .graph1_horizontal_axis_title_large-right {
@@ -237,10 +254,10 @@
 
 #sc_page04_graph_content_large .graph1_bottom_text_large {
     position: absolute;
-    top: 631px;
-    left: -50px;
-    font-size: 14px;
-    margin:0;
+    top: 502px;
+    left: 27px;
+    font-size: 11px;
+    margin: 0 !important;
     padding:0 !important;
 
     width: 100%;
