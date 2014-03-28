@@ -56,7 +56,18 @@ document.addEventListener('contentLoad', function() {
         sectionNumber = 3;
         console.log("**** Section number = ", sectionNumber );
         console.log("**** Short Call Selected");
+
+            $("#main_menu_btn1").hide();
+            $("#main_menu_btn2").hide();
+            $("#main_menu_btn3").hide();
+            $("#main_menu_btn4").hide();
+            $("#main_menu_btn5").hide();
+            $("#main_menu_btn6").hide();
+
+
     });
+
+
 
     SCpopup01.unbind('click').click(function() {
         app.goTo("ShortCallPopUp01");
@@ -120,6 +131,15 @@ document.addEventListener('contentLoad', function() {
 	matchStickBtn.unbind('click').click(function() {
 		app.goTo("SplashPage");
 		console.log("**** Back to splash");
+
+        $("#main_menu_btn1").show();
+        $("#main_menu_btn2").show();
+        $("#main_menu_btn3").show();
+        $("#main_menu_btn4").show();
+        $("#main_menu_btn5").show();
+        $("#main_menu_btn6").show();
+
+
 	});
 	
 	neulastaLogo.unbind('click').click(function() {

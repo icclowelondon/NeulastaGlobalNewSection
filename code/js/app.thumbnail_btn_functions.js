@@ -6,7 +6,10 @@ function mainNavSummary() {
 	    app.goTo("Summary","key_messages");
 	} else if (sectionNumber == 2) {
 		 app.goTo("SummaryP","key_messages_p");
-	}
+	} else if (sectionNumber === 3) {
+        $("#main_menu_btn1").hide();
+        console.log('======>1');
+    }
 }
 
 /* Burden of FN Section Buttons */
