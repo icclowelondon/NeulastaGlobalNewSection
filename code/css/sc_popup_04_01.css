@@ -8,9 +8,10 @@
 #slide-title_popup0401{
     z-index: 10000;
     position: relative;
-    left: 46px;
+    left: 84px;
     text-align: center;
     top: 31px;
+    font-size: 14pt;
     margin: 0 !important;
     padding: 0 !important;
 }
