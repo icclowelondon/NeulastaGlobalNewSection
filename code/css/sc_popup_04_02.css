@@ -7,11 +7,12 @@
 #slide-title_sc_popup0402 {
     z-index: 10000;
     position: relative;
-    left: 60px;
+    left: 85px;
     text-align: center;
     top: 43px;
     padding: 0 !important;
     margin: 0 !important;
+    font-size: 14pt;
 }
 #sc_popup_04_02 #bottom-copy {
     position: relative;
@@ -196,7 +197,7 @@
 
 #sc_popup_04_02_graph_content_large .graph1_vertical_axis_title_large-right {
     position: absolute;
-    right: -285px;
+    right: -301px;
     top: 152px;
     font-size: 18px;
     -webkit-transform: rotate(-90deg);
@@ -267,5 +268,5 @@
 #container_popup_04_02 img {
     position: relative;
     left: 91px;
-    top: 77px;
+    top: 70px;
 }

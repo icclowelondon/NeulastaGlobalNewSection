@@ -4,12 +4,12 @@
     height: 445px;
     position:absolute;
     top: 154px;
-    left: 137px;
+    left: 136px;
 }
 
 #sc_page06_graph2_holder img {
     position:absolute;
-    top: 19px;
+    top: 38px;
     left: 80px;
 }
 
@@ -19,14 +19,14 @@
     overflow:hidden;
     position:absolute;
     left: 111px;
-    bottom: 136px;
+    bottom: 114px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
 }
 
 #sc_page06_graph2_arrow1 img {
     position:absolute;
-    top: -46px;
+    top: -25px;
     left: -8px;
 }
 
@@ -36,7 +36,7 @@
     overflow:hidden;
     position:absolute;
     left: 206px;
-    top: 118px;
+    top: 137px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
 }
@@ -53,14 +53,14 @@
     overflow:hidden;
     position:absolute;
     left: 76px;
-    bottom: 135px;
+    bottom: 117px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
 }
 
 #sc_page06_graph2_arrow3 img {
     position:absolute;
-    top: -61px;
+    top: -39px;
     left: 132px;
 }
 
@@ -72,7 +72,7 @@
     overflow:hidden;
     position:absolute;
     left: 346px;
-    bottom: 136px;
+    bottom: 115px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
 }
@@ -106,14 +106,14 @@
     overflow:hidden;
     position:absolute;
     left: 307px;
-    bottom: 136px;
+    bottom: 117px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
 }
 
 #sc_page06_graph2_arrow3-2 img {
     position:absolute;
-    top: -61px;
+    top: -60px;
     left: 132px;
 }
 
@@ -129,7 +129,7 @@
     overflow:hidden;
     position:absolute;
     left: 573px;
-    bottom: 136px;
+    bottom: 115px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
 }
@@ -163,7 +163,7 @@
     overflow:hidden;
     position:absolute;
     left: 536px;
-    bottom: 136px;
+    bottom: 115px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
 }
@@ -195,7 +195,7 @@
     margin-left: 19px;
     z-index: 10;
     font-size: 12px;
-    top: 24px;
+    top: 46px;
     margin-bottom: 43px;
 }
 
@@ -328,11 +328,12 @@
     letter-spacing: -1px;
     color: black;
     text-align: center;
+    padding-bottom: 4px;
 }
 
 #cooper_2011_graph2_content #graph2_legend1_sc_page06 {
     position: absolute;
-    top: 25px;
+    top: 43px;
     left: 351px;
     font-size: 9px;
 }
@@ -346,7 +347,7 @@
 
 #cooper_2011_graph2_content #graph2_vertical_axis_title_sc_page06 {
     position: absolute;
-    top: -126px;
+    top: -127px;
     -webkit-transform: rotate(-90deg);
     left: -315px;
     font-size: 14px;
@@ -362,7 +363,7 @@
 
 #cooper_2011_graph2_content #graph2_legend2_sc_page06 {
     position: absolute;
-    top: 42px;
+    top: 61px;
     left: 352px;
     font-size: 9px;
 }
@@ -389,14 +390,14 @@
 
 #sc_page06 #chart2-value{
     position: absolute;
-    top: 254px;
+    top: 271px;
     left: 454px;
 }
 
 #sc_page06 #footer-chart1 {
      position: absolute;
  
-     top: 300px;
+     top: 318px;
      left: -146px;
      text-align: center;
      font-size: 10pt;
@@ -404,14 +405,14 @@
 
 #sc_page06 #footer-chart2 {
     position: absolute;
-    top: 300px;
+    top: 319px;
     text-align: center;
     left: 82px;
     font-size: 10pt;
 }
 #sc_page06 #footer-chart3 {
     position: absolute;
-    top: 300px;
+    top: 320px;
     text-align: center;
     font-size: 10pt;
     left: 316px;

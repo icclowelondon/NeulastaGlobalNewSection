@@ -57,7 +57,7 @@
 
         // Dev tool
 
-        devSection:['sc_page02']
+        devSection:['sc_page01']
 
     }
 

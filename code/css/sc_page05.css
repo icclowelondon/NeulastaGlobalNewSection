@@ -190,7 +190,7 @@
 #cooper_2011_graph2_content #graph2_title_sc_page_05 {
     font-size: 16px;
     position: absolute;
-    top: 55px;
+    top: 27px;
     left: 176px;
     letter-spacing: -1px;
     color: black;
@@ -223,7 +223,7 @@
 #cooper_2011_graph2_content #graph2_bottom_text_sc_page_05 {
     position: absolute;
     font-size: 9px;
-    bottom: 19px;
+    bottom: 1px;
     left: 50px;
     text-align: center;
 }
@@ -233,5 +233,35 @@
     top: 71px;
     left: 185px;
     font-size: 9px;
+    text-align: center;
+}
+
+
+#sc_page05_first_footer_label{
+position: absolute;
+top: 298px;
+text-align: center;
+left: -106px;
+font-size: 9pt;
+}
+#sc_page05_second_footer_label{
+position: absolute;
+text-align: center;
+top: 301px;
+font-size: 9pt;
+}
+#sc_page05_third_footer_label{
+position: absolute;
+top: 300px;
+text-align: center;
+font-size: 9pt;
+left: 145px;
+}
+
+#sc_page05_fourth_footer_label{
+    position: absolute;
+    left: 237px;
+    top: 301px;
+    font-size: 9pt;
     text-align: center;
 }
