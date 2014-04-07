@@ -95,8 +95,8 @@
 #sc_popup_05_graph2_bar3_text {
     position: absolute;
     color: white;
-    top: 67px;
-    left: 104px;
+    top: 10px;
+    left: 107px;
     z-index: 100;
     text-align: center;
     font-size: 10px;
@@ -106,7 +106,7 @@
 #sc_popup_05_graph2_bar2_text {
     position: absolute;
     color: white;
-    top: 17px;
+    top: 4px;
     left: -55px;
     z-index: 100;
     text-align: center;
