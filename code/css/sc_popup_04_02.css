@@ -31,26 +31,26 @@
 /* GRAPH */
  #legend1_sc_popup0402{
     position: absolute;
-    top: 141px;
-    left: 359px;
-    font-size: 12pt;
+    top: 168px;
+    left: 353px;
+    font-size: 15px;
     margin: 0 !important;
     padding: 0 !important;
 }
 
 #legend2_sc_popup0402{
     position: absolute;
-    top: 117px;
-    left: 362px;
-    font-size: 12pt;
+    top: 143px;
+    left: 353px;
+    font-size: 15px;
     padding: 0 !important;
     margin: 0 !important;
 }
 #legend3_sc_popup0402{
     position: absolute;
-    top: 164px;
-    left: 355px;
-    font-size: 12pt;
+    top: 194px;
+    left: 353px;
+    font-size: 15px;
     padding: 0 !important;
     margin: 0 !important;
 }
@@ -104,8 +104,8 @@
 #sc_popup_04_02_graph_vertical_numbers {
     width:20px;
     position:absolute;
-    top: 171px;
-    left: 51px;
+    top: 154px;
+    left: 73px;
 }
 
 #sc_popup_04_02_graph_vertical_numbers ul {
@@ -117,8 +117,8 @@
 
 #sc_popup_04_02_graph_vertical_numbers li {
     width:20px;
-    margin: 0 0 28px 0;
-    font-size: 18px;
+    margin: 0 0 35px 0;
+    font-size: 15px;
     text-align: right;
     height: 36px;
     position: relative;
@@ -130,7 +130,7 @@
 #sc_popup_04_02_graph_vertical_numbers-right {
     width:20px;
     position:absolute;
-    top: 178px;
+    top: 156px;
     right: 116px;
 }
 
@@ -143,13 +143,13 @@
 
 #sc_popup_04_02_graph_vertical_numbers-right li {
     width:20px;
-    margin: 0 0 28px 0;
-    font-size: 18px;
+    margin: 0 0 35px 0;
+    font-size: 15px;
     text-align: right;
     height: 25px;
     position: relative;
     top: -22px;
-    left: 16px;
+    left: 14px;
 }
 
 
@@ -157,8 +157,8 @@
 
 #sc_popup_04_02_graph_horizontal_numbers {
     position:absolute;
-    top: 499px;
-    left: 114px;
+    top: 516px;
+    left: 147px;
 }
 
 #sc_popup_04_02_graph_horizontal_numbers ul {
@@ -168,17 +168,17 @@
 }
 
 #sc_popup_04_02_graph_horizontal_numbers li {
-    width: 44px;
+    width: 41px;
     margin: 0 0px 0 0;
     display:inline-block;
-    font-size:18px;
+    font-size: 15px;
     text-align:left;
 }
 
 #sc_popup_04_02_graph_content_large .graph1_vertical_axis_title_large {
     position: absolute;
-    left: -289px;
-    top: 143px;
+    left: -301px;
+    top: 191px;
     font-size: 18px;
     -webkit-transform: rotate(-90deg);
     z-index: 20;
@@ -189,15 +189,15 @@
 #sc_popup_04_02_graph_content_large .graph1_horizontal_axis_title_large {
     position: absolute;
     left: 358px;
-    top: 527px;
-    font-size: 21px;
+    top: 541px;
+    font-size: 18px;
     margin: 0 !important;
     padding: 0 !important;
 }
 
 #sc_popup_04_02_graph_content_large .graph1_vertical_axis_title_large-right {
     position: absolute;
-    right: -301px;
+    right: -288px;
     top: 152px;
     font-size: 18px;
     -webkit-transform: rotate(-90deg);
@@ -241,7 +241,7 @@
 
 #sc_popup_04_02_graph_content_large .graph1_bottom_text_large {
     position: absolute;
-    top: 564px;
+    top: 570px;
     left: 227px;
     font-size: 14px;
     margin: 0 !important;
@@ -252,7 +252,7 @@
 
 
 #enlarge_graph_1_sc_popup_04_02 {
-    top: 116px;
+    top: 121px;
     left: 790px;
     z-index: 100000;
 }
@@ -267,6 +267,8 @@
 
 #container_popup_04_02 img {
     position: relative;
-    left: 91px;
-    top: 70px;
+    left: 117px;
+    top: 51px;
+    width: 684px;
+    height: auto;
 }

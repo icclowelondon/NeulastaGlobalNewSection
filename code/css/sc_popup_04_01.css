@@ -32,34 +32,34 @@
 /* GRAPH */
 #legend1_popup0401{
     position: absolute;
-    top: 68px;
-    left: 70px;
-    font-size: 12pt;
+    top: 58px;
+    left: 112px;
+    font-size: 15px;
     margin: 0 !important;
     padding: 0 !important;
 }
 
 #legend2_popup0401{
     position: absolute;
-    top: 91px;
-    left: 70px;
-    font-size: 12pt;
+    top: 79px;
+    left: 113px;
+    font-size: 15px;
     padding: 0 !important;
     margin: 0 !important;
 }
 #legend3_popup0401{
     position: absolute;
-    top: 114px;
-    left: 70px;
-    font-size: 12pt;
+    top: 102px;
+    left: 113px;
+    font-size: 15px;
     margin: 0 !important;
     padding: 0 !important;
 }
 #legend4_popup0401{
     position: absolute;
-    top: 70px;
-    left: 298px;
-    font-size: 12pt;
+    top: 57px;
+    left: 310px;
+    font-size: 15px;
     margin: 0 !important;
     padding: 0 !important;
 }
@@ -83,6 +83,12 @@
     left: 116px;
     top: 36px;
 }
+
+#sc_popup_04_01_graph_holder img {
+    margin-left: 50px;
+    margin-top: 35px;
+}
+
 
 #sc_popup_04_01_graph_holder .poz_graph_1 {
     position: absolute;
@@ -120,22 +126,22 @@
 }
 
 #sc_popup_04_01_graph_vertical_numbers li {
-    width: 18px;
+    width: 15px;
     margin: 0 0 0px 0;
-    font-size: 18px;
+    font-size: 15px;
     text-align: right;
-    height: 59px;
+    height: 64px;
     position: relative;
-    top: -66px;
-    left: 16px;
+    top: -71px;
+    left: 57px;
 }
 
 
 #sc_popup_04_01_graph_vertical_numbers-right {
     width:20px;
     position:absolute;
-    top: 210px;
-    right: 140px;
+    top: 194px;
+    right: 177px;
 }
 
 #sc_popup_04_01_graph_vertical_numbers-right ul {
@@ -147,8 +153,8 @@
 
 #sc_popup_04_01_graph_vertical_numbers-right li {
     width: 18px;
-    margin: 0 0 28px 0;
-    font-size: 18px;
+    margin: 0 0 37px 0;
+    font-size: 15px;
     text-align: right;
     height: 70px;
     position: relative;
@@ -160,20 +166,20 @@
 
 #sc_popup_04_01_graph_vertical_numbers li:nth-child(1) {
     position: relative;
-    top: -106px;
-    left: -4px;
+    top: -116px;
+    left: 52px;
     height: 22px;
 }
 #sc_popup_04_01_graph_vertical_numbers li:nth-child(3) {
     position: relative;
-    top: -63px;
-    left: 12px;
+    top: -67px;
+    left: 63px;
 }
 
 #sc_popup_04_01_graph_horizontal_numbers {
     position:absolute;
-    top: 431px;
-    left: 26px;
+    top: 438px;
+    left: 76px;
     width: 755px;
 }
 
@@ -184,17 +190,17 @@
 }
 
 #sc_popup_04_01_graph_horizontal_numbers li {
-    width: 77px;
+    width: 64px;
     margin: 0 0px 0 0;
     display:inline-block;
-    font-size:18px;
+    font-size: 15px;
     text-align:left;
 }
 
 #sc_popup_04_01_graph_content_large .graph1_vertical_axis_title_large {
     position: absolute;
-    left: -304px;
-    top: 186px;
+    left: -265px;
+    top: 220px;
     font-size: 18px;
     -webkit-transform: rotate(-90deg);
     z-index: 20;
@@ -205,16 +211,16 @@
 #sc_popup_04_01_graph_content_large .graph1_horizontal_axis_title_large {
     position: absolute;
     left: 241px;
-    top: 461px;
-    font-size: 21px;
+    top: 465px;
+    font-size: 17px;
     margin: 0 !important;
     padding: 0 !important;
 }
 
 #sc_popup_04_01_graph_content_large .graph1_vertical_axis_title_large-right {
     position: absolute;
-    right: -347px;
-    top: 186px;
+    right: -300px;
+    top: 229px;
     font-size: 18px;
     -webkit-transform: rotate(-90deg);
     z-index: 20;
@@ -269,8 +275,8 @@
 }
 
 #enlarge_graph_1_sc_popup_04_01 {
-    top: 130px;
-    left: 790px;
+    top: 142px;
+    left: 787px;
 
 }
 

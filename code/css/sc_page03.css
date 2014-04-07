@@ -1,15 +1,16 @@
 
 #sc_page03 h4 {
-    color: rgb(174, 27, 53 );
+    color: rgb(174, 27, 53);
     margin-left: 346px;
     margin-top: 40px;
 
 }
 #sc_page03 #bottom-copy {
     position: relative;
-    top: 457px;
-    width: 703px;
-    margin-left: 117px;
+    top: 460px;
+    width: 644px;
+    margin-left: 222px;
+    font-size: 15px;
 }
 /* GRAPH */
 #legend1_sc_page03{
@@ -18,31 +19,48 @@ position: absolute;
 top: 120px;
     
 left: 400px;
-font-size: 15pt;
+font-size: 15px;
     margin: 0 !important;
-    padding: 0 !important;
+    
+padding: 1px 0 0 20px !important;
+    background:url(../../content/images/gr-bl.png) no-repeat;
+/* padding-left: 18px !important; */
+height: 15px;
+background-position-x: 0px;
+background-position-y: -3px;
+/* padding-top: 1px; */
 }
 
 #legend2_sc_page03{
     position: absolute;
-    top: 145px;
-    left: 400px;
-    font-size: 15pt;
+    top: 137px;
+    left: 401px;
+    font-size: 15px;
     margin: 0 !important;
-    padding: 0 !important;
+    padding: 5px 0 0 17px !important;
+    background: url(../../content/images/gr-bl.png) no-repeat; 
+    /* padding-left: 18px !important; */ 
+    height: 15px; 
+    background-position-x: -1px; 
+    background-position-y: -20px; padding-top: 1px;
 }
 
 #white-slogan{
         position: absolute;
-        font-size: 17pt;
+        font-size: 16px;
         color: rgb(255, 255, 255);
-        top: 82px;
-        left: 51px;
-        width: 221px;
+        top: 56px;
+        left: 82px;
+        width: 180px;
         text-align: center;
         line-height: 122%;
         margin: 0 !important;
-        padding: 0 !important;
+        padding: 29px !important;
+        background: #0072b0;
+        height: 180px;
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
+        box-sizing: border-box;
 }
 
 #sc_page03_large
@@ -50,7 +68,7 @@ font-size: 15pt;
     width: 890px;
     height: 450px;
     -webkit-transform: scale(0.7);
-    left: 63px;
+    left: 89px;
     position: absolute;
     top: 50px;
 }
@@ -73,6 +91,10 @@ font-size: 15pt;
     top: -93px;
 }
 
+#sc_page03_graph_holder img {
+    margin-left: 32px;
+}
+
 #sc_page03_graph_holder .poz_graph_2 {
     position: absolute;
     right: -201px;
@@ -87,14 +109,14 @@ font-size: 15pt;
     /*top: 116px;*/
     position: relative;
     left: 95px;
-    top: 40px;
+    top: 60px;
 }
 
 #sc_page03_graph_vertical_numbers {
     width:20px;
     position:absolute;
-    top: 113px;
-    left: -41px;
+    top: 98px;
+    left: -21px;
 }
 
 #sc_page03_graph_vertical_numbers ul {
@@ -107,18 +129,18 @@ font-size: 15pt;
 #sc_page03_graph_vertical_numbers li {
     width:20px;
     margin: 0 0 28px 0;
-    font-size: 18px;
+    font-size: 15px;
     text-align: right;
-    height: 48px;
+    height: 51px;
     position: relative;
     top: -93px;
-    left: 16px;
+    left: 27px;
 }
 
 #sc_page03_graph_horizontal_numbers {
     position:absolute;
     top: 429px;
-    left: 12px;
+    left: 43px;
 }
 
 #sc_page03_graph_horizontal_numbers ul {
@@ -128,16 +150,16 @@ font-size: 15pt;
 }
 
 #sc_page03_graph_horizontal_numbers li {
-    width: 46px;
+    width: 42px;
     margin: 0 0px 0 0;
     display:inline-block;
-    font-size:18px;
+    font-size: 15px;
     text-align:left;
 }
 
 #sc_page03_graph_content_large .graph1_vertical_axis_title_large {
     position: absolute;
-    left: -387px;
+    left: -370px;
     top: -80px;
     font-size: 18px;
     -webkit-transform: rotate(-90deg);
@@ -148,9 +170,9 @@ font-size: 15pt;
 
 #sc_page03_graph_content_large .graph1_horizontal_axis_title_large {
     position: absolute;
-    left: 190px;
+    left: 230px;
     top: 460px;
-    font-size: 21px;
+    font-size: 18px;
     margin:0 !important;
     padding: 0 !important;
 }
@@ -191,7 +213,7 @@ font-size: 15pt;
 }
 
 #enlarge_graph_1_sc_page03 {
-    top: 120px;
-    left: 743px;
+    top: 136px;
+    left: 775px;
 }
 

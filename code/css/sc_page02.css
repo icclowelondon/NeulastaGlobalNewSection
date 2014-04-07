@@ -91,8 +91,8 @@
 #sc_page02_graph_vertical_numbers {
     width:20px;
     position:absolute;
-    top: 77px;
-    left: 101px;
+    top: 151px;
+    left: 121px;
 }
 
 #sc_page02_graph_vertical_numbers ul {
@@ -104,7 +104,7 @@
 
 #sc_page02_graph_vertical_numbers li {
     width:20px;
-    margin: 0 0 29px 0;
+    margin: 0 0 17px 0;
     font-size:18px;
     text-align:right;
 }
@@ -117,13 +117,13 @@
 }
 
 #sc_page02_graph_vertical_numbers li:nth-child(4){
-    height: 50px;
+    height: 57px;
 }
 
 #sc_page02_graph_horizontal_numbers {
     position:absolute;
-    top: 419px;
-    left: 156px;
+    top: 439px;
+    left: 185px;
 }
 
 #sc_page02_graph_horizontal_numbers ul {
@@ -133,7 +133,7 @@
 }
 
 #sc_page02_graph_horizontal_numbers li {
-    width: 109px;
+    width: 91px;
     margin: 0 0px 0 0;
     display:inline-block;
     font-size:18px;
@@ -148,7 +148,7 @@
 }
 #sc_page02_graph_content_large .graph1_vertical_axis_title_large {
     position: absolute;
-    left: -285px;
+    left: -255px;
     top: -20px;
     font-size: 18px;
     -webkit-transform: rotate(-90deg);
@@ -182,18 +182,18 @@
 }
 #sc_page02_graph_content_large .graph1_legend_3_large {
     position: absolute;
-    font-size: 14px;
-    top: 553px;
-    left: 358px;
+    font-size: 15px;
+    top: 545px;
+    left: 362px;
     margin: 0 !important;
     padding: 0 !important;
 }
 
 #sc_page02_graph_content_large .graph1_bottom_text_large {
     position: absolute;
-    top: 552px;
-    left: 172px;
-    font-size: 14px;
+    top: 545px;
+    left: 208px;
+    font-size: 15px;
     margin: 0 !important;
     padding:0 !important;
 
@@ -210,8 +210,8 @@
 #sc_page02_graph_vertical_numbers2 {
     width:20px;
     position:absolute;
-    top: 23px;
-    left: 62px;
+    top: 98px;
+    left: 141px;
 }
 
 #sc_page02_graph_vertical_numbers2 ul {
@@ -228,20 +228,20 @@
     text-align:right;
 }
 #sc_page02_graph_vertical_numbers2 li:nth-child(2) {
-    height: 67px;
+    height: 65px;
 }
 #sc_page02_graph_vertical_numbers2 li:nth-child(4) {
-    height: 78px;
+    height: 63px;
 }
 #sc_page02_graph_vertical_numbers2 li:nth-child(6) {
-    height: 73px;
+    height: 62px;
 }
 
 #sc_page02_graph_horizontal_numbers2 {
     width:670px;
     position:absolute;
-    top: 398px;
-    left: 117px;
+    top: 446px;
+    left: 211px;
 }
 
 #sc_page02_graph_horizontal_numbers2 ul {
@@ -252,33 +252,33 @@
 }
 
 #sc_page02_graph_horizontal_numbers2 li {
-    width: 77px;
+    width: 58px;
     margin: 0 0px 0 0;
     display:inline-block;
     font-size:18px;
     text-align:left;
 }
 /*#sc_page02_graph_horizontal_numbers2 li:last-child{*/
-    /*position: relative;*/
-    /*top: -22px;*/
-    /*left: 676px*/
+/*position: relative;*/
+/*top: -22px;*/
+/*left: 676px*/
 /*}*/
 
 #sc_page02_graph_content_large2 .graph1_vertical_axis_title_large {
     position: absolute;
-    left: -300px;
+    left: -242px;
     top: 0px;
     font-size: 18px;
     -webkit-transform: rotate(-90deg);
     z-index: 20;
-    margin:0;
-    padding:0;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 #sc_page02_graph_content_large2 .graph1_horizontal_axis_title_large {
     position: absolute;
-    left: 273px;
-    top: 519px;
+    left: 339px;
+    top: 550px;
     font-size: 14px;
     padding: 0!important;
     margin: 0!important;
@@ -311,9 +311,9 @@
 
 #sc_page02_graph_content_large2 .graph1_bottom_text_large {
     position: absolute;
-    top: 524px;
-    left: 102px;
-    font-size: 14px;
+    top: 550px;
+    left: 204px;
+    font-size: 15px;
     margin: 0 !important;
     padding:0 !important;
 
@@ -327,13 +327,13 @@
 }
 
 #enlarge_graph_1_sc_page02 {
-    top: 43px;
-    left: 369px;
+    top: 55px;
+    left: 352px;
 }
 
 #enlarge_graph_2_sc_page02 {
-    top: -10px;
-    left: 843px;
+    top: 7px;
+    left: 839px;
 }
 
 #container_page02-1{
@@ -343,9 +343,9 @@
 }
 
 #container_page02-1 img {
-    left: 145px;
+    left: 170px;
     position: relative;
-    top: 6px;
+    top: 83px;
 }
 
 #container_page02-2{
@@ -355,9 +355,9 @@
 }
 
 #container_page02-2 img {
-    left: 27px;
+    left: 170px;
     position: relative;
-    top: 6px;
+    top: 83px;
 }
 #sc_page02_graphfooter {
     position: absolute;
