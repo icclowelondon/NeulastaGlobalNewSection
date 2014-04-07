@@ -1,14 +1,14 @@
 #sc_page05 #sub-title {
     color: rgb(174, 27, 53 );
     margin-left: 453px;
-    margin-top: 18px;
+    margin-top: 32px;
 
 }
 #sc_page05 #list {
     position: relative;
     width: 62%;
     left: 178px;
-    top: 33px;
+    top: 20px;
 }
 
 #sc_page05 #list li {
@@ -34,11 +34,11 @@
 }
 
 #sc_page_05_graph2_arrow1 {
-    width: 115px;
+    width: 119px;
     height:177px;
     overflow:hidden;
     position:absolute;
-    left: 80px;
+    left: 77px;
     bottom: 79px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
@@ -71,11 +71,11 @@
 
 
 #sc_page_05_graph2_arrow1-2 {
-    width: 115px;
+    width: 118px;
     height:177px;
     overflow:hidden;
     position:absolute;
-    left: 328px;
+    left: 325px;
     bottom: 79px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
@@ -90,12 +90,12 @@
 
 
 #sc_page_05_graph2_arrow3-2 {
-    width: 271px;
+    width: 272px;
     height:111px;
     overflow:hidden;
     position:absolute;
     left: 271px;
-    bottom: 78px;
+    bottom: 79.5px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
 }
@@ -147,7 +147,7 @@
 #sc_page_05_graph2_bar1_text {
     position: absolute;
     color: white;
-    top: 60px;
+    top: -11px;
     left: -50px;
     z-index: 100;
     text-align: center;
@@ -172,8 +172,8 @@
 #sc_page_05_graph2_bar1_text-2 {
     position: absolute;
     color: white;
-    top: 60px;
-    left: -50px;
+    top: -10px;
+    left: -44px;
     z-index: 100;
     text-align: center;
     font-size: 10px;
@@ -214,7 +214,7 @@
 
 #cooper_2011_graph2_content #graph2_vertical_axis_title_sc_page_05 {
     position: absolute;
-    top: 34px;
+    top: -3px;
     -webkit-transform: rotate(-90deg);
     left: -229px;
     font-size: 14px;

@@ -18,8 +18,8 @@
     height:177px;
     overflow:hidden;
     position:absolute;
-    left: 111px;
-    bottom: 114px;
+    left: 110px;
+    bottom: 117px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
 }
@@ -31,11 +31,11 @@
 }
 
 #sc_page06_graph2_arrow2 {
-    width: 102px;
+    width: 129px;
     height:64px;
     overflow:hidden;
     position:absolute;
-    left: 206px;
+    left: 203px;
     top: 137px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
@@ -67,12 +67,12 @@
 /*SECOND CHART POSITION */
 
 #sc_page06_graph2_arrow1-2 {
-    width: 84px;
+    width: 85px;
     height:177px;
     overflow:hidden;
     position:absolute;
-    left: 346px;
-    bottom: 115px;
+    left: 345px;
+    bottom: 117px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
 }
@@ -124,12 +124,12 @@
 /*THIRD CHART POSITION */
 
 #sc_page06_graph2_arrow1-3 {
-    width: 84px;
+    width: 85px;
     height:177px;
     overflow:hidden;
     position:absolute;
     left: 573px;
-    bottom: 115px;
+    bottom: 117px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
 }
@@ -163,7 +163,7 @@
     overflow:hidden;
     position:absolute;
     left: 536px;
-    bottom: 115px;
+    bottom: 117px;
     -webkit-transition: height .75s;
     -webkit-backface-visibility: hidden;
 }
@@ -370,20 +370,20 @@
 
 #sc_page06 #P-value1 {
     position: absolute;
-    top: 65px;
-    left: 165px;
+    top: 97px;
+    left: 146px;
     font-size: 8pt;
 }
 
 #sc_page06 #P-value2 {
     position: absolute;
     left: 616px;
-    top: 159px;
+    top: 178px;
     font-size: 8pt;
 }
 #sc_page06 #P-value3 {
     position: absolute;
-    top: 107px;
+    top: 125px;
     left: 393px;
     font-size: 8pt;
 }
