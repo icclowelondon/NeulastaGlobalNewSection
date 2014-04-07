@@ -4,12 +4,15 @@
     margin-top: 20px;
 
 }
-#sc_popup_04_02 #slide-title {
+#slide-title_sc_popup0402 {
     z-index: 10000;
     position: relative;
-    left: 11px;
+    left: 85px;
     text-align: center;
-    top: 70px;
+    top: 43px;
+    padding: 0 !important;
+    margin: 0 !important;
+    font-size: 14pt;
 }
 #sc_popup_04_02 #bottom-copy {
     position: relative;
@@ -26,26 +29,32 @@
 }
 
 /* GRAPH */
-#sc_popup_04_02 #legend1{
+ #legend1_sc_popup0402{
     position: absolute;
-    top: 18px;
-    left: 298px;
+    top: 141px;
+    left: 359px;
     font-size: 12pt;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
-#sc_popup_04_02 #legend2{
+#legend2_sc_popup0402{
     position: absolute;
-    top: -10px;
-    left: 297px;
+    top: 117px;
+    left: 362px;
     font-size: 12pt;
+    padding: 0 !important;
+    margin: 0 !important;
 }
-#sc_popup_04_02 #legend3{
+#legend3_sc_popup0402{
     position: absolute;
-    top: 48px;
-    left: 298px;
+    top: 164px;
+    left: 355px;
     font-size: 12pt;
+    padding: 0 !important;
+    margin: 0 !important;
 }
-#sc_popup_04_02 #legend4{
+#legend4_sc_popup0402{
     position: absolute;
     top: 59px;
     left: 279px;
@@ -66,7 +75,10 @@
 #sc_popup_04_02_large
 {
     width:840px;
-    -webkit-transform: scale(0.6);
+    -webkit-transform: scale(0.7);
+    position: absolute;
+    left: 63px;
+    top: 54px;
 }
 
 #sc_popup_04_02_graph_holder .poz_graph_1 {
@@ -82,18 +94,18 @@
 }
 
 #sc_popup_04_02_graph_holder {
-    right: 193px;
-    width: 600px;
+    right: 184px;
+    width: 598px;
     height: 448px;
     position: absolute;
-    top: 110px;
+    top: 85px;
 }
 
 #sc_popup_04_02_graph_vertical_numbers {
     width:20px;
     position:absolute;
-    top: 158px;
-    left: -35px;
+    top: 171px;
+    left: 51px;
 }
 
 #sc_popup_04_02_graph_vertical_numbers ul {
@@ -108,9 +120,9 @@
     margin: 0 0 28px 0;
     font-size: 18px;
     text-align: right;
-    height: 51px;
+    height: 36px;
     position: relative;
-    top: -93px;
+    top: -16px;
     left: 16px;
 }
 
@@ -118,8 +130,8 @@
 #sc_popup_04_02_graph_vertical_numbers-right {
     width:20px;
     position:absolute;
-    top: 150px;
-    right: 132px;
+    top: 178px;
+    right: 116px;
 }
 
 #sc_popup_04_02_graph_vertical_numbers-right ul {
@@ -134,9 +146,9 @@
     margin: 0 0 28px 0;
     font-size: 18px;
     text-align: right;
-    height: 39px;
+    height: 25px;
     position: relative;
-    top: -93px;
+    top: -22px;
     left: 16px;
 }
 
@@ -145,8 +157,8 @@
 
 #sc_popup_04_02_graph_horizontal_numbers {
     position:absolute;
-    top: 487px;
-    left: 42px;
+    top: 499px;
+    left: 114px;
 }
 
 #sc_popup_04_02_graph_horizontal_numbers ul {
@@ -156,7 +168,7 @@
 }
 
 #sc_popup_04_02_graph_horizontal_numbers li {
-    width: 48px;
+    width: 44px;
     margin: 0 0px 0 0;
     display:inline-block;
     font-size:18px;
@@ -165,26 +177,28 @@
 
 #sc_popup_04_02_graph_content_large .graph1_vertical_axis_title_large {
     position: absolute;
-    left: -405px;
-    top: 186px;
+    left: -289px;
+    top: 143px;
     font-size: 18px;
     -webkit-transform: rotate(-90deg);
     z-index: 20;
-    margin:0;
-    padding:0;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 #sc_popup_04_02_graph_content_large .graph1_horizontal_axis_title_large {
     position: absolute;
-    left: 212px;
-    top: 520px;
+    left: 358px;
+    top: 527px;
     font-size: 21px;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 #sc_popup_04_02_graph_content_large .graph1_vertical_axis_title_large-right {
     position: absolute;
-    right: -278px;
-    top: 186px;
+    right: -301px;
+    top: 152px;
     font-size: 18px;
     -webkit-transform: rotate(-90deg);
     z-index: 20;
@@ -227,17 +241,32 @@
 
 #sc_popup_04_02_graph_content_large .graph1_bottom_text_large {
     position: absolute;
-    top: 572px;
-    left: 70px;
+    top: 564px;
+    left: 227px;
     font-size: 14px;
-    margin:0;
+    margin: 0 !important;
     padding:0 !important;
 
     width: 100%;
 }
 
+
 #enlarge_graph_1_sc_popup_04_02 {
     top: 116px;
     left: 790px;
     z-index: 100000;
+}
+#container_popup_04_02 {
+    width: 840px;
+    height: 600px;
+
+
+    position: relative;
+    left: 17px;
+}
+
+#container_popup_04_02 img {
+    position: relative;
+    left: 91px;
+    top: 70px;
 }

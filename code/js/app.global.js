@@ -208,7 +208,7 @@ document.addEventListener('slideEnter', function() {
     } else if (pageName == "sc_page04") {
         largeGraphContent = $("#sc_page04_large").html();
     } else if (pageName == "sc_popup_04_01") {
-        largeGraphContent = $("#sc_popup_04_01_graph_holder").html();
+        largeGraphContent = $("#sc_popup_04_01_large").html();
     }
     else if (pageName == "sc_popup_04_02") {
         largeGraphContent = $("#sc_popup_04_02_graph_holder").html();

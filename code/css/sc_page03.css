@@ -7,40 +7,64 @@
 }
 #sc_page03 #bottom-copy {
     position: relative;
-    top: 451px;
+    top: 457px;
     width: 703px;
     margin-left: 117px;
 }
 /* GRAPH */
-#sc_page03 #legend1{
+#legend1_sc_page03{
 position: absolute;
-top: 122px;
-left: 433px;
+    
+top: 120px;
+    
+left: 400px;
 font-size: 15pt;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
-#sc_page03 #legend2{
+#legend2_sc_page03{
     position: absolute;
-    top: 150px;
-    left: 433px;
+    top: 145px;
+    left: 400px;
     font-size: 15pt;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
-#sc_page03 #white-slogan{
-    position: absolute;
-    font-size: 19pt;
-    color: rgb(255, 255, 255);
-    top: 77px;
-    left: 48px;
-    width: 221px;
-    text-align: center;
-    line-height: 122%;
+#white-slogan{
+        position: absolute;
+        font-size: 17pt;
+        color: rgb(255, 255, 255);
+        top: 82px;
+        left: 51px;
+        width: 221px;
+        text-align: center;
+        line-height: 122%;
+        margin: 0 !important;
+        padding: 0 !important;
 }
 
 #sc_page03_large
 {
-    width:840px;
-    -webkit-transform: scale(0.6);
+    width: 890px;
+    height: 450px;
+    -webkit-transform: scale(0.7);
+    left: 63px;
+    position: absolute;
+    top: 50px;
+}
+
+
+#graph_container_page_03 {
+    height: 608px;
+    width: 925px;
+    left: 2px;
+    position: relative;
+    width: 858px;
+    top: 5px;
+    padding: 0 !important;
+    margin: 0 !important;
 }
 
 #sc_page03_graph_holder .poz_graph_1 {
@@ -56,11 +80,14 @@ font-size: 15pt;
 }
 
 #sc_page03_graph_holder {
-    right: 230px;
-    width: 600px;
-    height: 394px;
-    position: absolute;
-    top: 116px;
+    /*right: 230px;*/
+    /*width: 600px;*/
+    /*height: 394px;*/
+    /*position: absolute;*/
+    /*top: 116px;*/
+    position: relative;
+    left: 95px;
+    top: 40px;
 }
 
 #sc_page03_graph_vertical_numbers {
@@ -82,7 +109,7 @@ font-size: 15pt;
     margin: 0 0 28px 0;
     font-size: 18px;
     text-align: right;
-    height: 62px;
+    height: 48px;
     position: relative;
     top: -93px;
     left: 16px;
@@ -90,7 +117,7 @@ font-size: 15pt;
 
 #sc_page03_graph_horizontal_numbers {
     position:absolute;
-    top: 506px;
+    top: 429px;
     left: 12px;
 }
 
@@ -101,7 +128,7 @@ font-size: 15pt;
 }
 
 #sc_page03_graph_horizontal_numbers li {
-    width: 52px;
+    width: 46px;
     margin: 0 0px 0 0;
     display:inline-block;
     font-size:18px;
@@ -110,20 +137,22 @@ font-size: 15pt;
 
 #sc_page03_graph_content_large .graph1_vertical_axis_title_large {
     position: absolute;
-    left: -405px;
+    left: -387px;
     top: -80px;
     font-size: 18px;
     -webkit-transform: rotate(-90deg);
     z-index: 20;
-    margin:0;
-    padding:0;
+    margin:0 !important;
+    padding:0 !important;
 }
 
 #sc_page03_graph_content_large .graph1_horizontal_axis_title_large {
     position: absolute;
-    left: 212px;
-    top: 524px;
+    left: 190px;
+    top: 460px;
     font-size: 21px;
+    margin:0 !important;
+    padding: 0 !important;
 }
 
 #sc_page03_graph_content_large .graph1_legend_1_large {
@@ -153,8 +182,8 @@ font-size: 15pt;
 
 #sc_page03_graph_content_large .graph1_bottom_text_large {
     position: absolute;
-    top: 577px;
-    left: 101px;
+    top: 503px;
+    left: 106px;
     font-size: 14px;
     margin:0;
     padding:0 !important;
