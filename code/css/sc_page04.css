@@ -1,3 +1,7 @@
+#sc_page04 .closePopup{
+    right:62px !important;
+}
+
 #sc_page04 h4 {
     color: rgb(174, 27, 53 );
     margin-left: 410px;
@@ -59,8 +63,9 @@
     top: 42px;
     left: 305px;
     margin: 0 !important;
-    padding: 0 !important;
+    padding: 0 26px !important;
     font-size: 15px;
+    background: url("../../content/images/sc_page04/legend.png") no-repeat;
 }
 
 #sc_page04 #white-slogan{
@@ -80,7 +85,7 @@
     -webkit-transform: scale(0.7);
     position: relative;
     top: -84px;
-    left: 71px;
+    left: 89px;
 }
 
 #sc_page04_graph_holder img {
@@ -281,7 +286,7 @@
 }
 
 #enlarge_graph_1_sc_page04 {
-    top: 124px;
-    left: 753px;
+    top: 116px;
+    left: 764px;
 
 }

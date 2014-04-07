@@ -1,7 +1,7 @@
 	(function(global) {
   
   // Uncomment to see trace from framework in console
-  debug();
+  //debug();
   
   // Creating our presentation and global namespace "app"
   global.app = new Presentation({
@@ -58,7 +58,7 @@
         // Dev tool
 
 
-        devSection:['sc_page06']
+        devSection:['sc_page03']
 
 
     }
@@ -88,7 +88,7 @@
 
 
   // Dev Visualisation Tool
-  app.init('SplashPage');
+  app.init('ShortCall');
 
   
 })(window);

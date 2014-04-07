@@ -61,7 +61,8 @@
     left: 310px;
     font-size: 15px;
     margin: 0 !important;
-    padding: 0 !important;
+    padding: 0 25px !important;
+    background: url("../../content/images/sc_page04/legend.png") no-repeat;
 }
 
 #sc_popup_04_01 #white-slogan{

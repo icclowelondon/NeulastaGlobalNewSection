@@ -76,10 +76,9 @@ background-position-y: -3px;
 
 #graph_container_page_03 {
     height: 608px;
-    width: 925px;
     left: 2px;
     position: relative;
-    width: 858px;
+    width: 840px;
     top: 5px;
     padding: 0 !important;
     margin: 0 !important;
@@ -205,7 +204,7 @@ background-position-y: -3px;
 #sc_page03_graph_content_large .graph1_bottom_text_large {
     position: absolute;
     top: 503px;
-    left: 106px;
+    left: 58px;
     font-size: 14px;
     margin:0;
     padding:0 !important;
@@ -214,6 +213,10 @@ background-position-y: -3px;
 
 #enlarge_graph_1_sc_page03 {
     top: 136px;
-    left: 775px;
+    left: 765px;
 }
 
+#sc_page03 .graph1_bottom_text_large{
+    position: absolute;
+    left: 114px;
+}
